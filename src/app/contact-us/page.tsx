@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "Contact Us",
@@ -28,7 +28,7 @@ export default function ContactPage() {
       <section className="py-36 bg-surface-low">
         <div className="max-w-screen-2xl mx-auto px-8">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-20">
-            {/* Left — contact info, large phone, generous spacing */}
+            {/* Left — contact form + info */}
             <div className="lg:col-span-7 space-y-16">
               {/* Phone — hero-scale */}
               <div>
@@ -56,21 +56,10 @@ export default function ContactPage() {
                 </address>
               </div>
 
-              {/* CTA link */}
+              {/* Contact form */}
               <div>
-                <p className="text-on-surface-variant mb-6 text-[1.05rem]">
-                  Prefer us to call you? Leave your details and we&apos;ll reach
-                  out at a time that works.
-                </p>
-                <Link
-                  href="/request-a-call-back"
-                  className="cta-square bg-primary text-on-primary"
-                >
-                  Get a Free Quote
-                  <svg className="ml-3 w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                  </svg>
-                </Link>
+                <span className="label-upper text-gold block mb-8">Request a Call Back</span>
+                <ContactForm />
               </div>
             </div>
 
