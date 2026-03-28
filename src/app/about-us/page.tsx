@@ -82,32 +82,24 @@ export default function AboutPage() {
       {/* Owners */}
       <section className="py-40 bg-surface">
         <div className="max-w-screen-2xl mx-auto px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-20 items-center">
-            {/* Image placeholder */}
-            <div className="lg:col-span-5">
-              <div className="image-placeholder aspect-[4/5] w-full" />
-            </div>
-
-            {/* Text */}
-            <div className="lg:col-span-6 lg:col-start-7">
-              <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
-              <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-                Meet Denise
-              </h2>
-              <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed max-w-lg">
-                <p>
-                  Denise joined Portuguese Housekeeping Services over 30 years ago
-                  and learned every aspect of the business from the ground up. She
-                  got to know every client, every home, and every detail that
-                  mattered to each family.
-                </p>
-                <p>
-                  Over the years, she took over the company and continues to run it
-                  with the same care and personal attention that built its reputation.
-                  When you work with PHS, you work with someone who genuinely knows
-                  the business inside and out.
-                </p>
-              </div>
+          <div className="max-w-2xl">
+            <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
+            <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
+              Meet Denise
+            </h2>
+            <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed">
+              <p>
+                Denise joined Portuguese Housekeeping Services over 30 years ago
+                and learned every aspect of the business from the ground up. She
+                got to know every client, every home, and every detail that
+                mattered to each family.
+              </p>
+              <p>
+                Over the years, she took over the company and continues to run it
+                with the same care and personal attention that built its reputation.
+                When you work with PHS, you work with someone who genuinely knows
+                the business inside and out.
+              </p>
             </div>
           </div>
         </div>
