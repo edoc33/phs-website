@@ -3,7 +3,7 @@ import { GoogleAuth } from "google-auth-library";
 import { Resend } from "resend";
 
 const SHEET_ID = "1e8QF6czZg4U4PcuWPxmbtcWDqM0fe4TFlY26cxmI1vI";
-const NOTIFY_EMAILS = ["eric.docouto@gmail.com", "portugusehousekeeping@gmail.com"];
+const NOTIFY_EMAILS = ["eric.docouto@gmail.com", "portuguesehousekeeping@gmail.com"];
 
 export async function POST(request: Request) {
   try {
@@ -69,7 +69,7 @@ export async function POST(request: Request) {
       const resend = new Resend(process.env.RESEND_API_KEY);
 
       await resend.emails.send({
-        from: "PHS Website <onboarding@resend.dev>",
+        from: "PHS Website <notifications@portuguesemaids.ca>",
         to: NOTIFY_EMAILS,
         subject: `New Call-Back Request: ${firstName} ${lastName}`,
         text: [
