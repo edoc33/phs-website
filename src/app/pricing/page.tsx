@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { JsonLd } from "@/components/JsonLd";
+import { Calculator } from "@/components/Calculator";
 
 export const metadata: Metadata = {
   title: "House Cleaning Prices in Toronto and Mississauga",
@@ -189,6 +190,27 @@ export default function PricingPage() {
               We charge $45 per hour, send the same person every visit, and the
               owner answers the phone.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Calculator */}
+      <section className="py-36 bg-surface">
+        <div className="max-w-screen-2xl mx-auto px-8">
+          <div className="max-w-2xl mb-16">
+            <span className="label-upper text-gold block mb-5">
+              Estimate
+            </span>
+            <h2 className="font-serif fluid-heading text-primary font-normal">
+              Try the calculator.
+            </h2>
+            <p className="text-on-surface-variant text-[1.05rem] leading-relaxed mt-6 max-w-lg">
+              Enter your rooms and get a conservative estimate. This is not a
+              quote, but it gives you a ballpark before you call.
+            </p>
+          </div>
+          <div className="max-w-2xl">
+            <Calculator source="pricing_page" />
           </div>
         </div>
       </section>
