@@ -53,11 +53,11 @@ export function Calculator({ source = "standalone" }: { source?: string }) {
     else if (condition === "long") totalMinutes *= 1.35;
     if (hasPets) totalMinutes *= 1.15;
     if (firstVisit) totalMinutes *= 1.25;
-    totalMinutes *= 1.15; // conservative buffer
+    totalMinutes *= 1.10; // conservative buffer
 
     const hours = totalMinutes / 60;
     const minHours = Math.max(MIN_HOURS, Math.ceil(hours * 2) / 2);
-    const maxHours = Math.max(MIN_HOURS, Math.ceil((hours * 1.15) * 2) / 2);
+    const maxHours = Math.max(MIN_HOURS, Math.ceil((hours * 1.10) * 2) / 2);
     return { minHours, maxHours, minCost: minHours * HOURLY_RATE, maxCost: maxHours * HOURLY_RATE };
   }
 
