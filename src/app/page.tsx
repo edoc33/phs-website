@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 function Hero() {
   return (
@@ -44,7 +45,7 @@ function Hero() {
         {/* Right — image area with editorial float */}
         <div className="lg:col-span-5 relative hidden lg:block">
           <div className="relative h-[540px] w-full">
-            <div className="absolute inset-0 image-placeholder" />
+            <Image src="/images/hero.png" alt="Bright, sunlit living room freshly cleaned by Portuguese Housekeeping Services" fill className="object-cover" priority />
             {/* Editorial float card — overlaps image */}
             <div className="editorial-float absolute -bottom-10 -left-16 p-8 max-w-xs whisper-shadow animate-fade-up-4">
               <span className="label-upper text-gold block mb-3">Our Promise</span>
@@ -134,11 +135,17 @@ function ArchitectureSection() {
           <div className="lg:col-span-5 relative order-2 lg:order-1">
             <div className="grid grid-cols-5 gap-4">
               <div className="col-span-3 space-y-4">
-                <div className="image-placeholder w-full aspect-[3/4]" />
+                <div className="relative w-full aspect-[3/4]">
+                  <Image src="/images/grid-portrait.png" alt="Professional cleaner polishing a countertop" fill className="object-cover" />
+                </div>
               </div>
               <div className="col-span-2 space-y-4 pt-16">
-                <div className="image-placeholder w-full aspect-square" />
-                <div className="image-placeholder w-full aspect-[4/5]" />
+                <div className="relative w-full aspect-square">
+                  <Image src="/images/grid-square.png" alt="Spotless modern kitchen" fill className="object-cover" />
+                </div>
+                <div className="relative w-full aspect-[4/5]">
+                  <Image src="/images/grid-tall.png" alt="Freshly made bed with crisp white linens" fill className="object-cover" />
+                </div>
               </div>
             </div>
           </div>
