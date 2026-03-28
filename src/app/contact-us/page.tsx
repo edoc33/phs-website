@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     q: "How much does cleaning cost?",
-    a: "Most projects are $50 per hour. One-time cleanings, heavy commercial work, or other bigger jobs may cost more. The best thing to do is call Denise and describe what you need. She will give you an honest estimate based on the size of your home, its condition, and what you are looking for.",
+    a: "Most projects are $45 per hour. One-time cleanings, heavy commercial work, or other bigger jobs may cost more. The best thing to do is call Denise and describe what you need. She will give you an honest estimate based on the size of your home, its condition, and what you are looking for.",
   },
   {
     q: "How does billing work?",
