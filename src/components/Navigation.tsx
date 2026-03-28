@@ -29,7 +29,7 @@ export default function Navigation() {
       <nav className="flex justify-between items-center w-full px-8 py-6 max-w-screen-2xl mx-auto">
         <Link href="/" className="block">
           <Image
-            src="/logo.jpg"
+            src="/logo.png"
             alt="Portuguese Housekeeping Services"
             width={180}
             height={50}
