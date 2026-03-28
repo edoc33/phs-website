@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
+import { trackEvent } from "@/lib/analytics";
 
 type FormStatus = "idle" | "submitting" | "success" | "error";
 
@@ -27,6 +28,7 @@ export default function RequestCallBackPage() {
         throw new Error(err.error || "Failed to submit");
       }
       setStatus("success");
+      trackEvent("form_submission", { form: "call_back_request" });
       form.reset();
     } catch (err) {
       setStatus("error");

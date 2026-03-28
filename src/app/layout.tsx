@@ -4,6 +4,7 @@ import { Noto_Serif, Manrope } from "next/font/google";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
+import MobileCTA from "@/components/MobileCTA";
 import { JsonLd } from "@/components/JsonLd";
 
 const notoSerif = Noto_Serif({
@@ -47,9 +48,18 @@ export const metadata: Metadata = {
     siteName: "Portuguese Housekeeping Services",
     locale: "en_CA",
     type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Portuguese Housekeeping Services - Toronto & Mississauga Since 1994",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
+    images: ["/og-image.png"],
   },
   verification: {
     google: process.env.NEXT_PUBLIC_GSC_VERIFICATION,
@@ -107,7 +117,7 @@ export default function RootLayout({
       lang="en-CA"
       className={`${notoSerif.variable} ${manrope.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col font-sans">
+      <body className="min-h-full flex flex-col font-sans pb-16 md:pb-0">
         <JsonLd data={localBusinessJsonLd} />
         {process.env.NEXT_PUBLIC_GA4_ID && (
           <>
@@ -123,6 +133,7 @@ export default function RootLayout({
         <Navigation />
         <main className="flex-1">{children}</main>
         <Footer />
+        <MobileCTA />
       </body>
     </html>
   );

@@ -1,12 +1,13 @@
 import Link from "next/link";
 import Image from "next/image";
 import { serviceAreas } from "@/lib/service-areas";
+import PhoneLink from "@/components/PhoneLink";
 
 export default function Footer() {
   return (
     <footer className="bg-primary-deep text-on-primary">
       <div className="mx-auto max-w-screen-2xl px-8 py-20">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
           <div>
             <Link href="/" className="inline-block">
               <Image
@@ -42,6 +43,23 @@ export default function Footer() {
           </div>
 
           <div>
+            <h3 className="label-upper text-gold mb-5">Seasonal</h3>
+            <ul className="space-y-3">
+              {[
+                { href: "/spring-cleaning", label: "Spring Cleaning" },
+                { href: "/holiday-cleaning", label: "Holiday Cleaning" },
+                { href: "/move-out-cleaning-toronto", label: "Move-Out Cleaning" },
+              ].map((link) => (
+                <li key={link.href}>
+                  <Link href={link.href} className="text-sm text-white/40 hover:text-gold transition-colors duration-200">
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div>
             <h3 className="label-upper text-gold mb-5">Service Areas</h3>
             <ul className="space-y-3">
               {serviceAreas.map((area) => (
@@ -60,9 +78,9 @@ export default function Footer() {
           <div>
             <h3 className="label-upper text-gold mb-5">Get in Touch</h3>
             <div className="space-y-3 text-sm text-white/40">
-              <a href="tel:+19055011509" className="block hover:text-gold transition-colors duration-200">
+              <PhoneLink className="block hover:text-gold transition-colors duration-200">
                 (905) 501-1509
-              </a>
+              </PhoneLink>
               <address className="not-italic leading-relaxed">
                 45 Kingsbridge Garden Circle
                 <br />Suite #2007
