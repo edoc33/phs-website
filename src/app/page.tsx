@@ -65,7 +65,7 @@ function Hero() {
             <em className="text-gold font-normal">you can&apos;t rely on?</em>
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-md">
-            Denise has run PHS for 30 years. She knows every client by name.
+            Denise has run Portuguese Housekeeping Services for 30 years. She knows every client by name.
             You get the same cleaner each visit, someone who already knows
             your home. That&apos;s why every client
             we&apos;ve ever had came from a referral.

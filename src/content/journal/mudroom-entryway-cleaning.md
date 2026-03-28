@@ -48,4 +48,4 @@ I've cleaned a lot of homes with active families, especially [hockey families](/
 
 Don't aim for perfect. Aim for functional.
 
-If your entryway has gotten ahead of you, PHS Cleaning can help. We work with families from Distillery District to Streetsville who are too busy between practices and games to keep up. Give us a call and we'll get it sorted.
+If your entryway has gotten ahead of you, we can help. We work with families from Distillery District to Streetsville who are too busy between practices and games to keep up. Give us a call and we'll get it sorted.

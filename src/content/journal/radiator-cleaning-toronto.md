@@ -52,4 +52,4 @@ Some homeowners have radiator covers, which look nice but make cleaning harder. 
 
 Cleaning radiators is fiddly work, but it doesn't take long once you have the right brush. About ten minutes per radiator, and your home will be a lot more comfortable when the heat comes on.
 
-PHS cleans a lot of older Toronto homes, radiators included. If you'd rather leave it to someone who does this every day, give us a call.
+We clean a lot of older Toronto homes, radiators included. If you'd rather leave it to someone who does this every day, give us a call.

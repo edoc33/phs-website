@@ -52,4 +52,4 @@ There are an estimated 100,000 raccoons in Toronto. They have been opening green
 
 Cleaning up after them is annoying, but it is manageable. Keep your bins clean, locked, and put them out as late as possible. And when they do make a mess, clean it up properly so the smell does not bring them back the next night.
 
-If you are dealing with a bigger cleanup after raccoons have been living in or under your home, give PHS a call. We have seen it all.
+If you are dealing with a bigger cleanup after raccoons have been living in or under your home, give us a call. We have seen it all.

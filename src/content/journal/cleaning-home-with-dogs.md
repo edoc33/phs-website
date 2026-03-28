@@ -72,4 +72,4 @@ Dog smell comes from three places: the dog bed, the couch or favourite spot, and
 
 A clean dog in a home with washable surfaces and regular vacuuming does not smell. It really is that simple.
 
-If you want a deep clean to reset things, especially after a long winter, give PHS a call. We are dog people. We get it.
+If you want a deep clean to reset things, especially after a long winter, give us a call. We are dog people. We get it.

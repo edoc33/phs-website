@@ -59,4 +59,4 @@ Some equipment, like goalie pads or items with hard plastic shells, can't go in 
 
 You don't need anyone to tell you hockey season is messy. You're living it. The key is having a system so the mess stays controlled. Air out the gear, wash what you can, keep it contained, and accept that from October to April, one corner of your home is going to smell like a dressing room.
 
-PHS works with a lot of hockey families across Toronto and Mississauga, from King West to Port Credit. If you want a deep clean to reset things mid-season, or you just need someone to deal with the rest of the house while you deal with the gear, give us a call.
+We work with a lot of hockey families across Toronto and Mississauga, from King West to Port Credit. If you want a deep clean to reset things mid-season, or you just need someone to deal with the rest of the house while you deal with the gear, give us a call.

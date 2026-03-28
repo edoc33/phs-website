@@ -60,4 +60,4 @@ You are probably not spending time on your balcony in January. But a few things 
 
 **Spring**: One deep clean. About an hour. **Summer**: Five minutes a week. **Fall**: Thirty minutes to winterize. **Winter**: Check on it once or twice a month.
 
-That is all it takes. For more tips on keeping your unit in shape, see our [condo cleaning tips for Toronto](/journal/condo-cleaning-tips-toronto). If you want someone else to handle the spring deep clean or a regular summer wipe-down, give PHS a call.
+That is all it takes. For more tips on keeping your unit in shape, see our [condo cleaning tips for Toronto](/journal/condo-cleaning-tips-toronto). If you want someone else to handle the spring deep clean or a regular summer wipe-down, give us a call.

@@ -68,4 +68,4 @@ Focus your allergy cleaning on two rooms: bedrooms and the main living area.
 
 **Damp dust, always**: Dry dusting pushes pollen into the air. A damp cloth or microfibre cloth picks it up and holds it.
 
-Spring in Toronto is beautiful. A little extra cleaning lets you enjoy it without the sneezing. If you want a thorough [spring cleaning to start the season right](/journal/spring-cleaning-checklist-toronto), give PHS a call.
+Spring in Toronto is beautiful. A little extra cleaning lets you enjoy it without the sneezing. If you want a thorough [spring cleaning to start the season right](/journal/spring-cleaning-checklist-toronto), give us a call.

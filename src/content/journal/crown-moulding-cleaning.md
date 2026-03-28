@@ -42,4 +42,4 @@ The first time you clean crown moulding, it might take a while because there's a
 
 For homes with especially high ceilings, a sturdy step ladder is a must. Extension poles work, but they don't give you the control you need when the moulding is ten or twelve feet up.
 
-If you'd rather not climb a ladder, PHS handles crown moulding as part of our cleaning visits. Give us a call.
+If you'd rather not climb a ladder, we handle crown moulding as part of our cleaning visits. Give us a call.

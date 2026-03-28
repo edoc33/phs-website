@@ -52,4 +52,4 @@ About half the older housing stock in Toronto and Mississauga has baseboard heat
 
 Cleaning baseboard heaters is one of those small jobs that makes a real difference. Fifteen minutes per heater and your house will smell fine when the cold weather arrives. While you are at it, give the [baseboards themselves a wipe-down](/journal/baseboard-cleaning) too, since dust collects on the trim just as much as inside the heater. It is also a smart task to add to your fall routine when you are [getting your home ready for winter](/journal/winterize-home-toronto).
 
-If cleaning heaters isn't your idea of a good weekend, PHS includes them in our deep clean services. Give us a call and we'll take care of it.
+If cleaning heaters isn't your idea of a good weekend, we include them in our deep clean services. Give us a call and we'll take care of it.

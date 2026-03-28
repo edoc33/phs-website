@@ -23,7 +23,7 @@ export default function AboutPage() {
               Meet <em className="text-gold font-normal">Denise</em>
             </h1>
             <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-xl">
-              She joined PHS over 30 years ago. Learned every corner of the
+              She joined Portuguese Housekeeping Services over 30 years ago. Learned every corner of the
               business. Then took it over. Today, she still personally oversees
               every client relationship.
             </p>
@@ -98,7 +98,7 @@ export default function AboutPage() {
               </div>
             </div>
             <div className="lg:col-span-7 lg:col-start-6">
-              <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
+              <span className="label-upper text-gold block mb-6">The Person Behind the Company</span>
               <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
                 Owner &amp; Operator
               </h2>
@@ -112,7 +112,7 @@ export default function AboutPage() {
                 <p>
                   Over the years, she took over the company and continues to run it
                   with the same care and personal attention that built its reputation.
-                  When you work with PHS, you work with someone who genuinely knows
+                  When you work with us, you work with someone who genuinely knows
                   the business inside and out.
                 </p>
               </div>

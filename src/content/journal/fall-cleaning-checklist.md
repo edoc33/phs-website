@@ -56,4 +56,4 @@ If you're in the city, from the Credit River in Mississauga to the Bluffs in Sca
 
 You don't have to do it all in one weekend. Pick a few tasks each week through October and you'll be in good shape before the snow comes. For the bigger picture on sealing up and preparing your home, see our guide to [winterizing your home in Toronto](/journal/winterize-home-toronto).
 
-If you'd rather hand it off, PHS offers fall deep cleans for homes across Toronto and Mississauga. Give us a call and we'll get it sorted for you.
+If you'd rather hand it off, we offer fall deep cleans for homes across Toronto and Mississauga. Give us a call and we'll get it sorted for you.

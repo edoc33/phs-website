@@ -66,4 +66,4 @@ Cat food is small but it gets everywhere around the bowl. Dry kibble gets batted
 
 **Twice a year**: Move furniture and clean behind it, wash curtains the cat rubs against, check and clean HVAC vents that may be clogged with hair.
 
-That schedule keeps a cat home clean without making cleaning your whole personality. If lingering odours are still an issue despite regular cleaning, our [pet smell removal guide](/journal/pet-smell-removal) covers deeper solutions. If you want a deep clean to reset or a regular cleaning schedule to keep things fresh, give PHS a call.
+That schedule keeps a cat home clean without making cleaning your whole personality. If lingering odours are still an issue despite regular cleaning, our [pet smell removal guide](/journal/pet-smell-removal) covers deeper solutions. If you want a deep clean to reset or a regular cleaning schedule to keep things fresh, give us a call.

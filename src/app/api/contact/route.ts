@@ -69,7 +69,7 @@ export async function POST(request: Request) {
       const resend = new Resend(process.env.RESEND_API_KEY);
 
       await resend.emails.send({
-        from: "PHS Website <notifications@portuguesemaids.ca>",
+        from: "Portuguese Housekeeping Services <notifications@portuguesemaids.ca>",
         to: NOTIFY_EMAILS,
         subject: `New Call-Back Request: ${firstName} ${lastName}`,
         text: [

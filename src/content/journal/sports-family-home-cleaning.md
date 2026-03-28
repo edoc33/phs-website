@@ -70,4 +70,4 @@ Between September hockey at arenas near BMO Field, spring soccer, summer basketb
 
 A gear zone, a boot tray, some hooks, and a simple wipe-down routine after practice nights. That is all it takes to keep the house from being overtaken.
 
-If you want a deep clean to reset things mid-season, or a regular cleaning schedule that works around your game schedule, give PHS a call. We know what a sports family home looks like. No judgment here.
+If you want a deep clean to reset things mid-season, or a regular cleaning schedule that works around your game schedule, give us a call. We know what a sports family home looks like. No judgment here.

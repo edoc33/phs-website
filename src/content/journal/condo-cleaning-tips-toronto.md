@@ -48,4 +48,4 @@ Here's what works for most condo dwellers. Three times a week, spend 20 minutes:
 
 That's it. The space is small enough that 20 minutes genuinely covers the basics. A deeper clean every week or two handles the rest.
 
-If you'd rather spend those 20 minutes doing something else, PHS Cleaning works with a lot of condo owners in Toronto and Mississauga. Give us a call and we can set up a schedule that fits your space and your life.
+If you'd rather spend those 20 minutes doing something else, Portuguese Housekeeping Services works with a lot of condo owners in Toronto and Mississauga. Give us a call and we can set up a schedule that fits your space and your life.

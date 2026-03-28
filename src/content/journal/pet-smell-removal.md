@@ -44,4 +44,4 @@ Regular cleaning handles the day-to-day. But if the smell has built up over mont
 
 If you're getting your home cleaned regularly, your cleaner can stay on top of the surfaces, upholstery, and floors. Cat owners dealing with litter dust and dander have their own set of challenges, which we cover in [cleaning a home with cats](/journal/cleaning-home-with-cats). That goes a long way.
 
-At PHS Cleaning, we work in a lot of homes with pets across Toronto and Mississauga. We know where to look and what to use. If the smell is getting ahead of you, give us a call.
+At Portuguese Housekeeping Services, we work in a lot of homes with pets across Toronto and Mississauga. We know where to look and what to use. If the smell is getting ahead of you, give us a call.

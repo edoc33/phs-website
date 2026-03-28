@@ -48,4 +48,4 @@ Baseboards are one of those things that nobody notices when they're clean, but e
 
 It's not a fun job. But it's a fast one when you have a system.
 
-If you're already on your hands and knees, you might as well knock out the [baseboard heaters](/journal/baseboard-heaters-cleaning) and [light fixtures and ceiling fans](/journal/light-fixtures-ceiling-fans) in the same session. If you'd rather not do it at all, that's what we're here for. At PHS Cleaning, baseboards are part of our regular deep cleaning service across Toronto and Mississauga. Give us a call and we'll take care of it.
+If you're already on your hands and knees, you might as well knock out the [baseboard heaters](/journal/baseboard-heaters-cleaning) and [light fixtures and ceiling fans](/journal/light-fixtures-ceiling-fans) in the same session. If you'd rather not do it at all, that's what we're here for. At Portuguese Housekeeping Services, baseboards are part of our regular deep cleaning service across Toronto and Mississauga. Give us a call and we'll take care of it.

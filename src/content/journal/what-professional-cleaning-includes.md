@@ -78,7 +78,7 @@ The best thing you can do is tell your cleaner what matters to you. A good clean
 
 The first visit usually takes longer. If you've never done this before, our guide on [hiring a cleaner for the first time](/journal/hiring-cleaner-first-time) covers what to expect. There may be buildup that hasn't been addressed in a while, and the cleaner is also learning the layout of your home. After that, regular visits are faster and more efficient because the maintenance work is lighter.
 
-PHS has been cleaning homes in Toronto and Mississauga for over 30 years. If you have questions about what we include or want to talk through what your home needs, give us a call. We'll give you a clear, honest answer.
+Portuguese Housekeeping Services has been cleaning homes in Toronto and Mississauga for over 30 years. If you have questions about what we include or want to talk through what your home needs, give us a call. We'll give you a clear, honest answer.
 
 ---faqs---
 Q: What is included in a standard house cleaning?

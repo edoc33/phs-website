@@ -53,7 +53,7 @@ When your cleaner comes back week after week, they stop needing instructions. Th
 
 That's not just cleaning. That's care.
 
-I built PHS Cleaning on this idea. Every client gets the same cleaner, every visit. It's not complicated. It just takes a company that values people over volume.
+I built Portuguese Housekeeping Services on this idea. Every client gets the same cleaner, every visit. It's not complicated. It just takes a company that values people over volume.
 
 If this is your first time bringing someone in, our guide on [hiring a cleaner for the first time](/journal/hiring-cleaner-first-time) walks you through what to expect. If you're looking for someone reliable in Toronto or Mississauga, give us a call. We're happy to answer any questions before you decide.
 

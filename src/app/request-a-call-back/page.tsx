@@ -242,12 +242,12 @@ export default function RequestCallBackPage() {
             <img src="/images/heritage.png" alt="Welcoming Toronto home entrance cleaned by Portuguese Housekeeping Services" className="aspect-[4/3] w-full object-cover" />
           </div>
           <div className="lg:col-span-6 lg:col-start-7">
-            <span className="label-upper text-gold block mb-5">Why PHS</span>
+            <span className="label-upper text-gold block mb-5">Why Us</span>
             <h2 className="font-serif fluid-subheading font-normal mb-8">
               Owner-operated since 1994.
             </h2>
             <p className="text-primary-fixed-dim/50 text-[1.05rem] leading-relaxed mb-12">
-              Denise has run PHS for over 30 years. She personally knows every
+              Denise has run Portuguese Housekeeping Services for over 30 years. She personally knows every
               client. You get the same cleaner each visit, someone who already knows your home.
             </p>
             <div className="flex gap-16">

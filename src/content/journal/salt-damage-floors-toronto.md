@@ -54,4 +54,4 @@ The city dumps about 130,000 tonnes of salt on the roads every winter. Lakeshore
 
 That is a lot of corrosive material getting carried into your home for six months straight. A little prevention and regular cleaning makes the difference between floors that look fine in spring and floors that need refinishing. Salt stains are one of the first things to tackle on a [spring cleaning checklist](/journal/spring-cleaning-checklist-toronto).
 
-If your floors have taken a beating this winter and you want them properly cleaned, give PHS a call. We have been dealing with Toronto salt stains for over 30 years.
+If your floors have taken a beating this winter and you want them properly cleaned, give us a call. We have been dealing with Toronto salt stains for over 30 years.

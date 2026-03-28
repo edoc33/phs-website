@@ -58,4 +58,4 @@ Don't spray anything directly into the fixture. You don't want moisture near the
 
 Clean light fixtures make every room in your house brighter. It's one of those jobs where the result is obvious the moment you flip the switch. And once you have a routine, it takes minutes per fixture. Pair it with [baseboard cleaning](/journal/baseboard-cleaning) and you've covered both the top and bottom of every room in one session.
 
-If you'd rather leave it to someone who doesn't mind climbing a step stool, PHS Cleaning handles light fixtures as part of our regular and deep cleaning services across Toronto and Mississauga. Give us a call.
+If you'd rather leave it to someone who doesn't mind climbing a step stool, Portuguese Housekeeping Services handles light fixtures as part of our regular and deep cleaning services across Toronto and Mississauga. Give us a call.

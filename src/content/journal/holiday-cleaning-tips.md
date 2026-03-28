@@ -66,4 +66,4 @@ The single best thing you can do is schedule a deep clean in late November or ea
 
 Your home will get messy during the holidays. That's normal. People are coming and going, kids are home from school, the kitchen is working overtime. The goal isn't a spotless house. The goal is a house that feels comfortable and doesn't stress you out.
 
-If you want to start the season fresh, PHS offers pre-holiday deep cleans across Toronto and Mississauga. Give us a call and we'll get your home ready before the first gathering.
+If you want to start the season fresh, we offer pre-holiday deep cleans across Toronto and Mississauga. Give us a call and we'll get your home ready before the first gathering.

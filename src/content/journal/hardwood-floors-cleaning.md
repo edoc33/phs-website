@@ -65,4 +65,4 @@ If you're not sure which you have, look at the seams. If they're smooth and leve
 
 Good cleaning habits will keep your hardwood looking great for years. But if the finish is already worn through, no amount of mopping will bring it back. Get it refinished, and then keep up with the maintenance. It's much easier to maintain a good finish than to try to revive a damaged one.
 
-PHS cleans a lot of hardwood floors across Toronto and Mississauga. We know what works and what doesn't. Give us a call if you'd like us to take care of yours.
+We clean a lot of hardwood floors across Toronto and Mississauga. We know what works and what doesn't. Give us a call if you'd like us to take care of yours.

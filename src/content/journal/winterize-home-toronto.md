@@ -72,4 +72,4 @@ Vacuum the mattress surface while it is stripped. Sprinkle baking soda on it, le
 
 A few hours of focused cleaning in October sets your home up for a comfortable winter. If you want a room-by-room breakdown, our [fall cleaning checklist](/journal/fall-cleaning-checklist) covers everything from gutters to bedding storage. The heat does not smell when it kicks on. The kitchen is ready for holiday cooking. The entryway is set up to handle six months of salt and slush. Furniture is stored properly instead of getting destroyed.
 
-If you would rather have someone handle the fall close-up for you, give PHS a call. We have been doing this in Toronto for over 30 years and we know exactly what needs attention before winter hits.
+If you would rather have someone handle the fall close-up for you, give us a call. We have been doing this in Toronto for over 30 years and we know exactly what needs attention before winter hits.

@@ -61,4 +61,4 @@ Homes built before 1980 may have lead paint, especially on trim, doors, and wind
 
 This kind of housing stock is common along Avenue Road, in Midtown near Yonge and Eglinton, the Beaches, Leslieville, High Park, Roncesvalles, and the older streets of Dundas West. If you live in one of these neighbourhoods and your home was built before the 1950s, most of what's in this post applies to you.
 
-PHS has been cleaning older Toronto homes for over three decades. We know what products to use, what to avoid, and where the tricky spots are. If you want someone who understands your home, give us a call.
+Portuguese Housekeeping Services has been cleaning older Toronto homes for over three decades. We know what products to use, what to avoid, and where the tricky spots are. If you want someone who understands your home, give us a call.

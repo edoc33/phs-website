@@ -63,4 +63,4 @@ A clean kitchen does not mean a spotless, magazine-photo kitchen. It means:
 
 These are small habits. None of them take more than a few minutes. But they are the difference between a home that attracts pests and one that does not.
 
-If you want a thorough deep clean of your kitchen, including behind the appliances, give PHS a call. We know where to look.
+If you want a thorough deep clean of your kitchen, including behind the appliances, give us a call. We know where to look.

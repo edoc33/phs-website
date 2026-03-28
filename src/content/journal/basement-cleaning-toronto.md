@@ -59,4 +59,4 @@ The space around your washer and dryer collects lint, dust, and spilled detergen
 
 Basements don't stay clean as long as the rest of the house because of the moisture and dust cycle. A quick sweep and a check on the dehumidifier once a week goes a long way.
 
-If your basement needs a proper deep clean, PHS can help. We work with all kinds of Toronto basements from Avenue Road to Streetsville, finished and otherwise. Give us a call.
+If your basement needs a proper deep clean, we can help. We work with all kinds of Toronto basements from Avenue Road to Streetsville, finished and otherwise. Give us a call.

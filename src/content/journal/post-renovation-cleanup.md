@@ -56,4 +56,4 @@ Make sure the last worker has packed up, the last touch-up is done, and nobody e
 
 **Replace the HVAC filter again**: Two weeks after the initial clean, change the filter one more time. Residual dust will still be circulating.
 
-If your renovation is done and the dust is overwhelming, PHS Cleaning handles post-renovation cleanups across Toronto and Mississauga. If this is your first time [hiring a cleaner](/journal/hiring-cleaner-first-time), we'll walk you through the process. It's one of the most common calls we get. Give us a call and we'll get your home back to normal.
+If your renovation is done and the dust is overwhelming, Portuguese Housekeeping Services handles post-renovation cleanups across Toronto and Mississauga. If this is your first time [hiring a cleaner](/journal/hiring-cleaner-first-time), we'll walk you through the process. It's one of the most common calls we get. Give us a call and we'll get your home back to normal.

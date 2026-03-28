@@ -54,4 +54,4 @@ This whole list takes a Saturday morning. When you are done, that first real bre
 
 It is one of the best feelings of spring.
 
-If you would rather spend that Saturday doing something else, PHS can handle the open-window clean for you. Give us a call.
+If you would rather spend that Saturday doing something else, we can handle the open-window clean for you. Give us a call.
