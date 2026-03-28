@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { GoogleAuth } from "google-auth-library";
 import { Resend } from "resend";
 
-const SHEET_ID = "1Ee232T5_ewQaruEiSgq49y5IE7x_v_VQSP3pQ_sCfJQ";
+const SHEET_ID = "1e8QF6czZg4U4PcuWPxmbtcWDqM0fe4TFlY26cxmI1vI";
 const NOTIFY_EMAILS = ["eric.docouto@gmail.com", "portugusehousekeeping@gmail.com"];
 
 export async function POST(request: Request) {
