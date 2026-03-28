@@ -1,26 +1,175 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Navy-tinted neutrals — no pure black or white */
+  --primary: oklch(0.13 0.03 250);          /* near-black with navy tint */
+  --primary-deep: oklch(0.15 0.06 250);     /* #001A33 equivalent */
+  --on-primary: oklch(0.97 0.005 250);      /* warm off-white */
+  --surface: oklch(0.975 0.003 250);        /* #f9f9f9 navy-tinted */
+  --surface-container-lowest: oklch(0.99 0.002 250); /* near-white */
+  --surface-container-low: oklch(0.96 0.004 250);    /* #f3f3f3 */
+  --surface-container: oklch(0.94 0.005 250);        /* #eeeeee */
+  --surface-container-high: oklch(0.92 0.006 250);   /* #e8e8e8 */
+  --on-surface: oklch(0.18 0.02 250);       /* dark navy-tinted text */
+  --on-surface-variant: oklch(0.45 0.015 250); /* muted navy-grey */
+  --gold: oklch(0.76 0.12 85);              /* champagne gold */
+  --gold-light: oklch(0.82 0.1 85);
+  --gold-dark: oklch(0.18 0.04 85);
+  --primary-fixed-dim: oklch(0.78 0.08 250);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-primary: var(--primary);
+  --color-primary-deep: var(--primary-deep);
+  --color-on-primary: var(--on-primary);
+  --color-surface: var(--surface);
+  --color-surface-lowest: var(--surface-container-lowest);
+  --color-surface-low: var(--surface-container-low);
+  --color-surface-mid: var(--surface-container);
+  --color-surface-high: var(--surface-container-high);
+  --color-on-surface: var(--on-surface);
+  --color-on-surface-variant: var(--on-surface-variant);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-gold-dark: var(--gold-dark);
+  --font-sans: var(--font-manrope);
+  --font-serif: var(--font-noto-serif);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+
+html { scroll-behavior: smooth; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--surface);
+  color: var(--on-surface);
+}
+
+::selection {
+  background: var(--gold);
+  color: var(--gold-dark);
+}
+
+/* ── Fluid type scale ── */
+.fluid-display {
+  font-size: clamp(2.5rem, 4.5vw + 1rem, 5rem);
+  line-height: 1.06;
+  letter-spacing: -0.025em;
+}
+
+.fluid-heading {
+  font-size: clamp(1.75rem, 2.8vw + 0.5rem, 3.25rem);
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+}
+
+.fluid-subheading {
+  font-size: clamp(1.35rem, 2vw + 0.4rem, 2.25rem);
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+/* ── Label — luxury uppercase tag ── */
+.label-upper {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-weight: 500;
+}
+
+/* ── Whisper shadow — architectural depth ── */
+.whisper-shadow {
+  box-shadow: 0px 20px 40px oklch(0.15 0.06 250 / 0.04);
+}
+
+/* ── Gold underline utility ── */
+.gold-underline {
+  position: relative;
+}
+.gold-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 1.5px;
+  background: var(--gold);
+}
+
+/* ── Entrance animations — exponential easing ── */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes reveal-right {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.animate-fade-up   { animation: fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-fade-up-1 { animation: fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.12s both; }
+.animate-fade-up-2 { animation: fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.24s both; }
+.animate-fade-up-3 { animation: fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.36s both; }
+.animate-fade-up-4 { animation: fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.48s both; }
+.animate-fade-up-5 { animation: fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.60s both; }
+.animate-fade-in   { animation: fade-in 1s cubic-bezier(0.16, 1, 0.3, 1) 0.3s both; }
+.animate-reveal    { animation: reveal-right 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s both; }
+
+/* ── Focus ring ── */
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+/* ── Form inputs — underline style ── */
+input:focus, textarea:focus, select:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* ── Editorial float card ── */
+.editorial-float {
+  background: oklch(0.99 0.002 250 / 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+/* ── Tonal section shift (no borders, only bg color) ── */
+.tonal-shift {
+  background: linear-gradient(
+    180deg,
+    oklch(0.975 0.003 250 / 0.9) 0%,
+    oklch(0.96 0.004 250 / 0.9) 100%
+  );
+}
+
+/* ── Square CTA — primary action buttons ── */
+.cta-square {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 2.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.cta-square:hover {
+  transform: translateY(-1px);
+}
+
+/* ── Gentle image placeholder ── */
+.image-placeholder {
+  background: linear-gradient(
+    135deg,
+    oklch(0.94 0.005 250) 0%,
+    oklch(0.96 0.004 250) 100%
+  );
 }
