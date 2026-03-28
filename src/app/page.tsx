@@ -1,5 +1,54 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
+import { JsonLd } from "@/components/JsonLd";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
+
+const servicesJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      item: {
+        "@type": "Service",
+        name: "Standard House Cleaning",
+        description:
+          "Regular cleaning on your schedule. Surface sanitization, vacuuming, mopping, kitchen detailing, and bathroom deep-clean.",
+        provider: { "@id": "https://portuguesemaids.ca/#business" },
+        areaServed: [{ "@type": "City", name: "Toronto" }, { "@type": "City", name: "Mississauga" }],
+      },
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      item: {
+        "@type": "Service",
+        name: "Deep Cleaning",
+        description:
+          "A thorough reset that goes beyond the surface. Appliance restoration, baseboard cleaning, hardwood polishing, and light fixture care.",
+        provider: { "@id": "https://portuguesemaids.ca/#business" },
+        areaServed: [{ "@type": "City", name: "Toronto" }, { "@type": "City", name: "Mississauga" }],
+      },
+    },
+    {
+      "@type": "ListItem",
+      position: 3,
+      item: {
+        "@type": "Service",
+        name: "Move-In / Move-Out Cleaning",
+        description:
+          "Comprehensive wall-to-wall cleaning for new occupants or when leaving a home. Deep oven cleaning, furniture polishing, and custom requests.",
+        provider: { "@id": "https://portuguesemaids.ca/#business" },
+        areaServed: [{ "@type": "City", name: "Toronto" }, { "@type": "City", name: "Mississauga" }],
+      },
+    },
+  ],
+};
 
 function Hero() {
   return (
@@ -299,6 +348,7 @@ function CtaSection() {
 export default function Home() {
   return (
     <>
+      <JsonLd data={servicesJsonLd} />
       <Hero />
       <DisciplinesSection />
       <ArchitectureSection />

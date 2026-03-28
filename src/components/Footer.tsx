@@ -1,11 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
+import { serviceAreas } from "@/lib/service-areas";
 
 export default function Footer() {
   return (
     <footer className="bg-primary-deep text-on-primary">
       <div className="mx-auto max-w-screen-2xl px-8 py-20">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div>
             <Link href="/" className="inline-block">
               <Image
@@ -34,6 +35,22 @@ export default function Footer() {
                 <li key={link.href}>
                   <Link href={link.href} className="text-sm text-white/40 hover:text-gold transition-colors duration-200">
                     {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="label-upper text-gold mb-5">Service Areas</h3>
+            <ul className="space-y-3">
+              {serviceAreas.map((area) => (
+                <li key={area.slug}>
+                  <Link
+                    href={`/cleaning-services/${area.slug}`}
+                    className="text-sm text-white/40 hover:text-gold transition-colors duration-200"
+                  >
+                    {area.name}
                   </Link>
                 </li>
               ))}

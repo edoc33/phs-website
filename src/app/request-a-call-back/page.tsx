@@ -238,7 +238,8 @@ export default function RequestCallBackPage() {
       <section className="py-36 bg-primary-deep text-on-primary">
         <div className="max-w-screen-2xl mx-auto px-8 grid grid-cols-1 lg:grid-cols-12 gap-20 items-center">
           <div className="lg:col-span-5">
-            <img src="/images/heritage.png" alt="Welcoming Toronto home entrance" className="aspect-[4/3] w-full object-cover" />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/images/heritage.png" alt="Welcoming Toronto home entrance cleaned by Portuguese Housekeeping Services" className="aspect-[4/3] w-full object-cover" />
           </div>
           <div className="lg:col-span-6 lg:col-start-7">
             <span className="label-upper text-gold block mb-5">Why PHS</span>

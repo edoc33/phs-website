@@ -2,9 +2,10 @@ import type { Metadata } from "next";
 import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Contact Us",
+  title: "Contact Us — Free Cleaning Quote",
   description:
-    "Contact Portuguese Housekeeping Services in Mississauga. Call (905) 501-1509 for a free cleaning quote.",
+    "Contact Portuguese Housekeeping Services in Mississauga. Call (905) 501-1509 or fill out our form for a free house cleaning quote.",
+  alternates: { canonical: "/contact-us" },
 };
 
 export default function ContactPage() {

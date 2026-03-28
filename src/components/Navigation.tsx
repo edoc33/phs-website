@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 
 const links = [
+  { href: "/cleaning-services", label: "Service Areas" },
   { href: "/about-us", label: "About" },
   { href: "/contact-us", label: "Contact" },
   { href: "/journal", label: "Journal" },
@@ -45,7 +46,7 @@ export default function Navigation() {
               key={link.href}
               href={link.href}
               className={`label-upper transition-colors duration-300 ${
-                pathname === link.href
+                pathname === link.href || pathname.startsWith(link.href + "/")
                   ? "text-primary font-semibold gold-underline"
                   : "text-on-surface-variant hover:text-primary"
               }`}
@@ -86,7 +87,7 @@ export default function Navigation() {
               key={link.href}
               href={link.href}
               className={`block px-4 py-3 label-upper ${
-                pathname === link.href ? "text-primary font-semibold" : "text-on-surface-variant"
+                pathname === link.href || pathname.startsWith(link.href + "/") ? "text-primary font-semibold" : "text-on-surface-variant"
               }`}
             >
               {link.label}

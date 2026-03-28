@@ -3,9 +3,10 @@ import Link from "next/link";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "About Us",
+  title: "About Denise — 30 Years of Trusted Cleaning",
   description:
-    "Learn about Portuguese Housekeeping Services — a family-owned cleaning company serving Toronto and Mississauga for over 30 years.",
+    "Meet Denise, owner of Portuguese Housekeeping Services. Family-owned, referral-built cleaning company serving Toronto & Mississauga since 1994.",
+  alternates: { canonical: "/about-us" },
 };
 
 export default function AboutPage() {
