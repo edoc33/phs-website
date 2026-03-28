@@ -93,7 +93,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-20 items-center">
             <div className="lg:col-span-4">
               <div className="relative w-full aspect-[3/4]">
-                <Image src="/images/denise-primary.png" alt="Denise, owner and operator of PHS" fill className="object-cover" />
+                <Image src="/images/personal-touch.png" alt="Hands carefully arranging fresh flowers in a clean home" fill className="object-cover" />
               </div>
             </div>
             <div className="lg:col-span-7 lg:col-start-6">
