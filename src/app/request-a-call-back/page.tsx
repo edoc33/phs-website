@@ -70,9 +70,9 @@ export default function RequestCallBackPage() {
                   <span className="font-serif text-on-surface-variant text-sm">2</span>
                 </div>
                 <div>
-                  <h3 className="font-serif text-primary text-lg font-normal mb-1">We&apos;ll call you</h3>
+                  <h3 className="font-serif text-primary text-lg font-normal mb-1">We&apos;ll be in touch</h3>
                   <p className="text-on-surface-variant text-[0.95rem] leading-relaxed">
-                    Expect a call within one business day to discuss your home and provide a free quote.
+                    Expect to hear from us by phone or email within one business day to discuss your home and provide a free quote.
                   </p>
                 </div>
               </div>
