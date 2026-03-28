@@ -220,7 +220,7 @@ export default function RequestCallBackPage() {
                     Sending...
                   </span>
                 ) : (
-                  "Confirm Appointment"
+                  "Submit Request"
                 )}
               </button>
               <span className="text-on-surface-variant text-sm">
