@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { GoogleAuth } from "google-auth-library";
-import nodemailer from "nodemailer";
+import { Resend } from "resend";
 
 const SHEET_ID = "1Ee232T5_ewQaruEiSgq49y5IE7x_v_VQSP3pQ_sCfJQ";
 const NOTIFY_EMAILS = ["eric.docouto@gmail.com", "portugusehousekeeping@gmail.com"];
@@ -64,19 +64,13 @@ export async function POST(request: Request) {
       );
     }
 
-    // 2. Send email notification
+    // 2. Send email notification via Resend
     try {
-      const transporter = nodemailer.createTransport({
-        service: "gmail",
-        auth: {
-          user: process.env.GMAIL_USER,
-          pass: process.env.GMAIL_APP_PASSWORD,
-        },
-      });
+      const resend = new Resend(process.env.RESEND_API_KEY);
 
-      await transporter.sendMail({
-        from: `"PHS Website" <${process.env.GMAIL_USER}>`,
-        to: NOTIFY_EMAILS.join(", "),
+      await resend.emails.send({
+        from: "PHS Website <onboarding@resend.dev>",
+        to: NOTIFY_EMAILS,
         subject: `New Call-Back Request: ${firstName} ${lastName}`,
         text: [
           `New request from portuguesemaids.ca`,
@@ -90,7 +84,7 @@ export async function POST(request: Request) {
         ].join("\n"),
       });
     } catch (emailErr) {
-      // Log but don't fail the request — the sheet entry was saved
+      // Log but don't fail — the sheet entry was saved
       console.error("Email notification failed:", emailErr);
     }
 
