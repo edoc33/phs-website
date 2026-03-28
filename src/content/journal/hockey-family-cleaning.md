@@ -6,7 +6,7 @@ date: 2025-12-15
 
 If you have a kid in hockey, you already know. From October to April, your front hall smells like a combination of wet equipment and regret. There's tape residue on the floor, water bottles rolling around, and a bag that no one wants to open sitting by the door.
 
-This is the reality for about half the families in the GTA. Here's how to manage it.
+This is the reality for about half the families in the GTA. If your kids play multiple sports, our broader guide to [keeping a sports family's home clean](/journal/sports-family-home-cleaning) covers soccer cleats, wet gear, and more. Here's how to manage the hockey side of it.
 
 ## The Bag Rule
 
@@ -35,7 +35,7 @@ Some parents swear by the bathtub method for all the soft gear once a month. Fil
 
 ## The Entryway Setup
 
-Your entryway needs to be built for hockey season. Here's what works.
+Your entryway needs to be built for hockey season. Our guide to [organizing your mudroom and entryway](/journal/mudroom-entryway-cleaning) has the full setup, but here's what matters most for hockey.
 
 - **Dedicated hooks**: Separate from everyone else's coats and bags. Hockey gear needs its own spot.
 - **A large boot tray**: Big enough for skates and boots. The rubber kind with raised edges.
@@ -49,7 +49,7 @@ The goal is containment. The smell stays in one area. It does not spread to the 
 - Keep gear in the garage, the basement, or a mudroom. Not the front hall closet.
 - Close the door between the gear zone and the rest of the house.
 - If the garage isn't an option, a well-ventilated corner of the basement with a fan works.
-- Baking soda helps. Sprinkle it inside the bag and the gloves between uses. It absorbs odour.
+- Baking soda helps. Sprinkle it inside the bag and the gloves between uses. It absorbs odour. If the smell has already gotten into carpets or furniture, our [pet smell removal guide](/journal/pet-smell-removal) uses similar deodorizing techniques that work for gear odour too.
 
 ## Baking Soda for What You Can't Wash
 

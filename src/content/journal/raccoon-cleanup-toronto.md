@@ -14,7 +14,7 @@ First, the practical part. Grab rubber gloves, a garbage bag, and some paper tow
 
 **Pick up the big stuff first**: Collect food scraps, torn bags, and scattered waste by hand. Use a dustpan for smaller bits. Work from the outside edges in toward the bin so you are not stepping through the mess.
 
-**Scrub the driveway or walkway**: Raccoons leave behind grease, food residue, and sometimes droppings. Mix hot water with dish soap and scrub the area with a stiff brush. Rinse with a hose. For concrete driveways, this is usually enough. For interlock or flagstone, get into the joints where food residue can settle and attract ants.
+**Scrub the driveway or walkway**: Raccoons leave behind grease, food residue, and sometimes droppings. Mix hot water with dish soap and scrub the area with a stiff brush. Rinse with a hose. For concrete driveways, this is usually enough. For interlock or flagstone, get into the joints where food residue can settle and attract ants. Leftover food scraps around your property can also draw in [mice, ants, and other pests](/journal/pests-cleaning-prevention).
 
 **Deal with the smell**: If the raccoons hit your green bin, the smell lingers. After cleaning up, sprinkle baking soda on the area and let it sit for an hour before sweeping or rinsing it away. In hot weather, the smell will attract them back if you do not clean it properly.
 

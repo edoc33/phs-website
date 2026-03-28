@@ -6,7 +6,7 @@ date: 2026-03-11
 
 Nobody looks up. Not until someone's coming for dinner and you glance at the ceiling fan and realize every blade is coated in grey dust. Or the pendant lights over the kitchen island have a film on them from months of cooking.
 
-It's one of those jobs that's easy to forget and easy to do once you know the tricks.
+It's one of those jobs that's easy to forget and easy to do once you know the tricks. While you're looking up, [crown moulding](/journal/crown-moulding-cleaning) collects the same kind of dust and pairs well with this task.
 
 ## Ceiling fans
 
@@ -56,6 +56,6 @@ Don't spray anything directly into the fixture. You don't want moisture near the
 
 ## The payoff
 
-Clean light fixtures make every room in your house brighter. It's one of those jobs where the result is obvious the moment you flip the switch. And once you have a routine, it takes minutes per fixture.
+Clean light fixtures make every room in your house brighter. It's one of those jobs where the result is obvious the moment you flip the switch. And once you have a routine, it takes minutes per fixture. Pair it with [baseboard cleaning](/journal/baseboard-cleaning) and you've covered both the top and bottom of every room in one session.
 
 If you'd rather leave it to someone who doesn't mind climbing a step stool, PHS Cleaning handles light fixtures as part of our regular and deep cleaning services across Toronto and Mississauga. Give us a call.

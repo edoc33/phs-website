@@ -24,11 +24,11 @@ Also, leave the washer door open a crack between loads. It lets the drum dry out
 
 ## Balcony basics
 
-Toronto condos collect grime on the balcony. City dust, pollen, bird droppings. Sweep it once a month. Wipe down the railing and any furniture with soapy water. If you've got glass panels, a quick wipe with glass cleaner makes a surprising difference.
+Toronto condos collect grime on the balcony. City dust, pollen, bird droppings. Sweep it once a month. Wipe down the railing and any furniture with soapy water. If you've got glass panels, a quick wipe with glass cleaner makes a surprising difference. For a more thorough approach, our guide to [condo balcony cleaning](/journal/condo-balcony-cleaning) covers everything from glass panels to drainage.
 
 ## Construction dust in newer buildings
 
-If you're in a newer building, say five years old or less, you've probably noticed more dust than you'd expect. That's normal. The building is still settling. Dust comes from hallway construction, other units being renovated, and the parking garage. It gets into your unit through the hallway and through gaps around your front door.
+If you're in a newer building, say five years old or less, you've probably noticed more dust than you'd expect. We wrote a separate guide on [cleaning a new build condo](/journal/new-build-condo-cleaning) that covers this in detail. That's normal. The building is still settling. Dust comes from hallway construction, other units being renovated, and the parking garage. It gets into your unit through the hallway and through gaps around your front door.
 
 Wipe down surfaces more often than you think you need to. A microfibre cloth on hard surfaces twice a week helps. And replace your furnace filter more often. Every two months instead of three.
 

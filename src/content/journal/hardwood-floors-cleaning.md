@@ -4,7 +4,7 @@ description: "Toronto is full of original hardwood. Here's what to use, what to 
 date: 2026-01-12
 ---
 
-Toronto has some of the most beautiful hardwood floors in the country. A lot of homes, especially older ones, still have original oak, maple, or birch that's been down for 60, 80, sometimes 100 years. Those floors can last a very long time with the right care. They can also be ruined in a season with the wrong products.
+Toronto has some of the most beautiful hardwood floors in the country. A lot of homes, especially [older ones](/journal/cleaning-older-toronto-home), still have original oak, maple, or birch that's been down for 60, 80, sometimes 100 years. Those floors can last a very long time with the right care. They can also be ruined in a season with the wrong products.
 
 Here's what we recommend after 30 years of cleaning hardwood floors in this city.
 
@@ -36,7 +36,7 @@ Black scuff marks from shoes come off easily with a clean tennis ball or a sligh
 
 ## Salt Stain Removal in Winter
 
-This is a big one in Toronto. From November to April, road salt gets tracked into every home in the city. Salt stains show up as white, chalky marks on hardwood.
+This is a big one in Toronto. From November to April, road salt gets tracked into every home in the city. Salt stains show up as white, chalky marks on hardwood. For a deeper look at what road salt does to floors and how to prevent it, see our post on [salt damage to floors in Toronto](/journal/salt-damage-floors-toronto).
 
 Mix equal parts warm water and white vinegar (yes, vinegar is fine for salt removal in this small amount, applied directly to the stain). Dampen a cloth with the solution, lay it on the stain for a few minutes, then wipe clean and dry the area immediately. Don't let the solution sit on the floor for long.
 

@@ -33,20 +33,20 @@ This isn't about tidying up. It's about going room by room and tackling the thin
 ## Living Areas
 
 - **Windows inside and out**: after months of being sealed shut, your windows need attention. Clean tracks and sills where condensation collects.
-- **Baseboards and crown moulding**: dust settles on horizontal surfaces all winter. Wipe every baseboard in the house.
+- **Baseboards and crown moulding**: dust settles on horizontal surfaces all winter. [Wipe every baseboard](/journal/baseboard-cleaning) in the house.
 - **Light fixtures and ceiling fans**: remove glass covers and wash them. Wipe fan blades.
 - **Upholstery and curtains**: vacuum sofas with the upholstery attachment. Wash or dry-clean curtains.
 
 ## Entryway and Mudroom
 
-- **Salt stain removal**: mix equal parts white vinegar and water to remove salt residue from floors, mats, and boot trays.
+- **Salt stain removal**: mix equal parts white vinegar and water to [remove salt residue from floors](/journal/salt-damage-floors-toronto), mats, and boot trays.
 - **Deep-clean the door mat**: or replace it entirely. After a Toronto winter, it's earned retirement.
 - **Wipe down the front door**: both sides. Clean the hardware.
 
 ## Outdoor Prep
 
 - **Sweep the balcony or porch**: clear winter debris before it stains.
-- **Check window screens**: repair or replace damaged screens before you start opening windows.
+- **Check window screens**: repair or replace damaged screens before you start [opening windows for the season](/journal/first-open-window-clean).
 - **Clean the BBQ**: if it sat outside all winter, give it a thorough scrub before the first use.
 
 ## When to Call a Professional

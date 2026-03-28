@@ -10,7 +10,7 @@ Toronto uses more road salt than almost any city in North America. From November
 
 Salt is corrosive. That matters more than most people think.
 
-**Hardwood floors**: Salt pulls moisture out of the wood. It dries the finish, leaves white haze marks, and over time can cause the boards to crack or split. The longer salt sits on hardwood, the deeper it works into the grain.
+**Hardwood floors**: Salt pulls moisture out of the wood. It dries the finish, leaves white haze marks, and over time can cause the boards to crack or split. The longer salt sits on hardwood, the deeper it works into the grain. For year-round care beyond salt season, see our guide to [cleaning and maintaining hardwood floors](/journal/hardwood-floors-cleaning).
 
 **Tile and grout**: The tile itself holds up fine. The grout does not. Salt breaks down grout over time, especially in entryways where it builds up week after week. You end up with crumbling grout lines and loose tiles.
 
@@ -52,6 +52,6 @@ You will never keep all of it out. But you can cut way down on the damage.
 
 The city dumps about 130,000 tonnes of salt on the roads every winter. Your neighbourhood sidewalks, your condo parking garage, your office building entrance. It is everywhere. By February, the salt line on your boots is an inch thick.
 
-That is a lot of corrosive material getting carried into your home for six months straight. A little prevention and regular cleaning makes the difference between floors that look fine in spring and floors that need refinishing.
+That is a lot of corrosive material getting carried into your home for six months straight. A little prevention and regular cleaning makes the difference between floors that look fine in spring and floors that need refinishing. Salt stains are one of the first things to tackle on a [spring cleaning checklist](/journal/spring-cleaning-checklist-toronto).
 
 If your floors have taken a beating this winter and you want them properly cleaned, give PHS a call. We have been dealing with Toronto salt stains for over 30 years.

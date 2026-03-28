@@ -37,7 +37,7 @@ Before your furniture goes in and your boxes cover the floors, this is your one 
 ### Condo-Specific
 
 - **Balcony**: sweep and mop. If the previous tenant had plants, check for water stains and soil.
-- **HVAC filter**: replace it. They cost a few dollars and you'll notice the difference right away.
+- **HVAC filter**: replace it. They cost a few dollars and you will notice the difference right away. If you are moving into a [new-build condo with construction dust](/journal/new-build-condo-cleaning), the filter likely needs attention on day one.
 - **In-suite laundry**: run an empty hot cycle with vinegar to clean the drum.
 
 ## GTA Moving Timeline
@@ -53,7 +53,7 @@ If you're moving within Toronto or Mississauga, here's a practical timeline:
 
 A proper move-in clean on a Toronto 1-bedroom condo takes 3-4 hours. A 2-bedroom takes 4-6 hours. If you're also dealing with movers, unpacking, and setting up utilities, that's a lot for one day.
 
-Hiring someone means you walk into a place that's actually ready. Cabinets wiped, floors done, bathroom scrubbed. All before your first box hits the floor.
+Hiring someone means you walk into a place that is actually ready. Cabinets wiped, floors done, bathroom scrubbed. All before your first box hits the floor. If this is your first time bringing in a cleaner, here is [what to expect when hiring a cleaning service](/journal/hiring-cleaner-first-time).
 
 ## Starting Fresh
 

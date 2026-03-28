@@ -12,7 +12,7 @@ This is not about having a spotless house. This is about keeping the mess contai
 
 The biggest mistake sports families make is letting gear spread through the house. A hockey bag in the living room, cleats under the kitchen table, shin pads on the bathroom floor. It ends up everywhere because there is no designated spot for it.
 
-**Pick one zone**: The mudroom, the garage, a section of the front hall, or even a corner of the basement. That is where all gear lives. Period.
+**Pick one zone**: The mudroom, the garage, a section of the front hall, or even a corner of the basement. If you need help setting up that space, our guide to [organizing your mudroom and entryway](/journal/mudroom-entryway-cleaning) covers what works. That is where all gear lives. Period.
 
 **What the zone needs**: Hooks on the wall for bags and helmets. A boot tray or rubber mat on the floor for dirty cleats. A shelf or bin for water bottles, tape, and small gear. A laundry basket or mesh bag for items that need washing.
 
@@ -66,7 +66,7 @@ Five minutes. Every practice night. It keeps the chaos from compounding.
 
 ## The GTA sports parent reality
 
-Between September hockey, spring soccer, summer basketball, and year-round training, there is rarely a week without gear in the house. It is part of the deal when you have active kids.
+Between September hockey, spring soccer, summer basketball, and year-round training, there is rarely a week without gear in the house. If hockey is the main sport in your household, our [hockey family cleaning survival guide](/journal/hockey-family-cleaning) goes deeper on managing equipment smell and the October-to-April grind. It is part of the deal when you have active kids.
 
 A gear zone, a boot tray, some hooks, and a simple wipe-down routine after practice nights. That is all it takes to keep the house from being overtaken.
 

@@ -12,7 +12,7 @@ Here is how to manage it, room by room.
 
 This is where the mess starts. Every walk ends with your dog tracking in whatever is on the ground outside.
 
-**Set up a paw station**: Keep a towel and a shallow container of water by the door. Wipe each paw when you come in. It takes 30 seconds and saves you 30 minutes of floor cleaning later. In spring, when Toronto's snow melts and every park is a mud pit, this is not optional.
+**Set up a paw station**: Keep a towel and a shallow container of water by the door as part of your [mudroom and entryway routine](/journal/mudroom-entryway-cleaning). Wipe each paw when you come in. It takes 30 seconds and saves you 30 minutes of floor cleaning later. In spring, when Toronto's snow melts and every park is a mud pit, this is not optional.
 
 **Use a washable mat**: Put a big, absorbent, machine-washable mat inside the door. Dark colours hide the dirt between washes. Throw it in the washing machine every week.
 
@@ -66,7 +66,7 @@ Dog smell comes from three places: the dog bed, the couch or favourite spot, and
 
 **Wash bedding and covers weekly.** This alone makes the biggest difference.
 
-**Baking soda on carpet**: Sprinkle it on, let it sit for 15 minutes, vacuum it up. It absorbs odours without adding a fragrance.
+**Baking soda on carpet**: Sprinkle it on, let it sit for 15 minutes, vacuum it up. It absorbs odours without adding a fragrance. For stronger odours that baking soda alone will not fix, see our guide to [pet smell removal](/journal/pet-smell-removal).
 
 **Bathe your dog regularly**: Every 4 to 6 weeks for most breeds. More if they are swimming in Lake Ontario or rolling in things at the park.
 

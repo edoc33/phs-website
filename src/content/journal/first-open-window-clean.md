@@ -18,7 +18,7 @@ Do every window you plan to open this summer. It takes about five minutes per wi
 
 ## Window screens
 
-Pull the screens out and look at them in the sunlight. They will have a grey film of dust, cobwebs, and early pollen on them. Every breeze through a dirty screen pushes that stuff into your house.
+Pull the screens out and look at them in the sunlight. They will have a grey film of dust, cobwebs, and early pollen on them. Every breeze through a dirty screen pushes that stuff into your house. If anyone in your home has allergies, clean screens are even more important during [spring pollen season](/journal/spring-allergy-cleaning).
 
 Lean the screens against the house outside. Spray them down with the garden hose. If they are really dirty, mix a little dish soap in a bucket and gently scrub them with a soft brush. Rinse and let them dry completely before putting them back in.
 
@@ -30,7 +30,7 @@ For light mould, a mix of one part white vinegar to one part water works well. S
 
 ## Behind the radiators
 
-If your home has baseboard heaters or old radiators, pull them away from the wall if you can, or reach behind them with a long duster or vacuum crevice tool. Five months of circulating warm air creates a thick dust shelf behind every heat source in the house. That dust has been gently cooking all winter, which is part of why the house smells stale.
+If your home has baseboard heaters or [old cast-iron radiators](/journal/radiator-cleaning-toronto), pull them away from the wall if you can, or reach behind them with a long duster or vacuum crevice tool. Five months of circulating warm air creates a thick dust shelf behind every heat source in the house. That dust has been gently cooking all winter, which is part of why the house smells stale.
 
 This is one of those jobs that people never think to do. Once you see what comes out, you will understand why it matters.
 

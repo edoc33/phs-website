@@ -40,7 +40,7 @@ In a Toronto winter, everyone who walks through your door brings snow, salt, and
 - Put down a large rubber boot tray. The bigger the better during the holidays.
 - Keep a towel nearby for wiping up puddles.
 - Ask guests to remove boots at the door. Most Canadians already expect this.
-- Wipe up salt residue before it dries. Dried salt is harder to clean and it damages floors.
+- Wipe up salt residue before it dries. Dried salt is harder to clean and it damages floors. Our guide to [winterizing your home](/journal/winterize-home-toronto) has more on setting up a mudroom that can handle the full season.
 
 ## Kitchen Reset After Big Meals
 
@@ -60,7 +60,7 @@ This is the simplest strategy and it works. If rooms aren't ready for company, c
 
 ## Start the Season with a Deep Clean
 
-The single best thing you can do is schedule a deep clean in late November or early December, before the holiday chaos begins. Starting the season with a truly clean house means you're only doing maintenance for the rest of the month instead of playing catch-up.
+The single best thing you can do is schedule a deep clean in late November or early December, before the holiday chaos begins. Even better, pair it with a [fall cleaning checklist](/journal/fall-cleaning-checklist) run in October so you are starting from a solid baseline. Starting the season with a truly clean house means you're only doing maintenance for the rest of the month instead of playing catch-up.
 
 ## Don't Chase Perfection
 

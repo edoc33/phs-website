@@ -18,7 +18,7 @@ Start with a dry clean. This is the most important step, and for most rooms, it'
 
 **Option 2: Step ladder and a cloth.** If you want to see what you're doing, get up on a step ladder with a dry microfibre cloth and wipe along the moulding by hand. This gives you more control, especially in corners.
 
-**Option 3: Soft brush for ornate moulding.** Older Toronto homes often have carved or detailed moulding with grooves and ridges. A soft-bristled brush, like a clean paintbrush, works better for getting dust out of those details. Brush the dust loose, then wipe it up with the cloth.
+**Option 3: Soft brush for ornate moulding.** [Older Toronto homes](/journal/cleaning-older-toronto-home) often have carved or detailed moulding with grooves and ridges. A soft-bristled brush, like a clean paintbrush, works better for getting dust out of those details. Brush the dust loose, then wipe it up with the cloth.
 
 ## When to Use a Damp Cloth
 
@@ -30,7 +30,7 @@ Wipe a small section, then immediately dry it with a second cloth. Work your way
 
 ## Clean the Wall Below
 
-After you've cleaned the moulding, check the wall just below it. Dust falls as you clean, and some of it lands on the wall. Give it a quick wipe with a dry cloth so you don't end up with a clean moulding and a dusty stripe underneath.
+After you've cleaned the moulding, check the wall just below it. Dust falls as you clean, and some of it lands on the wall. Give it a quick wipe with a dry cloth so you don't end up with a clean moulding and a dusty stripe underneath. While you are up on the ladder, it is a good time to tackle your [light fixtures and ceiling fans](/journal/light-fixtures-ceiling-fans) too, since they collect the same kind of buildup.
 
 ## How Often to Clean Crown Moulding
 
@@ -38,7 +38,7 @@ Every two to three months keeps it looking good. If you're having people over an
 
 ## A Quick Job Once You Know How
 
-The first time you clean crown moulding, it might take a while because there's a lot of buildup. After that, regular maintenance is fast. The trick is to always start dry. Reaching for a wet cloth first is what causes streaks and drips.
+The first time you clean crown moulding, it might take a while because there's a lot of buildup. After that, regular maintenance is fast. The trick is to always start dry. Reaching for a wet cloth first is what causes streaks and drips. The same approach works well for [baseboard cleaning](/journal/baseboard-cleaning), which collects a similar layer of dust at floor level.
 
 For homes with especially high ceilings, a sturdy step ladder is a must. Extension poles work, but they don't give you the control you need when the moulding is ten or twelve feet up.
 

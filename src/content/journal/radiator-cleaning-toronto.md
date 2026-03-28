@@ -6,7 +6,7 @@ date: 2025-10-20
 
 If you live in an older Toronto home with cast iron radiators, you already know they do two things well. They heat a room beautifully. And they collect dust in places you can barely see, let alone reach.
 
-When the heat comes on, all that trapped dust and pet hair gets pushed up into the air. Cleaning your radiators before heating season makes a real difference in air quality and how your home smells.
+When the heat comes on, all that trapped dust and pet hair gets pushed up into the air. Cleaning your radiators before heating season makes a real difference in air quality and how your home smells. If your home has baseboard heaters in some rooms, the cleaning process is different; see our guide on [how to clean baseboard heaters properly](/journal/baseboard-heaters-cleaning).
 
 ## The Problem
 
@@ -40,7 +40,7 @@ At minimum, clean your radiators once a year before heating season starts. If yo
 
 ## Toronto Homes with Radiators
 
-Cast iron radiators are common in homes across Midtown, the Beaches, Leslieville, High Park, and Roncesvalles. Many of these homes are 80 to 100 years old, and the original radiators are still going strong. They're built to last. But the narrow spaces between the fins were never designed with easy cleaning in mind.
+Cast iron radiators are common in homes across Midtown, the Beaches, Leslieville, High Park, and Roncesvalles. Many of these homes are 80 to 100 years old, and the original radiators are still going strong. If you own one of these properties, our guide to [cleaning an older Toronto home](/journal/cleaning-older-toronto-home) covers the other surfaces that need special care. They're built to last. But the narrow spaces between the fins were never designed with easy cleaning in mind.
 
 Some homeowners have radiator covers, which look nice but make cleaning harder. If you have covers, remove them before you start. Clean the cover separately with soapy water and dry it thoroughly.
 

@@ -46,7 +46,7 @@ Clean inside and out if you can reach them. Pay attention to the tracks and sill
 
 ## Baseboards and trim
 
-Buyers look down more than you'd think. Dusty or scuffed baseboards make a clean room look neglected. Wipe them all down. Hit the scuffs with a magic eraser. It takes an hour for the whole house and it's worth every minute.
+Buyers look down more than you'd think. Dusty or scuffed baseboards make a clean room look neglected. Wipe them all down. Hit the scuffs with a magic eraser. It takes an hour for the whole house and it's worth every minute. The same attention applies to your [hardwood floors](/journal/hardwood-floors-cleaning), which buyers will scrutinize up close.
 
 ## Light fixtures
 
@@ -64,6 +64,6 @@ The front of your home is the first thing buyers see, online and in person.
 
 ## The Toronto spring market
 
-Everyone lists in spring. That means your home is competing with dozens of others in your neighbourhood. A clean home stands out. It's one of the cheapest things you can do to make your listing look better, feel better, and photograph better.
+Everyone lists in spring. That means your home is competing with dozens of others in your neighbourhood. If you're already planning seasonal maintenance, our [spring cleaning checklist for Toronto](/journal/spring-cleaning-checklist-toronto) pairs well with a pre-listing clean. A clean home stands out. It's one of the cheapest things you can do to make your listing look better, feel better, and photograph better.
 
-If you want the job done right before your listing goes live, PHS Cleaning does pre-listing cleans across Toronto and Mississauga. We know what realtors look for. Give us a call.
+If you want the job done right before your listing goes live, PHS Cleaning does pre-listing cleans across Toronto and Mississauga. Here's a full look at [what professional cleaning includes](/journal/what-professional-cleaning-includes) so you know what to expect. We know what realtors look for. Give us a call.

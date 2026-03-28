@@ -22,7 +22,7 @@ This is the biggest cleaning challenge for most cat owners. No matter what litte
 
 ## Cat hair
 
-Cat hair follows different rules than dog hair. It is finer, lighter, and sticks to fabric like it was designed to. Dark clothes, upholstered furniture, and bedding are the worst for showing it.
+Cat hair follows different rules than dog hair. If you also have a dog in the house, the combination is relentless, and the strategies differ. Our guide to [cleaning a home with dogs](/journal/cleaning-home-with-dogs) covers that side. Cat hair is finer, lighter, and sticks to fabric like it was designed to. Dark clothes, upholstered furniture, and bedding are the worst for showing it.
 
 **Upholstery**: Vacuum fabric furniture once a week with the upholstery attachment. Between vacuuming, a lint roller or a slightly damp rubber glove rubbed across the surface picks up hair fast. Keep a lint roller in the room where your cat spends the most time.
 
@@ -66,4 +66,4 @@ Cat food is small but it gets everywhere around the bowl. Dry kibble gets batted
 
 **Twice a year**: Move furniture and clean behind it, wash curtains the cat rubs against, check and clean HVAC vents that may be clogged with hair.
 
-That schedule keeps a cat home clean without making cleaning your whole personality. If you want a deep clean to reset or a regular cleaning schedule to keep things fresh, give PHS a call.
+That schedule keeps a cat home clean without making cleaning your whole personality. If lingering odours are still an issue despite regular cleaning, our [pet smell removal guide](/journal/pet-smell-removal) covers deeper solutions. If you want a deep clean to reset or a regular cleaning schedule to keep things fresh, give PHS a call.

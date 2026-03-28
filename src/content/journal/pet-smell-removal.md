@@ -12,7 +12,7 @@ It's not about having a dirty home. It's about knowing where the smell hides and
 
 **Carpets and rugs**: This is the biggest one. Pet hair, dander, and the oils from their fur settle deep into carpet fibres. Vacuuming picks up the surface layer, but the smell lives deeper than that.
 
-**Upholstery**: Wherever your pet likes to sit, that's where the smell is strongest. Couch cushions, armchair seats, throw pillows. The fabric absorbs it over time.
+**Upholstery**: Wherever your pet likes to sit, that's where the smell is strongest. Couch cushions, armchair seats, throw pillows. The fabric absorbs it over time. If you have dogs, our guide on [cleaning a home with dogs](/journal/cleaning-home-with-dogs) goes deeper into upholstery and shedding.
 
 **Curtains**: People forget about these. Curtains hang there collecting dust, dander, and cooking smells for months. If you have pets, they're holding onto all of it.
 
@@ -42,6 +42,6 @@ It's not about having a dirty home. It's about knowing where the smell hides and
 
 Regular cleaning handles the day-to-day. But if the smell has built up over months or years, especially in carpets, you may need a professional carpet cleaning. A hot water extraction service gets deep into the fibres in a way that vacuuming and baking soda can't.
 
-If you're getting your home cleaned regularly, your cleaner can stay on top of the surfaces, upholstery, and floors. That goes a long way.
+If you're getting your home cleaned regularly, your cleaner can stay on top of the surfaces, upholstery, and floors. Cat owners dealing with litter dust and dander have their own set of challenges, which we cover in [cleaning a home with cats](/journal/cleaning-home-with-cats). That goes a long way.
 
 At PHS Cleaning, we work in a lot of homes with pets across Toronto and Mississauga. We know where to look and what to use. If the smell is getting ahead of you, give us a call.

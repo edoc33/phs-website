@@ -12,7 +12,7 @@ Here's the truth. Contractors don't clean properly. That's not their job, and mo
 
 The obvious spots are covered in it. Counters, floors, windowsills. But it's the hidden spots that cause problems for months.
 
-**Inside every cabinet and drawer**: Open them. All of them. Kitchen, bathroom, closets. You'll find a layer of fine dust on every surface. If you put your dishes back without wiping things down, you're eating off dusty shelves.
+**Inside every cabinet and drawer**: Open them. All of them. Kitchen, bathroom, closets. You'll find a layer of fine dust on every surface. If you're dealing with a [new build condo](/journal/new-build-condo-cleaning), this step is identical. If you put your dishes back without wiping things down, you're eating off dusty shelves.
 
 **HVAC vents and filters**: This is critical. Construction dust gets into your ductwork and your furnace filter. Every time the system kicks on, it blows that dust back into your rooms. Replace the filter immediately after the work is done. Remove the vent covers and clean inside as far as you can reach.
 
@@ -56,4 +56,4 @@ Make sure the last worker has packed up, the last touch-up is done, and nobody e
 
 **Replace the HVAC filter again**: Two weeks after the initial clean, change the filter one more time. Residual dust will still be circulating.
 
-If your renovation is done and the dust is overwhelming, PHS Cleaning handles post-renovation cleanups across Toronto and Mississauga. It's one of the most common calls we get. Give us a call and we'll get your home back to normal.
+If your renovation is done and the dust is overwhelming, PHS Cleaning handles post-renovation cleanups across Toronto and Mississauga. If this is your first time [hiring a cleaner](/journal/hiring-cleaner-first-time), we'll walk you through the process. It's one of the most common calls we get. Give us a call and we'll get your home back to normal.

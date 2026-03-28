@@ -20,7 +20,7 @@ A quick 15-minute tidy the night before makes a big difference in what your clea
 
 Your cleaner wants to do a good job. Help them by being clear about a few things:
 
-**Priorities**: What matters most to you? Bathrooms? Kitchen? Floors? If you have limited time in the booking, knowing your priorities helps.
+**Priorities**: What matters most to you? Bathrooms? Kitchen? Floors? If you're not sure what's covered, here's a breakdown of [what professional cleaning includes](/journal/what-professional-cleaning-includes). If you have limited time in the booking, knowing your priorities helps.
 
 **Areas to skip**: Maybe you have a home office that's off limits, or a kid's room they'd rather handle themselves. That's fine. Just say so.
 
@@ -52,4 +52,4 @@ This comes up a lot. Tipping is not expected, but it's always appreciated. If yo
 
 You might feel guilty the first few times. Like you should be doing it yourself. That goes away too. Hiring a cleaner is not lazy. It's a decision about how you want to spend your time.
 
-At PHS Cleaning, we do this every day across Toronto and Mississauga. If you're thinking about trying it, give us a call. We'll walk you through everything before we ever pick up a cloth.
+At PHS Cleaning, we do this every day across Toronto and Mississauga. If you're still comparing options, our advice on [how to choose a cleaning service in Toronto](/journal/choose-cleaning-service-toronto) covers what to look for. If you're thinking about trying it, give us a call. We'll walk you through everything before we ever pick up a cloth.

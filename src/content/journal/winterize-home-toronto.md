@@ -20,13 +20,13 @@ A unit stored dirty and damp will smell terrible when you install it next June.
 
 Here is something most people do not think about. Your baseboards collect dust all year. When the furnace kicks on for the first time in October, that dust heats up. That burnt dust smell you notice the first day the heat runs is exactly that.
 
-Wipe all your baseboards with a damp cloth before you turn the heat on. If you have baseboard heaters, vacuum inside the covers with the crevice tool first, then wipe the covers down. This takes about 30 minutes for a whole house and prevents that unpleasant smell.
+Wipe all your baseboards with a damp cloth before you turn the heat on. If you have baseboard heaters, vacuum inside the covers with the crevice tool first, then wipe the covers down. We have a full walkthrough on [how to clean baseboard heaters properly](/journal/baseboard-heaters-cleaning) if you want the step-by-step. This takes about 30 minutes for a whole house and prevents that unpleasant smell.
 
 While you are down there, check for dust buildup on floor vents too. Pull the covers off, wash them, and vacuum inside the duct opening as far as you can reach.
 
 ## Deep clean the kitchen before holiday cooking
 
-November and December bring a lot of cooking. Thanksgiving, holiday dinners, baking. Your kitchen is about to get heavy use.
+November and December bring a lot of cooking. Thanksgiving, holiday dinners, baking. Your kitchen is about to get heavy use, and our [holiday cleaning tips](/journal/holiday-cleaning-tips) can help you stay on top of it through the season.
 
 **Clean the oven**: Run the self-clean cycle or use oven cleaner on a day when you can open a window for ventilation. A clean oven before the holidays means no burning residue smell while you are roasting a turkey.
 
@@ -70,6 +70,6 @@ Vacuum the mattress surface while it is stripped. Sprinkle baking soda on it, le
 
 ## The point of all this
 
-A few hours of focused cleaning in October sets your home up for a comfortable winter. The heat does not smell when it kicks on. The kitchen is ready for holiday cooking. The entryway is set up to handle six months of salt and slush. Furniture is stored properly instead of getting destroyed.
+A few hours of focused cleaning in October sets your home up for a comfortable winter. If you want a room-by-room breakdown, our [fall cleaning checklist](/journal/fall-cleaning-checklist) covers everything from gutters to bedding storage. The heat does not smell when it kicks on. The kitchen is ready for holiday cooking. The entryway is set up to handle six months of salt and slush. Furniture is stored properly instead of getting destroyed.
 
 If you would rather have someone handle the fall close-up for you, give PHS a call. We have been doing this in Toronto for over 30 years and we know exactly what needs attention before winter hits.

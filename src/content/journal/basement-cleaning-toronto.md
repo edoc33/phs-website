@@ -10,7 +10,7 @@ Whatever kind of basement you have, keeping it clean makes a difference for the 
 
 ## Why Toronto Basements Are the Way They Are
 
-The soil in the GTA holds moisture. Older homes often have stone or block foundations that let some of that moisture through. Even newer builds can get damp in the spring when the snow melts and the water table rises. Add in the fact that basements get the least airflow in the house, and you've got conditions that create dust, musty smells, and sometimes mould.
+The soil in the GTA holds moisture. [Older Toronto homes](/journal/cleaning-older-toronto-home) often have stone or block foundations that let some of that moisture through. Even newer builds can get damp in the spring when the snow melts and the water table rises. Add in the fact that basements get the least airflow in the house, and you've got conditions that create dust, musty smells, and sometimes mould.
 
 ## Run the Dehumidifier
 
@@ -49,7 +49,7 @@ Label everything. Future you will thank present you.
 
 ## Cobwebs in the Joists
 
-Open basements with exposed floor joists collect cobwebs like nowhere else in the house. A broom or a vacuum with a long attachment makes quick work of them. Hit the joists, the corners, and around the furnace and water heater. Spiders love the warm spots near mechanical equipment.
+Open basements with exposed floor joists collect cobwebs like nowhere else in the house. A broom or a vacuum with a long attachment makes quick work of them. Hit the joists, the corners, and around the furnace and water heater. Spiders love the warm spots near mechanical equipment. If you are seeing more than cobwebs, our guide to [preventing pests through cleaning](/journal/pests-cleaning-prevention) covers what to look for and how to keep them out.
 
 ## The Laundry Area
 

@@ -16,7 +16,7 @@ Spring is when your balcony needs the most attention. Five months of winter leav
 
 **Scrub bird droppings**: Pigeons and gulls love condo ledges. Their droppings are acidic and will stain concrete and damage wood or metal finishes if left too long. Soak dried droppings with warm water and dish soap for a few minutes. Scrub with a stiff brush. Do not scrape dry droppings because the dust is not good to breathe in.
 
-**Wash the pollen film off glass**: By late April, the balcony glass panels or railings have a visible yellow-green film. A bucket of warm water with a splash of vinegar and a squeegee takes care of it. Wipe the railing tops too.
+**Wash the pollen film off glass**: By late April, the balcony glass panels or railings have a visible yellow-green film. If you just moved into a [new-build condo](/journal/new-build-condo-cleaning), you may also be dealing with construction film on the glass. A bucket of warm water with a splash of vinegar and a squeegee takes care of it. Wipe the railing tops too.
 
 **Check your furniture**: Pull covers off any furniture you left out. Wipe everything down. Check for mould on cushions that were stored in a damp spot over winter. If cushions smell musty, they may need replacing.
 
@@ -60,4 +60,4 @@ You are probably not spending time on your balcony in January. But a few things 
 
 **Spring**: One deep clean. About an hour. **Summer**: Five minutes a week. **Fall**: Thirty minutes to winterize. **Winter**: Check on it once or twice a month.
 
-That is all it takes. If you want someone else to handle the spring deep clean or a regular summer wipe-down, give PHS a call.
+That is all it takes. For more tips on keeping your unit in shape, see our [condo cleaning tips for Toronto](/journal/condo-cleaning-tips-toronto). If you want someone else to handle the spring deep clean or a regular summer wipe-down, give PHS a call.

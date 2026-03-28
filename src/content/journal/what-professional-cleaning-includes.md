@@ -53,7 +53,7 @@ A deep clean covers everything in the standard clean, plus areas that don't need
 - **Inside cabinets** (if requested): Wiping shelves and reorganizing
 - **Detailed dusting**: Crown moulding, door frames, vents, blinds
 
-Most people book a deep clean once or twice a year, or as their first cleaning when they start with a new service. After the first deep clean, regular standard visits keep everything in good shape.
+Most people book a deep clean once or twice a year, or as their first cleaning when they start with a new service. If you're unsure how often your home needs one, our guide on [how often to deep clean your home](/journal/how-often-deep-clean-mississauga) breaks it down. After the first deep clean, regular standard visits keep everything in good shape.
 
 ## What's Usually Not Included
 
@@ -66,7 +66,7 @@ There are some things that fall outside a typical cleaning service. This varies 
 - **Heavy lifting**: Moving large furniture, carrying boxes, or rearranging rooms isn't something we do for safety reasons.
 - **Repairs**: We'll tell you if we notice a problem (like mould under the sink or a leaking faucet), but fixing it isn't our job.
 
-If there's something specific you want included, ask. Most companies are happy to add things to the scope if you let them know ahead of time.
+If there's something specific you want included, ask. Most companies are happy to add things to the scope if you let them know ahead of time. Knowing [how to choose a cleaning service](/journal/choose-cleaning-service-toronto) that communicates well makes this much easier.
 
 ## How to Communicate What Matters to You
 
@@ -76,6 +76,6 @@ The best thing you can do is tell your cleaner what matters to you. A good clean
 
 ## The First Visit vs Ongoing Visits
 
-The first visit usually takes longer. There may be buildup that hasn't been addressed in a while, and the cleaner is also learning the layout of your home. After that, regular visits are faster and more efficient because the maintenance work is lighter.
+The first visit usually takes longer. If you've never done this before, our guide on [hiring a cleaner for the first time](/journal/hiring-cleaner-first-time) covers what to expect. There may be buildup that hasn't been addressed in a while, and the cleaner is also learning the layout of your home. After that, regular visits are faster and more efficient because the maintenance work is lighter.
 
 PHS has been cleaning homes in Toronto and Mississauga for over 30 years. If you have questions about what we include or want to talk through what your home needs, give us a call. We'll give you a clear, honest answer.

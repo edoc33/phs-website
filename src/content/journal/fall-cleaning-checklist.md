@@ -4,7 +4,7 @@ description: "A practical fall cleaning checklist for Toronto homeowners. Get ah
 date: 2025-09-22
 ---
 
-In Toronto, you get about four good weeks between the leaves coming down and the first real snow. That window is when you want to get your fall cleaning done.
+In Toronto, you get about four good weeks between the leaves coming down and the first real snow. That window is when you want to get your fall cleaning done. When spring rolls around, you can use our [spring cleaning checklist for Toronto](/journal/spring-cleaning-checklist-toronto) to open the house back up.
 
 Here is what to tackle before winter settles in.
 
@@ -54,6 +54,6 @@ If you're in the city, the first frost usually comes in mid-October, and real sn
 - **Exterior**: Clean gutters, sweep porch, store outdoor furniture
 - **Basement**: Check for moisture, run the dehumidifier one more time before winter
 
-You don't have to do it all in one weekend. Pick a few tasks each week through October and you'll be in good shape before the snow comes.
+You don't have to do it all in one weekend. Pick a few tasks each week through October and you'll be in good shape before the snow comes. For the bigger picture on sealing up and preparing your home, see our guide to [winterizing your home in Toronto](/journal/winterize-home-toronto).
 
 If you'd rather hand it off, PHS offers fall deep cleans for homes across Toronto and Mississauga. Give us a call and we'll get it sorted for you.

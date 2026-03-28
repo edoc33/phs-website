@@ -41,7 +41,7 @@ If you have pets, you might want to vacuum the fins once more mid-winter. Pet ha
 
 ## A Note for Toronto Homeowners
 
-About half the older housing stock in Toronto and Mississauga has baseboard heaters, especially in bungalows, townhouses, and older apartments. If your home was built between the 1950s and 1980s, chances are you've got them in at least a few rooms. They're reliable and they last a long time, but they do need this basic maintenance to work well and not smell up your house every October.
+About half the older housing stock in Toronto and Mississauga has baseboard heaters, especially in bungalows, townhouses, and older apartments. If your home has cast iron radiators instead, the process is different; see our guide to [cleaning radiators in older Toronto homes](/journal/radiator-cleaning-toronto). If your home was built between the 1950s and 1980s, chances are you've got them in at least a few rooms. They're reliable and they last a long time, but they do need this basic maintenance to work well and not smell up your house every October.
 
 ## Safety Tips
 
@@ -50,6 +50,6 @@ About half the older housing stock in Toronto and Mississauga has baseboard heat
 - Keep furniture, curtains, and anything flammable at least a few inches away from the heater.
 - If a heater is making unusual noises or not producing heat after cleaning, call an electrician. Don't try to fix the wiring yourself.
 
-Cleaning baseboard heaters is one of those small jobs that makes a real difference. Fifteen minutes per heater and your house will smell fine when the cold weather arrives.
+Cleaning baseboard heaters is one of those small jobs that makes a real difference. Fifteen minutes per heater and your house will smell fine when the cold weather arrives. While you are at it, give the [baseboards themselves a wipe-down](/journal/baseboard-cleaning) too, since dust collects on the trim just as much as inside the heater. It is also a smart task to add to your fall routine when you are [getting your home ready for winter](/journal/winterize-home-toronto).
 
 If cleaning heaters isn't your idea of a good weekend, PHS includes them in our deep clean services. Give us a call and we'll take care of it.

@@ -26,7 +26,7 @@ You don't need special products. You need two things: a dry microfibre cloth and
 
 **Step three: Magic eraser for stubborn marks.** Some scuffs don't come off with soap and water. A magic eraser handles those. Just rub gently. It works on painted wood and MDF baseboards, which is what most Toronto homes have.
 
-That's it. Three steps.
+That's it. Three steps. While you're down there, it's a good time to tackle [crown moulding](/journal/crown-moulding-cleaning) too, since dust settles on both.
 
 ## How to do a whole house in under an hour
 
@@ -48,4 +48,4 @@ Baseboards are one of those things that nobody notices when they're clean, but e
 
 It's not a fun job. But it's a fast one when you have a system.
 
-If you'd rather not do it at all, that's what we're here for. At PHS Cleaning, baseboards are part of our regular deep cleaning service across Toronto and Mississauga. Give us a call and we'll take care of it.
+If you're already on your hands and knees, you might as well knock out the [baseboard heaters](/journal/baseboard-heaters-cleaning) and [light fixtures and ceiling fans](/journal/light-fixtures-ceiling-fans) in the same session. If you'd rather not do it at all, that's what we're here for. At PHS Cleaning, baseboards are part of our regular deep cleaning service across Toronto and Mississauga. Give us a call and we'll take care of it.

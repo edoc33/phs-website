@@ -10,7 +10,7 @@ Here is how to get it under control.
 
 ## When to open windows and when to keep them closed
 
-After a long winter, the urge to throw every window open is strong. But if pollen triggers your allergies, you need to be strategic about it.
+After a long winter, the urge to throw every window open is strong. If you are planning your [first open-window clean of the year](/journal/first-open-window-clean), pollen is something to factor in. If it triggers your allergies, you need to be strategic about it.
 
 **Best time to open**: After a heavy rain. Rain knocks pollen out of the air and washes it off surfaces. The first few hours after a good rainfall are the cleanest air you will get in spring.
 
@@ -68,4 +68,4 @@ Focus your allergy cleaning on two rooms: bedrooms and the main living area.
 
 **Damp dust, always**: Dry dusting pushes pollen into the air. A damp cloth or microfibre cloth picks it up and holds it.
 
-Spring in Toronto is beautiful. A little extra cleaning lets you enjoy it without the sneezing. If you want a thorough spring cleaning to start the season right, give PHS a call.
+Spring in Toronto is beautiful. A little extra cleaning lets you enjoy it without the sneezing. If you want a thorough [spring cleaning to start the season right](/journal/spring-cleaning-checklist-toronto), give PHS a call.

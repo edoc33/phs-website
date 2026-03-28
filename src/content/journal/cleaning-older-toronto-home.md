@@ -17,7 +17,7 @@ Most older Toronto homes have original hardwood, usually oak or maple. These flo
 - **Never use a steam mop.** The heat and moisture are too much for old hardwood.
 - **Skip the vinegar.** It's too acidic for floors with a polyurethane finish.
 
-If your floors look dull even after cleaning, the finish may be worn through. Cleaning won't fix that. They need refinishing.
+For the full rundown on products, routines, and salt stain removal, see our guide to [cleaning hardwood floors without damaging them](/journal/hardwood-floors-cleaning). If your floors look dull even after cleaning, the finish may be worn through. Cleaning won't fix that. They need refinishing.
 
 ## Plaster Walls
 
@@ -30,11 +30,11 @@ Older homes have plaster walls instead of drywall. Plaster is harder and more du
 
 ## Radiators
 
-Cast iron radiators are common in older Toronto homes. They heat wonderfully but they trap dust in all the narrow spaces between the fins. We wrote a whole separate post on cleaning radiators, but the short version is this: use a long radiator brush between the fins, vacuum up what falls, and wipe down the exterior. Do it before heating season.
+Cast iron radiators are common in older Toronto homes. They heat wonderfully but they trap dust in all the narrow spaces between the fins. We wrote a whole separate post on [cleaning radiators in Toronto](/journal/radiator-cleaning-toronto), but the short version is this: use a long radiator brush between the fins, vacuum up what falls, and wipe down the exterior. Do it before heating season.
 
 ## Original Wood Trim and Moulding
 
-Many older homes have beautiful original trim around doors, windows, and along the ceiling. Some of it is stained, some painted over many times.
+Many older homes have beautiful original trim around doors, windows, and along the ceiling, including [crown moulding that needs its own cleaning approach](/journal/crown-moulding-cleaning). Some of it is stained, some painted over many times.
 
 - Dust regularly with a dry microfibre cloth.
 - For cleaning, use a damp cloth with a tiny bit of mild dish soap. Dry immediately.
@@ -51,7 +51,7 @@ Kitchens in older homes often have features that trap grease in unexpected place
 
 ## Basements
 
-Almost every older Toronto home has a basement that's at least a little damp and perpetually dusty. Stone or block foundations let moisture in. Exposed floor joists collect cobwebs. The laundry area gets linty. Run a dehumidifier, sweep regularly, and check for any signs of mould.
+Almost every older Toronto home has a [basement that's at least a little damp](/journal/basement-cleaning-toronto) and perpetually dusty. Stone or block foundations let moisture in. Exposed floor joists collect cobwebs. The laundry area gets linty. Run a dehumidifier, sweep regularly, and check for any signs of mould.
 
 ## Lead Paint Caution
 

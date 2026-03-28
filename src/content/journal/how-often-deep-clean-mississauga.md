@@ -19,7 +19,7 @@ A deep clean goes beyond your regular tidying. It includes things like:
 - Scrubbing bathroom grout and fixtures
 - Dusting ceiling fans, vents, and light fixtures
 
-This is the kind of cleaning that resets your home. Regular cleaning keeps things tidy in between.
+This is the kind of cleaning that resets your home. If you are not sure [what a professional deep clean includes](/journal/what-professional-cleaning-includes), the scope goes well beyond regular tidying.
 
 ## It Depends on Your Home
 
@@ -33,7 +33,7 @@ A couple in a Lorne Park condo and a family of five in Churchill Meadows have ve
 
 ### Pets
 
-If you have dogs or cats, hair and dander build up fast. It gets into the upholstery, under the furniture, and into every corner. Pet owners in Mississauga should plan on a deep clean every 2-3 months.
+If you have dogs or cats, hair and dander build up fast. It gets into the upholstery, under the furniture, and into every corner. Pet owners in Mississauga should plan on a deep clean every 2-3 months. If dogs are the main culprit, our guide to [cleaning a home with dogs](/journal/cleaning-home-with-dogs) covers the daily habits that help between deep cleans.
 
 ### Allergies
 

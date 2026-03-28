@@ -26,13 +26,13 @@ New does not mean clean. I've cleaned hundreds of new condos across Toronto and 
 
 **Run the exhaust fans**: Turn on the kitchen range hood and the bathroom exhaust fan. Let them run for a few hours when you first move in. They help pull fine airborne dust out of the unit. Open a window if you can to improve airflow.
 
-**Clean before you unpack**: This is important. If you unpack boxes and set up your furniture first, you're trapping dust underneath and behind everything. Do the full clean while the unit is still empty. You'll be able to reach everything.
+**Clean before you unpack**: This is important. If you unpack boxes and set up your furniture first, you're trapping dust underneath and behind everything. Do the full clean while the unit is still empty. You'll be able to reach everything. Our [move-in cleaning guide for the GTA](/journal/move-in-cleaning-guide-gta) has a full checklist for this stage.
 
 ## How thorough should the first clean be
 
 Very. This is not a surface wipe. Plan for a full day in a one-bedroom unit, longer for a two-bedroom. Every surface needs attention. Inside every cabinet. Behind the toilet. Under the kitchen sink. The top of door frames. The tracks of sliding closet doors.
 
-It's a lot of work. But you only need to do it once. After this reset, regular cleaning keeps everything in good shape.
+It's a lot of work. But you only need to do it once. The process is similar to a [post-renovation cleanup](/journal/post-renovation-cleanup), where construction dust hides in the same places. After this reset, regular cleaning keeps everything in good shape. For ongoing tips, see our [condo cleaning guide for small Toronto spaces](/journal/condo-cleaning-tips-toronto).
 
 ## A word about builder cleans
 

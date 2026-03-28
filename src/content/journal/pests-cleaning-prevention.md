@@ -6,7 +6,7 @@ date: 2025-07-14
 
 Most pest problems start with a cleaning problem. Not a dirty house, necessarily. Just missed spots where crumbs, moisture, or clutter give pests exactly what they need. A mouse does not need a messy kitchen. It needs one gap under the stove and a few crumbs it can find every night.
 
-Here is what attracts the most common household pests in Toronto and how simple cleaning habits keep them out.
+Outside, the same food scraps that draw [raccoons to your bins](/journal/raccoon-cleanup-toronto) can bring mice and ants indoors too. Here is what attracts the most common household pests in Toronto and how simple cleaning habits keep them out.
 
 ## Mice
 
@@ -45,7 +45,7 @@ Spiders are less about food and more about habitat. They like quiet, undisturbed
 **Cleaning habits that prevent them**:
 
 - **Dust corners and ceiling edges** regularly. Knock down webs when you see them. Spiders will rebuild, but if you keep clearing them, the spider will move on to a quieter spot.
-- **Reduce basement clutter**: Stacks of cardboard boxes on the floor are ideal spider habitat. Switch to plastic bins with lids. Get things up off the floor on shelves.
+- **Reduce basement clutter**: Stacks of cardboard boxes on the floor are ideal spider habitat. A thorough [basement cleaning](/journal/basement-cleaning-toronto) helps eliminate hiding spots. Switch to plastic bins with lids. Get things up off the floor on shelves.
 - **Vacuum along baseboards** in rooms you do not use often. Guest rooms, storage rooms, and basement corners are where spiders set up.
 - **Seal entry points**: This is more of a maintenance task than a cleaning task, but check weather stripping around doors and caulking around windows. If bugs cannot get in, spiders have no reason to follow.
 

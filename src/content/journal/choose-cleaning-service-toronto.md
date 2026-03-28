@@ -16,7 +16,7 @@ I've been cleaning homes in Toronto for over 30 years. In that time, I've seen g
 
 **They show up when they say they will**: Reliability matters more than anything. A great clean means nothing if they cancel on you the morning of.
 
-**They ask about your home first**: Before the first visit, a good cleaner wants to know about your space. How many rooms. Any pets. Allergies. Areas you care about most. If they don't ask, they're guessing.
+**They ask about your home first**: Before the first visit, a good cleaner wants to know about your space. How many rooms. Any pets. Allergies. Areas you care about most. If they don't ask, they're guessing. If you want to know [what a professional cleaning actually includes](/journal/what-professional-cleaning-includes), we've laid that out separately.
 
 ## Red flags
 
@@ -55,4 +55,4 @@ That's not just cleaning. That's care.
 
 I built PHS Cleaning on this idea. Every client gets the same cleaner, every visit. It's not complicated. It just takes a company that values people over volume.
 
-If you're looking for someone reliable in Toronto or Mississauga, give us a call. We're happy to answer any questions before you decide.
+If this is your first time bringing someone in, our guide on [hiring a cleaner for the first time](/journal/hiring-cleaner-first-time) walks you through what to expect. If you're looking for someone reliable in Toronto or Mississauga, give us a call. We're happy to answer any questions before you decide.
