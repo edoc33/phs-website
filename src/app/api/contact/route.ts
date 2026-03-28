@@ -1,7 +1,9 @@
 import { NextResponse } from "next/server";
 import { GoogleAuth } from "google-auth-library";
+import nodemailer from "nodemailer";
 
 const SHEET_ID = "1Ee232T5_ewQaruEiSgq49y5IE7x_v_VQSP3pQ_sCfJQ";
+const NOTIFY_EMAILS = ["eric.docouto@gmail.com", "portugusehousekeeping@gmail.com"];
 
 export async function POST(request: Request) {
   try {
@@ -15,6 +17,7 @@ export async function POST(request: Request) {
       );
     }
 
+    // 1. Write to Google Sheet
     const credentials = JSON.parse(
       process.env.GOOGLE_SERVICE_ACCOUNT_KEY || "{}"
     );
@@ -59,6 +62,36 @@ export async function POST(request: Request) {
         { error: "Failed to save submission." },
         { status: 500 }
       );
+    }
+
+    // 2. Send email notification
+    try {
+      const transporter = nodemailer.createTransport({
+        service: "gmail",
+        auth: {
+          user: process.env.GMAIL_USER,
+          pass: process.env.GMAIL_APP_PASSWORD,
+        },
+      });
+
+      await transporter.sendMail({
+        from: `"PHS Website" <${process.env.GMAIL_USER}>`,
+        to: NOTIFY_EMAILS.join(", "),
+        subject: `New Call-Back Request: ${firstName} ${lastName}`,
+        text: [
+          `New request from portuguesemaids.ca`,
+          ``,
+          `Name: ${firstName} ${lastName}`,
+          `Email: ${email}`,
+          `Phone: ${phone}`,
+          `Details: ${details || "None provided"}`,
+          ``,
+          `Submitted: ${new Date().toLocaleString("en-CA", { timeZone: "America/Toronto" })}`,
+        ].join("\n"),
+      });
+    } catch (emailErr) {
+      // Log but don't fail the request — the sheet entry was saved
+      console.error("Email notification failed:", emailErr);
     }
 
     return NextResponse.json({ status: "ok" });

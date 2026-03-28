@@ -123,7 +123,7 @@ export default function RequestCallBackPage() {
             {/* Name row */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
               <div>
-                <label htmlFor="firstName" className="label-upper text-on-surface-variant/60 block mb-4">
+                <label htmlFor="firstName" className="label-upper text-on-surface block mb-4">
                   First name <span className="text-gold">*</span>
                 </label>
                 <input
@@ -137,7 +137,7 @@ export default function RequestCallBackPage() {
                 />
               </div>
               <div>
-                <label htmlFor="lastName" className="label-upper text-on-surface-variant/60 block mb-4">
+                <label htmlFor="lastName" className="label-upper text-on-surface block mb-4">
                   Last name <span className="text-gold">*</span>
                 </label>
                 <input
@@ -154,7 +154,7 @@ export default function RequestCallBackPage() {
 
             {/* Email */}
             <div>
-              <label htmlFor="email" className="label-upper text-on-surface-variant/60 block mb-4">
+              <label htmlFor="email" className="label-upper text-on-surface block mb-4">
                 Email address <span className="text-gold">*</span>
               </label>
               <input
@@ -170,7 +170,7 @@ export default function RequestCallBackPage() {
 
             {/* Phone */}
             <div>
-              <label htmlFor="phone" className="label-upper text-on-surface-variant/60 block mb-4">
+              <label htmlFor="phone" className="label-upper text-on-surface block mb-4">
                 Phone <span className="text-gold">*</span>
               </label>
               <input
@@ -186,7 +186,7 @@ export default function RequestCallBackPage() {
 
             {/* Details */}
             <div>
-              <label htmlFor="details" className="label-upper text-on-surface-variant/60 block mb-4">
+              <label htmlFor="details" className="label-upper text-on-surface block mb-4">
                 Tell us about your home
               </label>
               <textarea
