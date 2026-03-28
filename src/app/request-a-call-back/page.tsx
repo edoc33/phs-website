@@ -247,7 +247,7 @@ export default function RequestCallBackPage() {
             </h2>
             <p className="text-primary-fixed-dim/50 text-[1.05rem] leading-relaxed mb-12">
               Denise has run PHS for over 30 years. She personally knows every
-              client. The same team shows up every visit. That&apos;s the difference.
+              client. You get the same cleaner each visit, someone who already knows your home.
             </p>
             <div className="flex gap-16">
               <div>

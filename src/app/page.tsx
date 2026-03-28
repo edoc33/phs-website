@@ -16,7 +16,8 @@ function Hero() {
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-md">
             Denise has run PHS for 30 years. She knows every client by name.
-            The same team shows up every visit. That&apos;s why every client
+            You get the same cleaner each visit, someone who already knows
+            your home. That&apos;s why every client
             we&apos;ve ever had came from a referral.
           </p>
           <div className="animate-fade-up-3 mt-12 flex flex-wrap items-center gap-6">
@@ -195,7 +196,7 @@ function TrustSection() {
             {
               num: "02",
               title: "Background-Checked and Insured",
-              desc: "Every team member is vetted, insured, and trained by Denise. The same people come to your home every time.",
+              desc: "Every cleaner is vetted, insured, and trained by Denise. You\u2019ll get the same person each visit, someone who already knows your home.",
             },
             {
               num: "03",
