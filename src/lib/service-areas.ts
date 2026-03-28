@@ -18,9 +18,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "Peel Region",
     headline: "House Cleaning in Mississauga",
     description:
-      "Professional house cleaning services in Mississauga. Our office is right here in the city. We know every neighbourhood and have been cleaning Mississauga homes for over 30 years.",
+      "Most cleaning companies send whoever is available. We send the same person, every time. Owner-operated house cleaning in Mississauga since 1994.",
     intro:
-      "Mississauga is home to our office and where Portuguese Housekeeping Services began over 30 years ago. From lakeside condos in Port Credit to family homes in Erin Mills, we know this city inside and out. Our cleaners live locally, arrive on time, and treat every home like their own.",
+      "Our office is in Mississauga. This is where we started over 30 years ago, and most of our longest-standing clients are here. From lakeside condos in Port Credit to family homes in Erin Mills, your cleaner already knows the neighbourhood because they live in it. You will never have to re-explain how you like things done. That is the difference between hiring a company and hiring Denise's team.",
     neighborhoods: [
       "Port Credit",
       "Streetsville",
@@ -37,7 +37,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Mississauga",
     metaDescription:
-      "Trusted house cleaning in Mississauga for 30+ years. Same cleaner every visit, weekly/bi-weekly/monthly. Call (905) 501-1509 for a free quote.",
+      "Owner-operated house cleaning in Mississauga since 1994. Same cleaner every visit, $45/hr, weekly/bi-weekly/monthly. Call (905) 501-1509.",
   },
   // Toronto
   {
@@ -46,9 +46,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in Toronto",
     description:
-      "Professional house cleaning services across Toronto. From downtown condos to family homes in the east end, we bring the same care and consistency to every visit.",
+      "Not a franchise. Not an app. A family-owned cleaning company where the owner knows your name and the same person cleans your home every visit.",
     intro:
-      "Toronto families have trusted Portuguese Housekeeping Services for decades. Whether you live in a Midtown Victorian, a downtown condo, or a home in the Beaches, we assign you the same cleaner every visit. Someone who learns your home and your preferences. No rotating crews, no surprises.",
+      "Most Toronto cleaning companies book you online and send whoever is free that day. You get a stranger each time, explain everything again, and hope for the best. We work differently. Denise assigns one cleaner to your home. That person learns your space, your preferences, and your schedule. They come back every visit. After 30 years, every single client we have came through a referral. That does not happen by accident.",
     neighborhoods: [
       "Downtown",
       "Midtown",
@@ -66,7 +66,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Toronto",
     metaDescription:
-      "Trusted house cleaning in Toronto for 30+ years. Owner-operated, same cleaner every visit. Weekly, bi-weekly & monthly. Call (905) 501-1509.",
+      "Owner-operated house cleaning in Toronto. Same cleaner every visit, not a franchise. 30+ years, 100% referral-built. Call (905) 501-1509.",
   },
   // Toronto neighbourhoods
   {
@@ -75,9 +75,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in Etobicoke",
     description:
-      "Professional house cleaning services in Etobicoke. Just minutes from our Mississauga office, we serve families across every Etobicoke neighbourhood.",
+      "Just minutes from our Mississauga office. Your cleaner arrives on time because they are not driving across the city between appointments.",
     intro:
-      "Etobicoke is one of our closest service areas, just minutes from our Mississauga office. We clean homes across the Kingsway, Mimico, Long Branch, and everywhere in between. Families here appreciate that we show up on time, every time, with the same trusted cleaner they already know.",
+      "Etobicoke families often tell us they tried a franchise first. Different person every time, no one remembered the alarm code, and they had to show the new cleaner around every visit. That is not how we work. We are based right next door in Mississauga. Your cleaner knows the Kingsway, knows Mimico, knows Long Branch. They show up on the same day, at the same time, and already know exactly what your home needs.",
     neighborhoods: [
       "The Kingsway",
       "Mimico",
@@ -90,7 +90,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Etobicoke",
     metaDescription:
-      "Reliable house cleaning in Etobicoke. Family-owned, 30+ years experience. Same cleaner every visit. Call (905) 501-1509 for a free quote.",
+      "House cleaning in Etobicoke from a family company based minutes away. Same cleaner every visit, 30+ years experience. Call (905) 501-1509.",
   },
   {
     slug: "north-york",
@@ -98,9 +98,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in North York",
     description:
-      "Professional house cleaning services in North York. From Yonge & Sheppard condos to Willowdale family homes, we deliver consistent, trusted cleaning.",
+      "Condos, townhomes, detached homes. One cleaner who knows yours. Not a rotating crew from an app.",
     intro:
-      "North York is home to a wide mix of condos, townhomes, and detached homes, and we clean them all. Whether you're near the Yonge corridor or out in Bayview Village, your assigned cleaner already knows the building, the layout, and your preferences.",
+      "North York has everything from high-rise condos along the Yonge corridor to large detached homes in Bayview Village. Most cleaning apps treat them all the same and send whoever is closest. We match you with one cleaner who learns your specific home. They know which floors need extra care, which rooms to skip, and how you like the kitchen left. You will never explain it twice.",
     neighborhoods: [
       "Willowdale",
       "Bayview Village",
@@ -114,7 +114,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in North York",
     metaDescription:
-      "Trusted house cleaning in North York. Same dedicated cleaner every visit, 30+ years experience. Weekly & bi-weekly. Call (905) 501-1509.",
+      "House cleaning in North York. One dedicated cleaner, not a rotating crew. Owner-operated, 30+ years. Call (905) 501-1509.",
   },
   {
     slug: "scarborough",
@@ -122,9 +122,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in Scarborough",
     description:
-      "Professional house cleaning services in Scarborough. Reliable, consistent cleaning from a family-owned company that's served the GTA for 30+ years.",
+      "The same quality and personal attention our Mississauga and downtown clients get. One cleaner, assigned to your home, every visit.",
     intro:
-      "Scarborough families deserve the same quality and consistency that our Mississauga and downtown clients have enjoyed for decades. We assign one dedicated cleaner to your home. Someone who learns every room, every preference, and shows up the same day, every visit.",
+      "A lot of cleaning companies focus on downtown and treat Scarborough as an afterthought. We don't. Your home gets the same dedicated cleaner, the same consistency, and the same attention as a Forest Hill estate or a Port Credit condo. One person assigned to your home who learns every room, every preference, and shows up the same day every visit. That is what 30 years of referral-only growth looks like.",
     neighborhoods: [
       "Agincourt",
       "Birch Cliff",
@@ -138,7 +138,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Scarborough",
     metaDescription:
-      "Professional house cleaning in Scarborough. Owner-operated, same cleaner every visit, 30+ years trusted service. Call (905) 501-1509.",
+      "House cleaning in Scarborough. Same dedicated cleaner every visit, owner-operated, 30+ years. Call (905) 501-1509.",
   },
   {
     slug: "downtown-toronto",
@@ -146,9 +146,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in Downtown Toronto",
     description:
-      "Professional house cleaning for downtown Toronto condos and homes. We handle condo access, concierge check-in, and keep your space spotless on your schedule.",
+      "Your cleaner already knows the concierge, the parking, and the elevator code. You do not have to manage anything.",
     intro:
-      "Downtown living is fast-paced. Your cleaning shouldn't be another thing to manage. We handle concierge check-ins, condo access, and parking logistics so you don't have to. Your cleaner knows your unit, your building, and exactly how you like things. Most of our downtown clients have had the same cleaner for years.",
+      "Downtown condo cleaning is a hassle with most companies. You have to arrange building access, explain the concierge process, figure out parking, and hope the cleaner actually shows up. With us, your assigned cleaner already knows your building. They handle the concierge, the elevator, and the parking. Most of our downtown clients have had the same cleaner for years. You just come home to a clean unit.",
     neighborhoods: [
       "Financial District",
       "Entertainment District",
@@ -163,7 +163,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Downtown Toronto",
     metaDescription:
-      "Downtown Toronto condo & house cleaning. Same cleaner every visit, concierge-friendly, 30+ years trusted service. Call (905) 501-1509.",
+      "Downtown Toronto condo cleaning. Your cleaner knows the building, the concierge, and your unit. Same person every visit. Call (905) 501-1509.",
   },
   {
     slug: "midtown-toronto",
@@ -171,9 +171,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in Midtown Toronto",
     description:
-      "Professional house cleaning in Midtown Toronto. From Forest Hill estates to Yonge and Eglinton condos, we deliver consistent, careful cleaning.",
+      "Most of our longest-standing clients are in Midtown. They found us through a neighbour. That is how it has worked for 30 years.",
     intro:
-      "Midtown is where some of our longest-standing clients live. The tree-lined streets of Forest Hill, Deer Park, and Davisville have trusted us for years, often through word of mouth from a neighbour. We understand the standards here, and our cleaners meet them every single visit.",
+      "The homes in Forest Hill, Deer Park, and Davisville have standards. The families who live here have tried other cleaners and know the difference between someone who shows up and someone who actually cares about the work. Most of our Midtown clients came to us through a neighbour's recommendation. They stay because the same cleaner comes every visit and the quality never drops. We have never had to advertise here. The work speaks for itself.",
     neighborhoods: [
       "Forest Hill",
       "Deer Park",
@@ -186,7 +186,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Midtown Toronto",
     metaDescription:
-      "Midtown Toronto house cleaning. Trusted for 30+ years in Forest Hill, Deer Park & Yonge-Eglinton. Same cleaner every visit. Call (905) 501-1509.",
+      "Midtown Toronto house cleaning. Trusted in Forest Hill, Deer Park, and Yonge-Eglinton for 30+ years. Same cleaner every visit. Call (905) 501-1509.",
   },
   {
     slug: "the-beaches-toronto",
@@ -194,9 +194,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in The Beaches",
     description:
-      "Professional house cleaning in The Beaches, Toronto. Consistent, reliable cleaning for families in one of Toronto's most beloved neighbourhoods.",
+      "A small company for a small-town neighbourhood. The owner knows your name. Your cleaner knows your home.",
     intro:
-      "The Beaches is a neighbourhood that feels like a small town inside a big city, and we fit right in. We're a small, family-owned company where every client knows the owner by name. Your cleaner knows your home, your kids' schedules, and exactly when to come and go.",
+      "The Beaches feels like a small town, and we fit right in. We are not a franchise with a call centre. Denise knows every client by name. Your cleaner knows your home, your schedule, and your kids' names. When you need to change a day or add something extra, you call one person and it is handled. That is what you lose when you book through an app.",
     neighborhoods: [
       "Upper Beaches",
       "Woodbine Beach",
@@ -206,7 +206,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in The Beaches, Toronto",
     metaDescription:
-      "Trusted house cleaning in The Beaches. Family-owned, same cleaner every visit, 30+ years experience. Call (905) 501-1509 for a free quote.",
+      "House cleaning in The Beaches. Family-owned, owner knows every client. Same cleaner every visit. Call (905) 501-1509.",
   },
   {
     slug: "high-park",
@@ -214,9 +214,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in High Park",
     description:
-      "Professional house cleaning in the High Park area. Reliable, owner-operated cleaning for families in one of Toronto's most family-friendly neighbourhoods.",
+      "Families along Bloor West and Roncesvalles who care about their homes hire cleaners they actually know. Not whoever the app sends.",
     intro:
-      "The High Park neighbourhood attracts families who care about quality of life, and quality cleaning is part of that. We've served homes along Bloor West, Roncesvalles, and the side streets near the park for years. Same cleaner, same schedule, same peace of mind.",
+      "High Park families care about quality of life, and that includes who comes into their home. Most cleaning apps send a different person each time. You never build trust, never build a routine, and the quality varies week to week. We assign one cleaner to your home. They learn your space, your preferences, and your schedule. Same person, every visit, for as long as you want. We have served homes along Bloor West and Roncesvalles for years, almost always because a neighbour recommended us.",
     neighborhoods: [
       "High Park North",
       "High Park South",
@@ -228,7 +228,7 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in High Park, Toronto",
     metaDescription:
-      "High Park area house cleaning. Owner-operated, 30+ years trusted service, same cleaner every visit. Call (905) 501-1509.",
+      "High Park house cleaning. One cleaner who knows your home, not a rotating crew. Owner-operated, 30+ years. Call (905) 501-1509.",
   },
   {
     slug: "leslieville",
@@ -236,9 +236,9 @@ export const serviceAreas: ServiceArea[] = [
     region: "City of Toronto",
     headline: "House Cleaning in Leslieville",
     description:
-      "Professional house cleaning in Leslieville and the east end of Toronto. Reliable, consistent service from a company that's been trusted for 30+ years.",
+      "Young families in renovated Victorians need a cleaner who learns their home, not one who reads instructions off an app every visit.",
     intro:
-      "Leslieville's mix of young families and renovated Victorians is a perfect fit for our approach: one dedicated cleaner who learns your home and keeps it exactly how you like. No apps, no rotating strangers. Just Denise's team, doing what we've done for three decades.",
+      "Leslieville is full of young families who just renovated a Victorian and want someone to help keep it that way. The big cleaning companies send a different crew every time. They don't know your home, your floors, or what products you prefer. We do it differently. One cleaner, assigned to you, who comes back every visit. No app, no rotating strangers. Just Denise's team doing what we have done for three decades. Every client we have ever had came through a referral. In Leslieville, that usually means your neighbour on the next block.",
     neighborhoods: [
       "Leslieville",
       "Riverside",
@@ -249,6 +249,6 @@ export const serviceAreas: ServiceArea[] = [
     ],
     metaTitle: "House Cleaning in Leslieville, Toronto",
     metaDescription:
-      "Leslieville house cleaning. Same trusted cleaner every visit, owner-operated, 30+ years of referrals. Call (905) 501-1509.",
+      "Leslieville house cleaning. One dedicated cleaner, not a franchise. Owner-operated, 30 years of referrals. Call (905) 501-1509.",
   },
 ];
