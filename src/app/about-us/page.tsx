@@ -13,22 +13,24 @@ export default function AboutPage() {
     <>
       {/* Hero — asymmetric, left-aligned */}
       <section className="bg-surface pt-40 pb-24">
-        <div className="max-w-screen-2xl mx-auto px-8">
-          <span className="label-upper text-on-surface-variant/60 block mb-8 animate-fade-up tracking-widest">
-            Our Story
-          </span>
-          <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal max-w-3xl">
-            Meet <em className="text-gold font-normal">Denise</em>
-          </h1>
-          <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-xl">
-            She joined PHS over 30 years ago. Learned every corner of the
-            business. Then took it over. Today, she still personally oversees
-            every client relationship.
-          </p>
-        </div>
-        <div className="max-w-screen-2xl mx-auto px-8 mt-16 animate-fade-up-3">
-          <div className="relative w-full max-w-md aspect-[3/4]">
-            <Image src="/images/denise-secondary.png" alt="Denise, owner of Portuguese Housekeeping Services" fill className="object-cover" priority />
+        <div className="max-w-screen-2xl mx-auto px-8 grid grid-cols-1 lg:grid-cols-12 gap-16 items-center">
+          <div className="lg:col-span-7">
+            <span className="label-upper text-on-surface-variant/60 block mb-8 animate-fade-up tracking-widest">
+              Our Story
+            </span>
+            <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal">
+              Meet <em className="text-gold font-normal">Denise</em>
+            </h1>
+            <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-xl">
+              She joined PHS over 30 years ago. Learned every corner of the
+              business. Then took it over. Today, she still personally oversees
+              every client relationship.
+            </p>
+          </div>
+          <div className="lg:col-span-4 lg:col-start-9 animate-fade-up-3">
+            <div className="relative w-full aspect-[3/4]">
+              <Image src="/images/denise-secondary.png" alt="Denise, owner of Portuguese Housekeeping Services" fill className="object-cover" priority />
+            </div>
           </div>
         </div>
       </section>
