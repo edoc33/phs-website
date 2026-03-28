@@ -155,12 +155,13 @@ export default function RequestCallBackPage() {
             {/* Email */}
             <div>
               <label htmlFor="email" className="label-upper text-on-surface-variant/60 block mb-4">
-                Email address
+                Email address <span className="text-gold">*</span>
               </label>
               <input
                 type="email"
                 id="email"
                 name="email"
+                required
                 autoComplete="email"
                 className="w-full bg-transparent border-b-2 border-surface-high pb-3 text-on-surface text-lg placeholder:text-on-surface-variant/30 transition-colors duration-300 focus:border-gold"
                 placeholder="you@example.com"

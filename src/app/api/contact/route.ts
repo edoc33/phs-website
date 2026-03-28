@@ -8,9 +8,9 @@ export async function POST(request: Request) {
     const data = await request.json();
     const { firstName, lastName, email, phone, details } = data;
 
-    if (!firstName || !lastName || !phone) {
+    if (!firstName || !lastName || !email || !phone) {
       return NextResponse.json(
-        { error: "First name, last name, and phone are required." },
+        { error: "First name, last name, email, and phone are required." },
         { status: 400 }
       );
     }
