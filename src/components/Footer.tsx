@@ -69,7 +69,7 @@ export default function Footer() {
                 <br />Mississauga, ON L5R 3K4
               </address>
               <a
-                href="https://www.google.com/maps/place/Portuguese+Housekeeping+Service/"
+                href="https://g.page/r/CeChYsKR9LGLEAE/review"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 mt-4 text-sm text-gold/70 hover:text-gold transition-colors duration-200"
