@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "About Us",
@@ -24,6 +25,11 @@ export default function AboutPage() {
             business. Then took it over. Today, she still personally oversees
             every client relationship.
           </p>
+        </div>
+        <div className="max-w-screen-2xl mx-auto px-8 mt-16 animate-fade-up-3">
+          <div className="relative w-full max-w-md aspect-[3/4]">
+            <Image src="/images/denise-secondary.png" alt="Denise, owner of Portuguese Housekeeping Services" fill className="object-cover" priority />
+          </div>
         </div>
       </section>
 
@@ -82,24 +88,31 @@ export default function AboutPage() {
       {/* Owners */}
       <section className="py-40 bg-surface">
         <div className="max-w-screen-2xl mx-auto px-8">
-          <div className="max-w-2xl">
-            <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
-            <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-              Owner &amp; Operator
-            </h2>
-            <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed">
-              <p>
-                Denise joined Portuguese Housekeeping Services over 30 years ago
-                and learned every aspect of the business from the ground up. She
-                got to know every client, every home, and every detail that
-                mattered to each family.
-              </p>
-              <p>
-                Over the years, she took over the company and continues to run it
-                with the same care and personal attention that built its reputation.
-                When you work with PHS, you work with someone who genuinely knows
-                the business inside and out.
-              </p>
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-20 items-center">
+            <div className="lg:col-span-4">
+              <div className="relative w-full aspect-[3/4]">
+                <Image src="/images/denise-primary.png" alt="Denise, owner and operator of PHS" fill className="object-cover" />
+              </div>
+            </div>
+            <div className="lg:col-span-7 lg:col-start-6">
+              <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
+              <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
+                Owner &amp; Operator
+              </h2>
+              <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed">
+                <p>
+                  Denise joined Portuguese Housekeeping Services over 30 years ago
+                  and learned every aspect of the business from the ground up. She
+                  got to know every client, every home, and every detail that
+                  mattered to each family.
+                </p>
+                <p>
+                  Over the years, she took over the company and continues to run it
+                  with the same care and personal attention that built its reputation.
+                  When you work with PHS, you work with someone who genuinely knows
+                  the business inside and out.
+                </p>
+              </div>
             </div>
           </div>
         </div>
