@@ -157,8 +157,8 @@ function ArchitectureSection() {
               </p>
               <p>
                 From fine linen care to crystal, our team operates with the
-                precision of a five-star housekeeping department. Owned by
-                Aubrey &amp; Paul, we keep things personal.
+                precision of a five-star housekeeping department. Owned and
+                operated by Denise, we keep things personal.
               </p>
             </div>
             <div className="mt-14 pl-8 border-l-2 border-gold/40">

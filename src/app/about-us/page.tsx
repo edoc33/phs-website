@@ -90,20 +90,22 @@ export default function AboutPage() {
 
             {/* Text */}
             <div className="lg:col-span-6 lg:col-start-7">
-              <span className="label-upper text-gold block mb-6">The People Behind PHS</span>
+              <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
               <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-                Meet Aubrey &amp; Paul
+                Meet Denise
               </h2>
               <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed max-w-lg">
                 <p>
-                  Aubrey and Paul built Portuguese Housekeeping Services from the
-                  ground up, turning a small family operation into one of the
-                  GTA&apos;s most trusted cleaning companies. Their hands-on approach
-                  means they know every client, every home, and every detail.
+                  Denise joined Portuguese Housekeeping Services over 30 years ago
+                  and learned every aspect of the business from the ground up. She
+                  got to know every client, every home, and every detail that
+                  mattered to each family.
                 </p>
                 <p>
-                  They personally oversee quality and are always a phone call away.
-                  When you work with PHS, you work with people who genuinely care.
+                  Over the years, she took over the company and continues to run it
+                  with the same care and personal attention that built its reputation.
+                  When you work with PHS, you work with someone who genuinely knows
+                  the business inside and out.
                 </p>
               </div>
             </div>

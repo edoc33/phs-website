@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -7,14 +6,8 @@ export default function Footer() {
       <div className="mx-auto max-w-screen-2xl px-8 py-20">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           <div>
-            <Link href="/" className="inline-block">
-              <Image
-                src="/logo.jpg"
-                alt="Portuguese Housekeeping Services"
-                width={160}
-                height={44}
-                className="h-10 w-auto brightness-0 invert"
-              />
+            <Link href="/" className="font-serif text-lg tracking-widest text-on-primary">
+              PORTUGUESE MAIDS
             </Link>
             <p className="mt-4 text-sm leading-relaxed text-white/40 max-w-xs">
               Trusted housekeeping in Toronto and Mississauga since 1994.
