@@ -16,25 +16,23 @@ export default function RequestCallBackPage() {
     const form = e.currentTarget;
     const data = Object.fromEntries(new FormData(form));
 
-    const scriptUrl = process.env.NEXT_PUBLIC_GOOGLE_SCRIPT_URL;
-    if (!scriptUrl) {
-      setStatus("error");
-      setErrorMsg("Form is not configured yet. Please call us directly.");
-      return;
-    }
-
     try {
-      await fetch(scriptUrl, {
+      const res = await fetch("/api/contact", {
         method: "POST",
-        mode: "no-cors",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
       });
+      if (!res.ok) {
+        const err = await res.json();
+        throw new Error(err.error || "Failed to submit");
+      }
       setStatus("success");
       form.reset();
-    } catch {
+    } catch (err) {
       setStatus("error");
-      setErrorMsg("Something went wrong. Please try again or call us.");
+      setErrorMsg(
+        err instanceof Error ? err.message : "Something went wrong. Please try again or call us."
+      );
     }
   }
 
