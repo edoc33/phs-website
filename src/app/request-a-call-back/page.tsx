@@ -104,14 +104,13 @@ export default function RequestCallBackPage() {
       <section className="bg-surface pt-40 pb-24">
         <div className="max-w-screen-2xl mx-auto px-8">
           <span className="label-upper text-on-surface-variant/60 block mb-8 animate-fade-up tracking-widest">
-            Reservation
+            Contact
           </span>
           <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal max-w-3xl">
-            Tailoring Your <em className="text-gold font-normal">Sanctuary.</em>
+            Get a Free <em className="text-gold font-normal">Quote</em>
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg mt-8 max-w-lg">
-            Leave your details below and we&apos;ll call you to discuss your home,
-            schedule, and a free quote.
+            Tell us about your home. We&apos;ll call you within one business day.
           </p>
         </div>
       </section>
@@ -242,13 +241,13 @@ export default function RequestCallBackPage() {
             <div className="image-placeholder aspect-[4/3] w-full" />
           </div>
           <div className="lg:col-span-6 lg:col-start-7">
-            <span className="label-upper text-gold block mb-5">The Portuguese Standard</span>
+            <span className="label-upper text-gold block mb-5">Our Story</span>
             <h2 className="font-serif fluid-subheading font-normal mb-8">
-              More than a service. A heritage of care.
+              30 years. One referral at a time.
             </h2>
             <p className="text-primary-fixed-dim/50 text-[1.05rem] leading-relaxed mb-12">
-              &ldquo;We treat every room like an individual masterpiece, ensuring the light
-              hits every surface perfectly.&rdquo;
+              Every client we&apos;ve ever had came through someone who trusted us
+              with their home first. We plan to keep it that way.
             </p>
             <div className="flex gap-16">
               <div>
@@ -256,8 +255,8 @@ export default function RequestCallBackPage() {
                 <p className="label-upper text-primary-fixed-dim/40 mt-2">Years</p>
               </div>
               <div>
-                <span className="font-serif text-3xl text-gold">Bespoke</span>
-                <p className="label-upper text-primary-fixed-dim/40 mt-2">Service</p>
+                <span className="font-serif text-3xl text-gold">500+</span>
+                <p className="label-upper text-primary-fixed-dim/40 mt-2">Families Served</p>
               </div>
             </div>
           </div>

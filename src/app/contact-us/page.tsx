@@ -41,7 +41,7 @@ export default function ContactPage() {
                   (905) 501-1509
                 </a>
                 <p className="text-on-surface-variant mt-4 text-[1.05rem]">
-                  Give us a call today for a free quote on your home.
+                  Call for a free quote.
                 </p>
               </div>
 
@@ -66,7 +66,7 @@ export default function ContactPage() {
                   href="/request-a-call-back"
                   className="cta-square bg-primary text-on-primary"
                 >
-                  Request a Call-Back
+                  Get a Free Quote
                   <svg className="ml-3 w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                   </svg>

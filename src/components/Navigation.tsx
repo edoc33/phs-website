@@ -57,7 +57,7 @@ export default function Navigation() {
             href="/request-a-call-back"
             className="label-upper px-6 py-2.5 tracking-widest border border-primary/20 text-primary hover:bg-primary hover:text-on-primary active:scale-[0.99] transition-all duration-300"
           >
-            Book Now
+            Get a Free Quote
           </Link>
         </div>
 
@@ -96,7 +96,7 @@ export default function Navigation() {
             href="/request-a-call-back"
             className="block mt-3 label-upper border border-primary/20 text-primary px-5 py-3 text-center tracking-widest"
           >
-            Book Now
+            Get a Free Quote
           </Link>
         </div>
       </div>

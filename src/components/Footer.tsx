@@ -29,7 +29,7 @@ export default function Footer() {
                 { href: "/about-us", label: "About" },
                 { href: "/contact-us", label: "Contact" },
                 { href: "/journal", label: "Journal" },
-                { href: "/request-a-call-back", label: "Book a Visit" },
+                { href: "/request-a-call-back", label: "Get a Free Quote" },
               ].map((link) => (
                 <li key={link.href}>
                   <Link href={link.href} className="text-sm text-white/40 hover:text-gold transition-colors duration-200">

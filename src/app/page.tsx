@@ -10,28 +10,28 @@ function Hero() {
             Est. 1994 &middot; Toronto &amp; Mississauga
           </span>
           <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal leading-none">
-            The Fine Art of
+            A cleaner home.
             <br />
-            <em className="text-gold font-normal">Meticulous</em> Care.
+            <em className="text-gold font-normal">Every single</em> week.
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-md">
-            For over thirty years, Portuguese Housekeeping Services has been the
-            quiet standard for families who value precision, discretion, and
-            an unwavering commitment to their home.
+            Portuguese Housekeeping Services has cleaned homes in Toronto
+            and Mississauga for over 30 years. Every client came from a
+            referral. We show up, do thorough work, and earn that trust.
           </p>
           <div className="animate-fade-up-3 mt-12 flex flex-wrap items-center gap-6">
             <Link
               href="/request-a-call-back"
               className="cta-square bg-primary text-on-primary"
             >
-              Book a Visit
+              Get a Free Quote
             </Link>
             <Link
               href="/about-us"
               className="font-serif text-primary text-base flex items-center gap-2 group"
             >
               <span className="border-b border-on-surface-variant/30 group-hover:border-primary transition-colors pb-0.5">
-                Our Heritage
+                Our Story
               </span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -48,7 +48,7 @@ function Hero() {
             <div className="editorial-float absolute -bottom-10 -left-16 p-8 max-w-xs whisper-shadow animate-fade-up-4">
               <span className="label-upper text-gold block mb-3">Our Promise</span>
               <p className="font-serif text-primary text-lg italic leading-snug">
-                &ldquo;Every corner treated with an editorial eye for detail.&rdquo;
+                &ldquo;If I wouldn&apos;t be happy with it in my own home, it&apos;s not done.&rdquo;
               </p>
             </div>
           </div>
@@ -143,22 +143,21 @@ function ArchitectureSection() {
 
           {/* Text */}
           <div className="lg:col-span-6 lg:col-start-7 order-1 lg:order-2">
-            <span className="label-upper text-gold block mb-5">The Architecture of Cleanliness</span>
+            <span className="label-upper text-gold block mb-5">How We Work</span>
             <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-              Precision is not a goal.
+              We do the work
               <br />
-              <em className="text-on-surface-variant font-normal">It is our signature.</em>
+              <em className="text-on-surface-variant font-normal">you don&apos;t want to do.</em>
             </h2>
             <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed max-w-lg">
               <p>
-                Portuguese Housekeeping Services began the way the best businesses
-                do: one satisfied client telling a friend. For three decades, every
-                new client came through a referral.
+                One satisfied client told a friend. That friend told another.
+                For thirty years, that&apos;s been our only marketing.
               </p>
               <p>
-                From fine linen care to crystal, our team operates with the
-                precision of a five-star housekeeping department. Owned and
-                operated by Denise, we keep things personal.
+                Denise owns and runs PHS. She knows every client by name.
+                The team is small, trained, and consistent. Same people
+                in your home, every visit.
               </p>
             </div>
             <div className="mt-14 pl-8 border-l-2 border-gold/40">
@@ -181,25 +180,25 @@ function TrustSection() {
         <div className="max-w-2xl mb-20">
           <span className="label-upper text-gold block mb-5">Why Families Trust Us</span>
           <h2 className="font-serif fluid-heading font-normal">
-            Built on three decades of quiet excellence.
+            Three reasons families stick with us.
           </h2>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-20">
           {[
             {
               num: "01",
-              title: "Meticulous Quality",
-              desc: "Our reputation rests on an obsessive commitment to the unseen. We look where others never think to.",
+              title: "We Check What Others Skip",
+              desc: "We clean behind the fridge. Under the couch cushions. Inside the oven. The places you\u2019d rather not look.",
             },
             {
               num: "02",
-              title: "Trusted Professionals",
-              desc: "Every team member is background-checked, insured, and trained in our proprietary methodology. No exceptions.",
+              title: "Background-Checked and Insured",
+              desc: "Every team member is vetted, insured, and trained by Denise. The same people come to your home every time.",
             },
             {
               num: "03",
-              title: "Tailored to You",
-              desc: "No two homes are alike. We customize every visit to the rhythms, preferences, and needs of your household.",
+              title: "Your Home, Your Schedule",
+              desc: "Weekly, bi-weekly, or monthly. Morning or afternoon. We fit your life, not the other way around.",
             },
           ].map((item) => (
             <div key={item.title} className="space-y-5">
@@ -229,7 +228,7 @@ function FactsSection() {
             <p className="text-on-surface-variant text-[1.05rem] leading-relaxed max-w-md">
               We never advertised. For thirty years, every new client came
               through a recommendation from someone who already trusted us
-              with their home. That says more than any testimonial.
+              with their home.
             </p>
           </div>
           <div className="lg:col-span-5 lg:col-start-8">
@@ -260,7 +259,7 @@ function CtaSection() {
         <div className="max-w-2xl">
           <span className="label-upper text-on-surface-variant/50 block mb-5">Begin</span>
           <h2 className="font-serif fluid-heading text-primary font-normal mb-6">
-            Return to a spotless sanctuary.
+            See what a real clean feels like.
           </h2>
           <p className="text-on-surface-variant text-lg max-w-md mb-12">
             Weekly, bi-weekly, or monthly visits. Hourly rates tailored to your home.
@@ -270,7 +269,7 @@ function CtaSection() {
               href="/request-a-call-back"
               className="cta-square bg-gold text-gold-dark"
             >
-              Book Your First Visit
+              Get a Free Quote
             </Link>
             <a
               href="tel:+19055011509"

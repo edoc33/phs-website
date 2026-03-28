@@ -17,12 +17,12 @@ export default function AboutPage() {
             Our Story
           </span>
           <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal max-w-3xl">
-            A Heritage of <em className="text-gold font-normal">Care</em>
+            The Story Behind <em className="text-gold font-normal">PHS</em>
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-xl">
-            For over thirty years, Portuguese Housekeeping Services has set the
-            quiet standard for residential cleaning in the Greater Toronto Area.
-            Every new client came through a referral. That trust is everything.
+            Over thirty years ago, one family told another about us.
+            Then that family told a friend. We&apos;ve never advertised.
+            Every client we&apos;ve ever had came through a referral.
           </p>
         </div>
       </section>
@@ -136,7 +136,7 @@ export default function AboutPage() {
         <div className="max-w-screen-2xl mx-auto px-8">
           <div className="max-w-xl">
             <h2 className="font-serif fluid-subheading font-normal mb-5">
-              Experience the PHS difference.
+              Ready to see the difference?
             </h2>
             <p className="text-primary-fixed-dim/50 max-w-md mb-12 text-[1.05rem] leading-relaxed">
               Request a call-back and we&apos;ll provide a free, no-obligation quote
@@ -146,7 +146,7 @@ export default function AboutPage() {
               href="/request-a-call-back"
               className="cta-square bg-gold text-gold-dark"
             >
-              Book Now
+              Get a Free Quote
             </Link>
           </div>
         </div>

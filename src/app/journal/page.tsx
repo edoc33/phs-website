@@ -17,11 +17,10 @@ export default function BlogPage() {
             Journal
           </span>
           <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal max-w-3xl">
-            The Art of <em className="text-gold font-normal">Home</em> Care
+            Cleaning Tips &amp; <em className="text-gold font-normal">Updates</em>
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg mt-8 max-w-lg">
-            Notes on cleaning, craft, and the quiet discipline of maintaining
-            a beautiful home.
+            Practical advice for keeping your home clean, plus news from our team.
           </p>
         </div>
       </section>
@@ -41,8 +40,8 @@ export default function BlogPage() {
               Stories are being written.
             </h2>
             <p className="text-on-surface-variant max-w-sm mx-auto leading-relaxed mb-3">
-              We&apos;re preparing articles on cleaning techniques, linen care,
-              and the philosophy behind thirty years of meticulous service.
+              We&apos;re working on articles about home care, cleaning tips,
+              and what we&apos;ve learned over 30 years.
             </p>
             <p className="text-on-surface-variant/50 text-sm max-w-sm mx-auto">
               When the first article is published, it will appear here automatically.
