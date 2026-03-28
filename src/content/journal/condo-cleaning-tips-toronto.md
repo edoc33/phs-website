@@ -4,7 +4,7 @@ description: "Cleaning a 600 square foot condo is different from a house. Here's
 date: 2026-03-03
 ---
 
-A small condo should be easier to clean than a house. And it is, mostly. But small spaces show mess faster. A few dishes in the sink, a layer of dust on the hardwood, a towel on the bathroom floor. In a house, those things blend in. In a 600 square foot condo, they take over.
+A small condo should be easier to clean than a house. And it is, mostly. But whether you're in a unit in CityPlace, along the Yonge corridor, or in Liberty Village, small spaces show mess faster. A few dishes in the sink, a layer of dust on the hardwood, a towel on the bathroom floor. In a house, those things blend in. In a 600 square foot condo, they take over.
 
 The good news is that a short routine keeps everything under control.
 
@@ -24,7 +24,7 @@ Also, leave the washer door open a crack between loads. It lets the drum dry out
 
 ## Balcony basics
 
-Toronto condos collect grime on the balcony. City dust, pollen, bird droppings. Sweep it once a month. Wipe down the railing and any furniture with soapy water. If you've got glass panels, a quick wipe with glass cleaner makes a surprising difference. For a more thorough approach, our guide to [condo balcony cleaning](/journal/condo-balcony-cleaning) covers everything from glass panels to drainage.
+Toronto condos collect grime on the balcony, especially along Lakeshore Blvd and near the Gardiner where traffic dust is constant. City dust, pollen, bird droppings. Sweep it once a month. Wipe down the railing and any furniture with soapy water. If you've got glass panels, a quick wipe with glass cleaner makes a surprising difference. For a more thorough approach, our guide to [condo balcony cleaning](/journal/condo-balcony-cleaning) covers everything from glass panels to drainage.
 
 ## Construction dust in newer buildings
 

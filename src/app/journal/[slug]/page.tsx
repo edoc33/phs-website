@@ -102,10 +102,27 @@ export default async function JournalPostPage({ params }: Props) {
     ],
   };
 
+  const faqJsonLd =
+    post.faqs && post.faqs.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: post.faqs.map((faq) => ({
+            "@type": "Question",
+            name: faq.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: faq.answer,
+            },
+          })),
+        }
+      : null;
+
   return (
     <>
       <JsonLd data={blogPostingJsonLd} />
       <JsonLd data={breadcrumbJsonLd} />
+      {faqJsonLd && <JsonLd data={faqJsonLd} />}
 
       {/* Hero */}
       <section className="bg-surface pt-40 pb-16">

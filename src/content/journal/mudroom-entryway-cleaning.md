@@ -4,7 +4,7 @@ description: "Soccer in spring, baseball in summer, hockey in winter. Your entry
 date: 2026-03-01
 ---
 
-If your kids play sports in the GTA, your entryway is a disaster zone from September to June. Hockey bags in winter. Muddy cleats in spring. Sandy flip-flops in summer. And the backpacks, water bottles, and shin guards that never quite make it to a bedroom. If this sounds familiar, you'll also want to read our tips for [keeping a sports family home clean](/journal/sports-family-home-cleaning).
+If your kids play sports in the GTA, your entryway is a disaster zone from September to June. Families near the ravines along the Don Valley and the Humber River deal with extra mud tracked in on top of everything else. Hockey bags in winter. Muddy cleats in spring. Sandy flip-flops in summer. And the backpacks, water bottles, and shin guards that never quite make it to a bedroom. If this sounds familiar, you'll also want to read our tips for [keeping a sports family home clean](/journal/sports-family-home-cleaning).
 
 Your entryway is never going to look like a magazine. But it can be manageable.
 
@@ -48,4 +48,4 @@ I've cleaned a lot of homes with active families, especially [hockey families](/
 
 Don't aim for perfect. Aim for functional.
 
-If your entryway has gotten ahead of you, PHS Cleaning can help. We work with families across Toronto and Mississauga who are too busy between practices and games to keep up. Give us a call and we'll get it sorted.
+If your entryway has gotten ahead of you, PHS Cleaning can help. We work with families from Distillery District to Streetsville who are too busy between practices and games to keep up. Give us a call and we'll get it sorted.

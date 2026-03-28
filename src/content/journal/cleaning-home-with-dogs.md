@@ -12,7 +12,7 @@ Here is how to manage it, room by room.
 
 This is where the mess starts. Every walk ends with your dog tracking in whatever is on the ground outside.
 
-**Set up a paw station**: Keep a towel and a shallow container of water by the door as part of your [mudroom and entryway routine](/journal/mudroom-entryway-cleaning). Wipe each paw when you come in. It takes 30 seconds and saves you 30 minutes of floor cleaning later. In spring, when Toronto's snow melts and every park is a mud pit, this is not optional.
+**Set up a paw station**: Keep a towel and a shallow container of water by the door as part of your [mudroom and entryway routine](/journal/mudroom-entryway-cleaning). Wipe each paw when you come in. It takes 30 seconds and saves you 30 minutes of floor cleaning later. In spring, when Toronto's snow melts and every park from High Park to Trinity Bellwoods is a mud pit, this is not optional.
 
 **Use a washable mat**: Put a big, absorbent, machine-washable mat inside the door. Dark colours hide the dirt between washes. Throw it in the washing machine every week.
 
@@ -54,7 +54,7 @@ Use a seat cover for the back seat. Keep a towel in the car for post-park wipe-d
 
 ## Spring in Toronto
 
-March and April are the worst months for dog owners. The snow melts. Every sidewalk, park, and backyard turns into a muddy mess. Salt residue mixes with the mud. Your dog walks through all of it.
+March and April are the worst months for dog owners. The snow melts. Every sidewalk, off-leash park, and backyard turns into a muddy mess. The trails along the Don Valley and the Bluffs are especially bad during spring thaw. Salt residue mixes with the mud. Your dog walks through all of it.
 
 During spring melt, the paw station at the door goes from helpful to essential. Wipe paws every single time you come inside. Keep an extra towel by the door for belly wipes if your dog is low to the ground. Mop the entryway daily if you need to.
 

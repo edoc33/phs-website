@@ -6,7 +6,7 @@ date: 2025-12-15
 
 If you have a kid in hockey, you already know. From October to April, your front hall smells like a combination of wet equipment and regret. There's tape residue on the floor, water bottles rolling around, and a bag that no one wants to open sitting by the door.
 
-This is the reality for about half the families in the GTA. If your kids play multiple sports, our broader guide to [keeping a sports family's home clean](/journal/sports-family-home-cleaning) covers soccer cleats, wet gear, and more. Here's how to manage the hockey side of it.
+This is the reality for about half the families in the GTA, from early morning practices at arenas near the Danforth to weekend tournaments out by Erin Mills Parkway. If your kids play multiple sports, our broader guide to [keeping a sports family's home clean](/journal/sports-family-home-cleaning) covers soccer cleats, wet gear, and more. Here's how to manage the hockey side of it.
 
 ## The Bag Rule
 
@@ -59,4 +59,4 @@ Some equipment, like goalie pads or items with hard plastic shells, can't go in 
 
 You don't need anyone to tell you hockey season is messy. You're living it. The key is having a system so the mess stays controlled. Air out the gear, wash what you can, keep it contained, and accept that from October to April, one corner of your home is going to smell like a dressing room.
 
-PHS works with a lot of hockey families across Toronto and Mississauga. If you want a deep clean to reset things mid-season, or you just need someone to deal with the rest of the house while you deal with the gear, give us a call.
+PHS works with a lot of hockey families across Toronto and Mississauga, from King West to Port Credit. If you want a deep clean to reset things mid-season, or you just need someone to deal with the rest of the house while you deal with the gear, give us a call.

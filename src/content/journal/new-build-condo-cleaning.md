@@ -6,13 +6,13 @@ date: 2026-03-05
 
 You get the keys to your brand new condo and everything looks perfect. Fresh paint, clean floors, shiny appliances. Then you run your finger along the top of a cabinet and it comes back grey.
 
-New does not mean clean. I've cleaned hundreds of new condos across Toronto and Mississauga, and every single one needs a proper clean before you move in.
+New does not mean clean. I've cleaned hundreds of new condos across Toronto and Mississauga, from CityPlace towers to new builds along the Mimico waterfront and East Harbour, and every single one needs a proper clean before you move in.
 
 ## What most people miss
 
 **HVAC vents and ducts**: This is the big one. During construction, drywall dust, sawdust, and debris get into the ductwork. When you turn on the heat or AC for the first time, all of that circulates through your unit. You'll be breathing it in for months if you don't address it. Remove the vent covers and wipe them down. Vacuum inside the ducts as far as you can reach.
 
-**Film on windows**: Your windows might look clean, but they probably have a hazy film. That's a mix of adhesive residue from manufacturer stickers and a coating from construction. Glass cleaner alone won't always cut it. Use a vinegar and water solution with a bit of dish soap. Wipe, squeegee, and check the light. You'll see the difference.
+**Film on windows**: Whether you're in a new tower near Square One or along Bayview Avenue, your windows might look clean, but they probably have a hazy film. That's a mix of adhesive residue from manufacturer stickers and a coating from construction. Glass cleaner alone won't always cut it. Use a vinegar and water solution with a bit of dish soap. Wipe, squeegee, and check the light. You'll see the difference.
 
 **Inside cabinets and drawers**: Open every cabinet and every drawer in the kitchen and bathroom. You'll find a layer of fine dust on every surface. Drywall dust is the main culprit. It settles everywhere during finishing work. Wipe every shelf and drawer bottom before you put anything in them.
 

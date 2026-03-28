@@ -6,7 +6,7 @@ date: "2026-03-28"
 
 ## Why Spring Cleaning Matters in Toronto
 
-Toronto winters are hard on homes. Road salt gets tracked through the front door. Windows stay sealed for months, trapping stale air. Dust settles on everything. Once the snow melts, your home needs a proper reset.
+Toronto winters are hard on homes. Road salt gets tracked through the front door. Windows stay sealed for months, trapping stale air. Dust settles on everything. Whether you're in a semi in the Junction or a townhouse near Yonge and Eglinton, once the snow melts, your home needs a proper reset.
 
 This isn't about tidying up. It's about going room by room and tackling the things that regular weekly cleaning doesn't cover.
 
@@ -45,9 +45,9 @@ This isn't about tidying up. It's about going room by room and tackling the thin
 
 ## Outdoor Prep
 
-- **Sweep the balcony or porch**: clear winter debris before it stains.
+- **Sweep the balcony or porch**: clear winter debris before it stains. Condos along the Harbourfront and in Liberty Village collect extra grime from lake wind and construction dust.
 - **Check window screens**: repair or replace damaged screens before you start [opening windows for the season](/journal/first-open-window-clean).
-- **Clean the BBQ**: if it sat outside all winter, give it a thorough scrub before the first use.
+- **Clean the BBQ**: if it sat outside all winter, give it a thorough scrub before the first use. Backyards near High Park and the Don Valley tend to collect extra leaf debris over the winter months.
 
 ## When to Call a Professional
 

@@ -8,6 +8,7 @@ export interface JournalPost {
   date: string; // YYYY-MM-DD
   readingTime: string;
   content: string;
+  faqs?: { question: string; answer: string }[];
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "src/content/journal");
@@ -30,7 +31,38 @@ function parsePost(filename: string): JournalPost | null {
     }
   }
 
-  const content = match[2].trim();
+  let content = match[2].trim();
+
+  // Parse optional ---faqs--- section at the end of the content
+  let faqs: { question: string; answer: string }[] | undefined;
+  const faqSeparator = "---faqs---";
+  const faqIndex = content.indexOf(faqSeparator);
+  if (faqIndex !== -1) {
+    const faqBlock = content.slice(faqIndex + faqSeparator.length).trim();
+    content = content.slice(0, faqIndex).trim();
+
+    const pairs: { question: string; answer: string }[] = [];
+    const entries = faqBlock.split(/\n\n+/);
+    for (const entry of entries) {
+      const lines = entry.trim().split("\n");
+      let question = "";
+      let answer = "";
+      for (const line of lines) {
+        if (line.startsWith("Q: ")) {
+          question = line.slice(3).trim();
+        } else if (line.startsWith("A: ")) {
+          answer = line.slice(3).trim();
+        }
+      }
+      if (question && answer) {
+        pairs.push({ question, answer });
+      }
+    }
+    if (pairs.length > 0) {
+      faqs = pairs;
+    }
+  }
+
   const wordCount = content.split(/\s+/).length;
   const readingTime = `${Math.max(1, Math.ceil(wordCount / 250))} min read`;
 
@@ -41,6 +73,7 @@ function parsePost(filename: string): JournalPost | null {
     date: frontmatter.date || "",
     readingTime,
     content,
+    faqs,
   };
 }
 

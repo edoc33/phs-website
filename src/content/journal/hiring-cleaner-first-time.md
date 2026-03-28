@@ -53,3 +53,13 @@ This comes up a lot. Tipping is not expected, but it's always appreciated. If yo
 You might feel guilty the first few times. Like you should be doing it yourself. That goes away too. Hiring a cleaner is not lazy. It's a decision about how you want to spend your time.
 
 At PHS Cleaning, we do this every day across Toronto and Mississauga. If you're still comparing options, our advice on [how to choose a cleaning service in Toronto](/journal/choose-cleaning-service-toronto) covers what to look for. If you're thinking about trying it, give us a call. We'll walk you through everything before we ever pick up a cloth.
+
+---faqs---
+Q: What should I do before a cleaner comes for the first time?
+A: Do a basic tidy so they can focus on actual cleaning, not picking up. Clear counters and floors of personal items.
+
+Q: How long does the first cleaning visit take?
+A: The first visit is usually longer because the cleaner is learning your home and establishing a baseline.
+
+Q: Should I tip my house cleaner?
+A: Tipping is appreciated but not required. Many clients tip during the holidays or after a particularly big job.

@@ -4,7 +4,7 @@ description: "Raccoon messes are a fact of life in Toronto. Here's how to clean 
 date: 2025-06-16
 ---
 
-You hear the crash at 2 a.m. By morning, your green bin is on its side, garbage bags are torn open, and chicken bones are scattered across the driveway. Welcome to Toronto, where the raccoons are bold, clever, and not even slightly afraid of you.
+You hear the crash at 2 a.m. By morning, your green bin is on its side, garbage bags are torn open, and chicken bones are scattered across the driveway. Welcome to Toronto, where the raccoons are bold, clever, and not even slightly afraid of you. If you live near the Danforth, Bloor West Village, or anywhere backing onto a ravine, you already know this routine.
 
 This is not a pest problem you are going to solve permanently. But you can clean up properly and make your bins less appealing.
 
@@ -48,7 +48,7 @@ You are not going to outsmart Toronto raccoons completely. But you can make thin
 
 ## The Toronto reality
 
-There are an estimated 100,000 raccoons in Toronto. They have been opening green bins since the city introduced them. They live in every neighbourhood, from the Beaches to Etobicoke. They are part of the deal.
+There are an estimated 100,000 raccoons in Toronto. They have been opening green bins since the city introduced them. They live in every neighbourhood, from the Beaches to Etobicoke, and they are especially bold in areas near ravines like the Don Valley and the Humber River. They are part of the deal.
 
 Cleaning up after them is annoying, but it is manageable. Keep your bins clean, locked, and put them out as late as possible. And when they do make a mess, clean it up properly so the smell does not bring them back the next night.
 

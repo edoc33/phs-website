@@ -18,7 +18,7 @@ Your front hall is about to take a beating for five months straight. Get it read
 
 ## Clean the Gutters
 
-Leaf buildup in your gutters leads to ice dams in January. Ice dams lead to water getting into places you really don't want it. Clean them out once the trees on your street are mostly bare. In most Toronto neighbourhoods, that's mid to late October.
+Leaf buildup in your gutters leads to ice dams in January. Ice dams lead to water getting into places you really don't want it. Clean them out once the trees on your street are mostly bare. Homes near High Park and the Don Valley get heavier leaf fall than most. In most Toronto neighbourhoods, that's mid to late October.
 
 ## Deal with Leaf Mud
 
@@ -42,7 +42,7 @@ Take a close look at the caulking around your tub, shower, and sink. If it's cra
 
 ## The Toronto Timing
 
-If you're in the city, the first frost usually comes in mid-October, and real snow can show up anytime from late November on. That gives you a solid window from about the last week of September through the end of October to get everything done. Don't wait for November. By then the weather makes outdoor tasks miserable, and the holiday rush eats up your weekends.
+If you're in the city, from the Credit River in Mississauga to the Bluffs in Scarborough, the first frost usually comes in mid-October, and real snow can show up anytime from late November on. That gives you a solid window from about the last week of September through the end of October to get everything done. Don't wait for November. By then the weather makes outdoor tasks miserable, and the holiday rush eats up your weekends.
 
 ## A Room-by-Room Checklist
 

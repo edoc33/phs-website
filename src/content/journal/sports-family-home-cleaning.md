@@ -34,7 +34,7 @@ There is no sports smell quite like a hockey bag. It is a combination of sweat, 
 
 ## Soccer cleats and the mud problem
 
-Toronto soccer season runs from April to November. The spring months are the worst for mud. The fields are soft, the ground is wet, and your kid comes home with an inch of clay on each cleat.
+Toronto soccer season runs from April to November. The spring months are the worst for mud. Fields near the Humber River, at Exhibition Place, and across Mississauga are soft, the ground is wet, and your kid comes home with an inch of clay on each cleat.
 
 **Clean cleats outside**: Keep a stiff brush and a bucket by the door. Bang the cleats together to knock off the big chunks. Scrub the rest with the brush and a little water. Do not bring mud-caked cleats inside to deal with later. Later means dried mud on the floor.
 
@@ -66,7 +66,7 @@ Five minutes. Every practice night. It keeps the chaos from compounding.
 
 ## The GTA sports parent reality
 
-Between September hockey, spring soccer, summer basketball, and year-round training, there is rarely a week without gear in the house. If hockey is the main sport in your household, our [hockey family cleaning survival guide](/journal/hockey-family-cleaning) goes deeper on managing equipment smell and the October-to-April grind. It is part of the deal when you have active kids.
+Between September hockey at arenas near BMO Field, spring soccer, summer basketball at Celebration Square, and year-round training, there is rarely a week without gear in the house. If hockey is the main sport in your household, our [hockey family cleaning survival guide](/journal/hockey-family-cleaning) goes deeper on managing equipment smell and the October-to-April grind. It is part of the deal when you have active kids.
 
 A gear zone, a boot tray, some hooks, and a simple wipe-down routine after practice nights. That is all it takes to keep the house from being overtaken.
 

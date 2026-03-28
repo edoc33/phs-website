@@ -4,7 +4,7 @@ description: "A fall cleaning checklist to close up the house before Toronto's l
 date: 2025-09-08
 ---
 
-By mid-October, the warm days are done. Toronto's winter starts settling in around November and does not let up until April. That is five to six months with the house sealed tight, the heat running, and no open windows. What you do in October to prepare your home makes a real difference in how comfortable and clean it stays through the cold months.
+By mid-October, the warm days are done. Toronto's winter starts settling in around November and does not let up until April. That is five to six months with the house sealed tight, the heat running, and no open windows. Whether you're commuting along the 401 or the DVP, you know how fast the cold sets in. What you do in October to prepare your home makes a real difference in how comfortable and clean it stays through the cold months.
 
 Here is a practical fall close-up checklist.
 
@@ -46,7 +46,7 @@ Do not just leave patio furniture outside and hope for the best. Toronto winters
 
 ## Prep the mudroom
 
-Your mudroom or front entry is about to become the most important room in the house. For the next six months, every person walking through the door brings salt, slush, and wet boots.
+Your mudroom or front entry is about to become the most important room in the house. From Cooksville to Queen West, for the next six months every person walking through the door brings salt, slush, and wet boots.
 
 **Boot trays**: Place large rubber boot trays by the door. You need enough space for every pair of winter boots in the household. This keeps salt water off your floors.
 

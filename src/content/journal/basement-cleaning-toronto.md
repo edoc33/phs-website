@@ -10,7 +10,7 @@ Whatever kind of basement you have, keeping it clean makes a difference for the 
 
 ## Why Toronto Basements Are the Way They Are
 
-The soil in the GTA holds moisture. [Older Toronto homes](/journal/cleaning-older-toronto-home) often have stone or block foundations that let some of that moisture through. Even newer builds can get damp in the spring when the snow melts and the water table rises. Add in the fact that basements get the least airflow in the house, and you've got conditions that create dust, musty smells, and sometimes mould.
+The soil in the GTA holds moisture. [Older Toronto homes](/journal/cleaning-older-toronto-home) in neighbourhoods like Roncesvalles, the Danforth, and Kensington Market often have stone or block foundations that let some of that moisture through. Even newer builds can get damp in the spring when the snow melts and the water table rises. Add in the fact that basements get the least airflow in the house, and you've got conditions that create dust, musty smells, and sometimes mould.
 
 ## Run the Dehumidifier
 
@@ -59,4 +59,4 @@ The space around your washer and dryer collects lint, dust, and spilled detergen
 
 Basements don't stay clean as long as the rest of the house because of the moisture and dust cycle. A quick sweep and a check on the dehumidifier once a week goes a long way.
 
-If your basement needs a proper deep clean, PHS can help. We work with all kinds of Toronto basements, finished and otherwise. Give us a call.
+If your basement needs a proper deep clean, PHS can help. We work with all kinds of Toronto basements from Avenue Road to Streetsville, finished and otherwise. Give us a call.

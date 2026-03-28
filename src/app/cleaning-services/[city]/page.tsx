@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { serviceAreas } from "@/lib/service-areas";
 import { JsonLd } from "@/components/JsonLd";
@@ -176,13 +177,25 @@ export default async function CityPage({ params }: Props) {
       {/* Intro */}
       <section className="py-24 bg-surface-low">
         <div className="max-w-screen-2xl mx-auto px-8">
-          <div className="max-w-3xl">
-            <span className="label-upper text-gold block mb-5">
-              Why Families in {area.name} Trust Us
-            </span>
-            <p className="text-on-surface-variant text-[1.05rem] leading-relaxed">
-              {area.intro}
-            </p>
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-20 items-center">
+            <div className="lg:col-span-7">
+              <span className="label-upper text-gold block mb-5">
+                Why Families in {area.name} Trust Us
+              </span>
+              <p className="text-on-surface-variant text-[1.05rem] leading-relaxed">
+                {area.intro}
+              </p>
+            </div>
+            <div className="lg:col-span-4 lg:col-start-9">
+              <div className="relative w-full aspect-[3/4]">
+                <Image
+                  src="/images/personal-touch.png"
+                  alt={`Professional house cleaning service in ${area.name}`}
+                  fill
+                  className="object-cover"
+                />
+              </div>
+            </div>
           </div>
         </div>
       </section>

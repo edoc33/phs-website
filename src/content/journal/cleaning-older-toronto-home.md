@@ -30,7 +30,7 @@ Older homes have plaster walls instead of drywall. Plaster is harder and more du
 
 ## Radiators
 
-Cast iron radiators are common in older Toronto homes. They heat wonderfully but they trap dust in all the narrow spaces between the fins. We wrote a whole separate post on [cleaning radiators in Toronto](/journal/radiator-cleaning-toronto), but the short version is this: use a long radiator brush between the fins, vacuum up what falls, and wipe down the exterior. Do it before heating season.
+Cast iron radiators are common in older Toronto homes, especially in the Annex and along St. Clair West. They heat wonderfully but they trap dust in all the narrow spaces between the fins. We wrote a whole separate post on [cleaning radiators in Toronto](/journal/radiator-cleaning-toronto), but the short version is this: use a long radiator brush between the fins, vacuum up what falls, and wipe down the exterior. Do it before heating season.
 
 ## Original Wood Trim and Moulding
 
@@ -59,6 +59,6 @@ Homes built before 1980 may have lead paint, especially on trim, doors, and wind
 
 ## Where to Find These Homes
 
-This kind of housing stock is common in Midtown, the Beaches, Leslieville, High Park, and Roncesvalles. If you live in one of these neighbourhoods and your home was built before the 1950s, most of what's in this post applies to you.
+This kind of housing stock is common along Avenue Road, in Midtown near Yonge and Eglinton, the Beaches, Leslieville, High Park, Roncesvalles, and the older streets of Dundas West. If you live in one of these neighbourhoods and your home was built before the 1950s, most of what's in this post applies to you.
 
 PHS has been cleaning older Toronto homes for over three decades. We know what products to use, what to avoid, and where the tricky spots are. If you want someone who understands your home, give us a call.

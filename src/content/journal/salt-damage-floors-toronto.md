@@ -42,7 +42,7 @@ You will never keep all of it out. But you can cut way down on the damage.
 
 **Boot trays**: Put a plastic or rubber boot tray right inside the door. Boots go on the tray, salt stays on the tray, not on your floors. Empty and rinse the tray every week or two through winter.
 
-**Entry mats**: Use two mats. One outside the door to catch the worst of it. One inside to get the rest. Look for mats with a rubber backing so the salt water does not soak through to the floor underneath.
+**Entry mats**: Use two mats, especially if you live near a busy salted route like St. Clair West or Hurontario. One outside the door to catch the worst of it. One inside to get the rest. Look for mats with a rubber backing so the salt water does not soak through to the floor underneath.
 
 **Wipe shoes at the door**: It sounds simple, but making it a habit keeps a surprising amount of salt off your floors. A quick wipe on the mat before walking through the house makes a difference.
 
@@ -50,7 +50,7 @@ You will never keep all of it out. But you can cut way down on the damage.
 
 ## The Toronto reality
 
-The city dumps about 130,000 tonnes of salt on the roads every winter. Your neighbourhood sidewalks, your condo parking garage, your office building entrance. It is everywhere. By February, the salt line on your boots is an inch thick.
+The city dumps about 130,000 tonnes of salt on the roads every winter. Lakeshore Blvd, the Gardiner on-ramps, every neighbourhood sidewalk, your condo parking garage, your office building entrance. It is everywhere. By February, the salt line on your boots is an inch thick.
 
 That is a lot of corrosive material getting carried into your home for six months straight. A little prevention and regular cleaning makes the difference between floors that look fine in spring and floors that need refinishing. Salt stains are one of the first things to tackle on a [spring cleaning checklist](/journal/spring-cleaning-checklist-toronto).
 

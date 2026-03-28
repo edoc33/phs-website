@@ -56,3 +56,13 @@ That's not just cleaning. That's care.
 I built PHS Cleaning on this idea. Every client gets the same cleaner, every visit. It's not complicated. It just takes a company that values people over volume.
 
 If this is your first time bringing someone in, our guide on [hiring a cleaner for the first time](/journal/hiring-cleaner-first-time) walks you through what to expect. If you're looking for someone reliable in Toronto or Mississauga, give us a call. We're happy to answer any questions before you decide.
+
+---faqs---
+Q: How do I choose a good cleaning service in Toronto?
+A: Look for consistent staff, insurance, references, and a company that asks about your home before quoting a price.
+
+Q: What are red flags when hiring a cleaning service?
+A: Watch for too-cheap pricing, rotating crews every visit, no insurance, and companies that will not give references.
+
+Q: Is a small cleaning company better than a franchise?
+A: A small company usually means you get the same cleaner every time, and the owner is directly involved. Franchises often rotate staff.

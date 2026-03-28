@@ -56,3 +56,13 @@ Here's what works for most Mississauga families:
 Deep cleaning takes time. A proper job on a 3-bedroom home is 4-6 hours if you do it yourself. Someone who does this every day will be faster and won't miss the spots you'd walk right past.
 
 We've cleaned homes across Mississauga for over 30 years. We know the difference between a surface clean and a real deep clean, and we don't cut corners.
+
+---faqs---
+Q: How often should I deep clean my home?
+A: Most homes need a deep clean every 3 to 6 months, depending on household size, pets, and allergies.
+
+Q: What counts as a deep clean?
+A: A deep clean includes scrubbing inside the oven, fridge, and dishwasher, cleaning baseboards, washing windows and window tracks, and cleaning behind furniture.
+
+Q: Do pets affect how often I need to deep clean?
+A: Yes. Pet hair and dander build up fast. If you have dogs or cats, plan on a deep clean every 2 to 3 months.
