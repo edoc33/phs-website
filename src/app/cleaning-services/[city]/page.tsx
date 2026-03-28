@@ -189,8 +189,8 @@ export default async function CityPage({ params }: Props) {
             <div className="lg:col-span-4 lg:col-start-9">
               <div className="relative w-full aspect-[3/4]">
                 <Image
-                  src="/images/personal-touch.png"
-                  alt={`Professional house cleaning service in ${area.name}`}
+                  src={`/images/areas/${area.slug}.png`}
+                  alt={`${area.name} neighbourhood, served by Portuguese Housekeeping Services`}
                   fill
                   className="object-cover"
                 />
