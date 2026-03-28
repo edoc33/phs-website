@@ -29,7 +29,7 @@ export default function AboutPage() {
           </div>
           <div className="lg:col-span-4 lg:col-start-9 animate-fade-up-3">
             <div className="relative w-full aspect-[3/4]">
-              <Image src="/images/denise-secondary.png" alt="Denise, owner of Portuguese Housekeeping Services" fill className="object-cover" priority />
+              <Image src="/images/denise-hero.png" alt="Denise, owner of Portuguese Housekeeping Services" fill className="object-cover" priority />
             </div>
           </div>
         </div>
