@@ -17,12 +17,12 @@ export default function AboutPage() {
             Our Story
           </span>
           <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal max-w-3xl">
-            The Story Behind <em className="text-gold font-normal">PHS</em>
+            Meet <em className="text-gold font-normal">Denise</em>
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-xl">
-            Over thirty years ago, one family told another about us.
-            Then that family told a friend. We&apos;ve never advertised.
-            Every client we&apos;ve ever had came through a referral.
+            She joined PHS over 30 years ago. Learned every corner of the
+            business. Then took it over. Today, she still personally oversees
+            every client relationship.
           </p>
         </div>
       </section>
@@ -35,14 +35,14 @@ export default function AboutPage() {
             <div className="lg:col-span-7">
               <span className="label-upper text-gold block mb-6">The Beginning</span>
               <h2 className="font-serif fluid-subheading text-primary font-normal mb-10">
-                Built on referrals. Run by family.
+                Built on referrals. Run by Denise.
               </h2>
               <div className="space-y-7 text-on-surface-variant text-[1.05rem] leading-relaxed max-w-xl">
                 <p>
-                  Portuguese Housekeeping Services started the way the best
-                  businesses do: one satisfied client telling a friend. For three
-                  decades, we grew entirely through word of mouth, never once
-                  needing to advertise.
+                  Denise joined Portuguese Housekeeping Services over 30 years
+                  ago and learned the business from the ground up. She got to
+                  know every client, every home, and every detail that mattered
+                  to each family. Then she took over the company.
                 </p>
                 <p>
                   That track record is our proudest achievement. When people trust
@@ -85,7 +85,7 @@ export default function AboutPage() {
           <div className="max-w-2xl">
             <span className="label-upper text-gold block mb-6">The Person Behind PHS</span>
             <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-              Meet Denise
+              Owner &amp; Operator
             </h2>
             <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed">
               <p>

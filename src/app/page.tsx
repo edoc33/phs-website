@@ -10,14 +10,14 @@ function Hero() {
             Est. 1994 &middot; Toronto &amp; Mississauga
           </span>
           <h1 className="animate-fade-up-1 font-serif fluid-display text-primary font-normal leading-none">
-            A cleaner home.
+            Tired of cleaning services
             <br />
-            <em className="text-gold font-normal">Every single</em> week.
+            <em className="text-gold font-normal">you can&apos;t rely on?</em>
           </h1>
           <p className="animate-fade-up-2 text-on-surface-variant text-lg leading-relaxed mt-10 max-w-md">
-            Portuguese Housekeeping Services has cleaned homes in Toronto
-            and Mississauga for over 30 years. Every client came from a
-            referral. We show up, do thorough work, and earn that trust.
+            Denise has run PHS for 30 years. She knows every client by name.
+            The same team shows up every visit. That&apos;s why every client
+            we&apos;ve ever had came from a referral.
           </p>
           <div className="animate-fade-up-3 mt-12 flex flex-wrap items-center gap-6">
             <Link
@@ -31,7 +31,7 @@ function Hero() {
               className="font-serif text-primary text-base flex items-center gap-2 group"
             >
               <span className="border-b border-on-surface-variant/30 group-hover:border-primary transition-colors pb-0.5">
-                Our Story
+                Meet Denise
               </span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -50,6 +50,7 @@ function Hero() {
               <p className="font-serif text-primary text-lg italic leading-snug">
                 &ldquo;If I wouldn&apos;t be happy with it in my own home, it&apos;s not done.&rdquo;
               </p>
+              <span className="label-upper text-on-surface-variant/60 block mt-3">&mdash; Denise, Owner</span>
             </div>
           </div>
         </div>
@@ -143,27 +144,28 @@ function ArchitectureSection() {
 
           {/* Text */}
           <div className="lg:col-span-6 lg:col-start-7 order-1 lg:order-2">
-            <span className="label-upper text-gold block mb-5">How We Work</span>
+            <span className="label-upper text-gold block mb-5">What Makes Us Different</span>
             <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-              We do the work
+              Denise runs this company.
               <br />
-              <em className="text-on-surface-variant font-normal">you don&apos;t want to do.</em>
+              <em className="text-on-surface-variant font-normal">She knows your name.</em>
             </h2>
             <div className="space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed max-w-lg">
               <p>
-                One satisfied client told a friend. That friend told another.
-                For thirty years, that&apos;s been our only marketing.
+                You don&apos;t have to manage your cleaner. You don&apos;t have
+                to re-explain what you need. You don&apos;t have to worry about
+                who&apos;s coming into your home.
               </p>
               <p>
-                Denise owns and runs PHS. She knows every client by name.
+                Denise personally knows every client and every home we clean.
                 The team is small, trained, and consistent. Same people
                 in your home, every visit.
               </p>
             </div>
             <div className="mt-14 pl-8 border-l-2 border-gold/40">
               <p className="font-serif italic text-xl text-primary leading-snug">
-                &ldquo;That trust is our proudest achievement. No marketing
-                budget can buy what thirty years of referrals have built.&rdquo;
+                &ldquo;We&apos;ve never had to advertise. Every client came
+                through someone who already trusted us.&rdquo;
               </p>
             </div>
           </div>
@@ -223,7 +225,7 @@ function FactsSection() {
           <div className="lg:col-span-6">
             <span className="label-upper text-gold block mb-5">By the Numbers</span>
             <h2 className="font-serif fluid-heading text-primary font-normal mb-10">
-              The record speaks for itself.
+              We let the numbers do the talking.
             </h2>
             <p className="text-on-surface-variant text-[1.05rem] leading-relaxed max-w-md">
               We never advertised. For thirty years, every new client came
@@ -257,7 +259,7 @@ function CtaSection() {
     <section className="py-36 bg-surface">
       <div className="max-w-screen-2xl mx-auto px-8">
         <div className="max-w-2xl">
-          <span className="label-upper text-on-surface-variant/50 block mb-5">Begin</span>
+          <span className="label-upper text-on-surface-variant/50 block mb-5">Get Started</span>
           <h2 className="font-serif fluid-heading text-primary font-normal mb-6">
             See what a real clean feels like.
           </h2>

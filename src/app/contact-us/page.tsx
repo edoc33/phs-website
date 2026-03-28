@@ -32,7 +32,7 @@ export default function ContactPage() {
             <div className="lg:col-span-7 space-y-16">
               {/* Phone — hero-scale */}
               <div>
-                <span className="label-upper text-gold block mb-5">Call Us Directly</span>
+                <span className="label-upper text-gold block mb-5">Call Us</span>
                 <a
                   href="tel:+19055011509"
                   className="inline-block font-serif text-primary hover:text-gold transition-colors duration-300"

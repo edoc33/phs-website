@@ -241,13 +241,13 @@ export default function RequestCallBackPage() {
             <div className="image-placeholder aspect-[4/3] w-full" />
           </div>
           <div className="lg:col-span-6 lg:col-start-7">
-            <span className="label-upper text-gold block mb-5">Our Story</span>
+            <span className="label-upper text-gold block mb-5">Why PHS</span>
             <h2 className="font-serif fluid-subheading font-normal mb-8">
-              30 years. One referral at a time.
+              Owner-operated since 1994.
             </h2>
             <p className="text-primary-fixed-dim/50 text-[1.05rem] leading-relaxed mb-12">
-              Every client we&apos;ve ever had came through someone who trusted us
-              with their home first. We plan to keep it that way.
+              Denise has run PHS for over 30 years. She personally knows every
+              client. The same team shows up every visit. That&apos;s the difference.
             </p>
             <div className="flex gap-16">
               <div>
