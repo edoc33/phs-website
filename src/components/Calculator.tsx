@@ -6,53 +6,40 @@ import { trackEvent } from "@/lib/analytics";
 
 const HOURLY_RATE = 45;
 const MIN_HOURS = 3;
-
-const ROOM_MINUTES: Record<string, { label: string; minutes: number }> = {
-  bathrooms: { label: "Bathrooms", minutes: 35 },
-  kitchens: { label: "Kitchens", minutes: 45 },
-  bedrooms: { label: "Bedrooms", minutes: 22 },
-  livingRooms: { label: "Living / Family Rooms", minutes: 28 },
-  diningRooms: { label: "Dining Rooms", minutes: 18 },
-  hallways: { label: "Hallways / Entryways", minutes: 12 },
-  laundryRooms: { label: "Laundry Rooms", minutes: 12 },
-};
-
-type RoomCounts = Record<string, number>;
+const MINUTES_PER_SQFT = 0.08;
+const BATHROOM_MINUTES = 30;
+const BEDROOM_MINUTES = 5;
+const SQFT_MIN = 400;
+const SQFT_MAX = 5000;
+const SQFT_STEP = 100;
+const SQFT_DEFAULT = 1200;
 
 export function Calculator({ source = "standalone" }: { source?: string }) {
-  const [rooms, setRooms] = useState<RoomCounts>({
-    bathrooms: 1,
-    kitchens: 1,
-    bedrooms: 2,
-    livingRooms: 1,
-    diningRooms: 0,
-    hallways: 1,
-    laundryRooms: 0,
-  });
+  const [sqft, setSqft] = useState(SQFT_DEFAULT);
+  const [bedrooms, setBedrooms] = useState(2);
+  const [bathrooms, setBathrooms] = useState(1);
   const [cleanType, setCleanType] = useState<"standard" | "deep">("standard");
   const [firstVisit, setFirstVisit] = useState(true);
   const [hasPets, setHasPets] = useState(false);
   const [condition, setCondition] = useState<"regular" | "while" | "long">("regular");
   const [showResult, setShowResult] = useState(false);
 
-  function updateRoom(key: string, delta: number) {
-    setRooms((prev) => ({
-      ...prev,
-      [key]: Math.max(0, Math.min(10, (prev[key] || 0) + delta)),
-    }));
+  function adjustCounter(setter: (fn: (v: number) => number) => void, delta: number, min = 0, max = 10) {
+    setter((prev) => Math.max(min, Math.min(max, prev + delta)));
     setShowResult(false);
   }
 
   function calculate() {
-    let totalMinutes = 0;
-    for (const [key, count] of Object.entries(rooms)) {
-      totalMinutes += count * (ROOM_MINUTES[key]?.minutes || 0);
-    }
-    if (cleanType === "deep") totalMinutes *= 1.4;
+    let totalMinutes =
+      sqft * MINUTES_PER_SQFT +
+      bathrooms * BATHROOM_MINUTES +
+      bedrooms * BEDROOM_MINUTES;
+
+    if (cleanType === "deep") totalMinutes *= 1.35;
     if (condition === "while") totalMinutes *= 1.2;
     else if (condition === "long") totalMinutes *= 1.35;
     if (hasPets) totalMinutes *= 1.15;
-    if (firstVisit) totalMinutes *= 1.25;
+    if (firstVisit) totalMinutes *= 1.2;
     totalMinutes *= 1.10; // conservative buffer
 
     const hours = totalMinutes / 60;
@@ -69,7 +56,9 @@ export function Calculator({ source = "standalone" }: { source?: string }) {
       firstVisit: firstVisit ? "yes" : "no",
       hasPets: hasPets ? "yes" : "no",
       condition,
-      totalRooms: String(Object.values(rooms).reduce((a, b) => a + b, 0)),
+      sqft: String(sqft),
+      bedrooms: String(bedrooms),
+      bathrooms: String(bathrooms),
     });
   }
 
@@ -77,24 +66,50 @@ export function Calculator({ source = "standalone" }: { source?: string }) {
 
   return (
     <div>
-      {/* Room counts */}
+      {/* Square footage */}
       <div className="mb-12">
         <span className="label-upper text-gold block mb-6">Your Home</span>
+
+        <div className="mb-8">
+          <div className="flex items-baseline justify-between mb-4">
+            <span className="text-on-surface text-[0.95rem]">Approximate Square Footage</span>
+            <span className="font-serif text-primary text-lg">{sqft.toLocaleString()} sq ft</span>
+          </div>
+          <input
+            type="range"
+            min={SQFT_MIN}
+            max={SQFT_MAX}
+            step={SQFT_STEP}
+            value={sqft}
+            onChange={(e) => { setSqft(Number(e.target.value)); setShowResult(false); }}
+            className="w-full accent-gold h-2 cursor-pointer"
+            aria-label="Square footage"
+          />
+          <div className="flex justify-between text-on-surface-variant/50 text-xs mt-2">
+            <span>{SQFT_MIN.toLocaleString()}</span>
+            <span>{SQFT_MAX.toLocaleString()}</span>
+          </div>
+        </div>
+
+        {/* Bedrooms & Bathrooms */}
         <div className="space-y-4">
-          {Object.entries(ROOM_MINUTES).map(([key, { label }]) => (
-            <div key={key} className="flex items-center justify-between py-3 border-b border-surface-high">
+          {([
+            { label: "Bedrooms", value: bedrooms, setter: setBedrooms },
+            { label: "Bathrooms", value: bathrooms, setter: setBathrooms },
+          ] as const).map(({ label, value, setter }) => (
+            <div key={label} className="flex items-center justify-between py-3 border-b border-surface-high">
               <span className="text-on-surface text-[0.95rem]">{label}</span>
               <div className="flex items-center gap-4">
                 <button
-                  onClick={() => updateRoom(key, -1)}
+                  onClick={() => adjustCounter(setter, -1)}
                   className="w-9 h-9 rounded-full bg-surface-mid text-on-surface-variant flex items-center justify-center hover:bg-surface-high transition-colors text-lg"
                   aria-label={`Decrease ${label}`}
                 >
                   -
                 </button>
-                <span className="font-serif text-primary text-lg w-6 text-center">{rooms[key]}</span>
+                <span className="font-serif text-primary text-lg w-6 text-center">{value}</span>
                 <button
-                  onClick={() => updateRoom(key, 1)}
+                  onClick={() => adjustCounter(setter, 1)}
                   className="w-9 h-9 rounded-full bg-surface-mid text-on-surface-variant flex items-center justify-center hover:bg-surface-high transition-colors text-lg"
                   aria-label={`Increase ${label}`}
                 >

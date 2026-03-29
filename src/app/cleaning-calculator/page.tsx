@@ -41,9 +41,9 @@ export default function CleaningCalculatorPage() {
           </span>
           <div className="space-y-5 text-on-surface-variant text-[0.95rem] leading-relaxed">
             <p>
-              We estimate the time based on the number and type of rooms in your
-              home. Bathrooms and kitchens take the most time. Bedrooms and
-              hallways are quicker.
+              We start with the square footage of your home. Larger spaces take
+              more time to clean. Bathrooms get extra time because of the
+              fixtures, tiles, and detail work involved.
             </p>
             <p>
               The estimate includes extra time for first visits, because your
@@ -52,7 +52,7 @@ export default function CleaningCalculatorPage() {
               is always a bit longer. After that, things move faster.
             </p>
             <p>
-              Deep cleans take about 40% longer than a standard clean because we
+              Deep cleans take about 35% longer than a standard clean because we
               go inside the oven, behind the furniture, and into the window
               tracks.
             </p>
