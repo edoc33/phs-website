@@ -1,0 +1,38 @@
+name: PHS Content Listener
+
+on:
+  schedule:
+    # 13:00 UTC Monday = 9am EDT (10am EST after DST ends). GitHub can delay ~15 min.
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate drafts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/phs-content-listener.mjs
+
+      - name: Open draft PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: content/phs-drafts-${{ github.run_id }}
+          commit-message: "content: weekly PHS drafts"
+          title: "PHS drafts — week of ${{ github.run_id }}"
+          body-path: draft-summary.md
+          add-paths: |
+            drafts/journal/**
+          delete-branch: true
+          draft: true
