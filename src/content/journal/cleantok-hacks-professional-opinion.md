@@ -1,4 +1,3 @@
-```markdown
 ---
 title: A Professional Cleaner's Take on TikTok Cleaning Hacks
 description: CleanTok is full of clever ideas. Some work. Some make more mess than they fix. After 30 years cleaning homes in Toronto and Mississauga, here's what I actually think.
@@ -40,4 +39,3 @@ The hacks that go viral are usually shortcuts. Sometimes shortcuts work fine. So
 If you're watching cleaning videos at 11pm because your house has gotten away from you, that's a sign. Some people want to learn how to clean. Some people just want it done.
 
 There's no shame in either one. Portuguese Housekeeping Services has been helping families in Toronto and Mississauga since the early 1990s. If you want someone reliable who shows up and does the job right, give us a call.
-```

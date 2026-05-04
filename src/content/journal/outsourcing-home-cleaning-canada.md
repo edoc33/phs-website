@@ -1,8 +1,7 @@
-```markdown
 ---
 title: More Canadians Want to Outsource Cleaning. Here's How to Think It Through.
 description: A recent poll found cleaning and laundry top the list of chores Canadians want someone else to handle. If you're thinking about making that call, here's what's worth knowing first.
-date: 2026-05-11
+date: 2026-05-04
 ---
 
 A recent Toronto Sun poll found that cleaning and laundry are the household chores Canadians most want to hand off to someone else. That's not surprising. What surprises people is how long they wait before actually doing it.
@@ -48,4 +47,3 @@ Ask if you'll have the same person each visit. Ask what happens if something get
 ## One last thing
 
 If you've been putting this off because life is busy, that's exactly why people call. Portuguese Housekeeping Services has worked with families across Toronto and Mississauga for over 30 years. Same cleaner, every visit. Call us and we'll figure out what works for your home.
-```
