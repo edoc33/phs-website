@@ -63,35 +63,6 @@ export const services: ServiceData[] = [
     duration:
       "It depends on the size and condition of your home, but a deep clean usually takes 4 to 6 hours for a 3-bedroom house.",
   },
-  {
-    slug: "move-in-move-out",
-    name: "Move-In / Move-Out",
-    headline: "Move-In and Move-Out Cleaning",
-    metaTitle: "Move-In and Move-Out Cleaning in Toronto and Mississauga",
-    metaDescription:
-      "Move-in and move-out cleaning in Toronto and Mississauga. Wall-to-wall detail, inside every cabinet, deep oven cleaning, and full bathroom scrub. $45 per hour.",
-    description:
-      "Whether you are moving in or moving out, this is a wall-to-wall clean designed to leave the home spotless for the next person or for you. Every surface, every cabinet, every corner.",
-    inclusions: [
-      "Inside all cabinets and closets",
-      "Deep oven and stovetop cleaning",
-      "Full bathroom scrub including tile and grout",
-      "Window tracks and sills",
-      "Baseboards, door frames, and switch plates",
-      "All floors vacuumed and mopped",
-      "Light fixtures and ceiling fans",
-      "Interior windows if accessible",
-    ],
-    bestFor: [
-      "Renters preparing for a lease end or move-in inspection",
-      "Home sellers getting ready for showings or closing",
-      "New homeowners who want a fresh start",
-    ],
-    blogLink: {
-      href: "/journal/move-in-cleaning-guide-gta",
-      label: "Read our move-in cleaning guide",
-    },
-  },
 ];
 
 export function getServiceBySlug(slug: string): ServiceData | undefined {

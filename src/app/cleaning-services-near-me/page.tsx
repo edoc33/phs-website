@@ -63,14 +63,6 @@ const localBusinessJsonLd = {
           description: "Thorough reset that reaches every corner, baseboard, and light fixture.",
         },
       },
-      {
-        "@type": "Offer",
-        itemOffered: {
-          "@type": "Service",
-          name: "Move-In / Move-Out Cleaning",
-          description: "Comprehensive wall-to-wall cleaning for new or departing occupants.",
-        },
-      },
     ],
   },
 };

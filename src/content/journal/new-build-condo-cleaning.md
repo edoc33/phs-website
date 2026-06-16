@@ -38,4 +38,4 @@ It's a lot of work. But you only need to do it once. The process is similar to a
 
 Some builders include a cleaning before handover. In my experience, those cleans are surface-level at best. They wipe what's visible and move on. They don't open cabinets, clean vents, or deal with grout haze. Don't assume your unit is clean because the builder said it was.
 
-If you'd rather not spend your first day in your new home on your hands and knees, Portuguese Housekeeping Services does move-in cleans for new condos across Toronto and Mississauga. Give us a call and we'll do it right.
+If you'd rather not spend your first day in your new home on your hands and knees, use the checklist above before the boxes arrive. Doing the messy work while the unit is still empty makes the whole move feel easier.

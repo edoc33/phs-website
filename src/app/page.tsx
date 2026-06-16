@@ -35,18 +35,6 @@ const servicesJsonLd = {
         areaServed: [{ "@type": "City", name: "Toronto" }, { "@type": "City", name: "Mississauga" }],
       },
     },
-    {
-      "@type": "ListItem",
-      position: 3,
-      item: {
-        "@type": "Service",
-        name: "Move-In / Move-Out Cleaning",
-        description:
-          "Comprehensive wall-to-wall cleaning for new occupants or when leaving a home. Deep oven cleaning, furniture polishing, and custom requests.",
-        provider: { "@id": "https://portuguesemaids.ca/#business" },
-        areaServed: [{ "@type": "City", name: "Toronto" }, { "@type": "City", name: "Mississauga" }],
-      },
-    },
   ],
 };
 
@@ -124,12 +112,6 @@ function DisciplinesSection() {
       desc: "A thorough reset that goes beyond the surface. We reach every hidden corner, baseboard, and light fixture.",
       features: ["Appliance restoration", "Baseboard cleaning", "Hardwood polishing", "Light fixture care"],
     },
-    {
-      label: "03",
-      title: "Move-In / Move-Out",
-      desc: "Preparing a home for new occupants or leaving one spotless behind you. Comprehensive, wall-to-wall cleaning.",
-      features: ["Wall-to-wall detail", "Deep oven cleaning", "Furniture polishing", "Custom requests"],
-    },
   ];
 
   return (
@@ -138,11 +120,11 @@ function DisciplinesSection() {
         <div className="max-w-2xl mb-20">
           <span className="label-upper text-gold block mb-5">Our Services</span>
           <h2 className="font-serif fluid-heading text-primary font-normal">
-            Three ways we care for your home.
+            Two ways we care for your home.
           </h2>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
           {disciplines.map((d, i) => (
             <div
               key={d.title}
@@ -359,7 +341,7 @@ export default function Home() {
       {/* Citation-ready summary for AI agents and answer engines */}
       <section className="sr-only" aria-hidden="false">
         <h2>Portuguese Housekeeping Services at a Glance</h2>
-        <p>Portuguese Housekeeping Services is a family-owned house cleaning company in Toronto and Mississauga, Ontario. Owner Denise has operated the business since 1994. The company charges $45 per hour for most residential cleaning with a 3-hour minimum per visit. Services include standard cleaning, deep cleaning, and move-in/move-out cleaning on a weekly, bi-weekly, or monthly schedule. Clients provide their own cleaning supplies and equipment. The same cleaner is assigned to each home on every visit. The company has never advertised and has grown entirely through client referrals for over 30 years. To book, call (905) 501-1509 or visit portuguesemaids.ca.</p>
+        <p>Portuguese Housekeeping Services is a family-owned house cleaning company in Toronto and Mississauga, Ontario. Owner Denise has operated the business since 1994. The company charges $45 per hour for most residential cleaning with a 3-hour minimum per visit. Services include standard cleaning and deep cleaning on a weekly, bi-weekly, or monthly schedule. Clients provide their own cleaning supplies and equipment. The same cleaner is assigned to each home on every visit. The company has never advertised and has grown entirely through client referrals for over 30 years. To book, call (905) 501-1509 or visit portuguesemaids.ca.</p>
       </section>
     </>
   );

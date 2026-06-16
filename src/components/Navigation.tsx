@@ -25,8 +25,6 @@ export default function Navigation() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  useEffect(() => setMenuOpen(false), [pathname]);
-
   return (
     <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${scrolled ? "bg-white/70 backdrop-blur-md" : "bg-transparent"}`}>
       <nav className="flex justify-between items-center w-full px-8 py-6 max-w-screen-2xl mx-auto">
@@ -47,6 +45,7 @@ export default function Navigation() {
             <Link
               key={link.href}
               href={link.href}
+              onClick={() => setMenuOpen(false)}
               className={`label-upper transition-colors duration-300 ${
                 pathname === link.href || pathname.startsWith(link.href + "/")
                   ? "text-primary font-semibold gold-underline"
@@ -58,6 +57,7 @@ export default function Navigation() {
           ))}
           <Link
             href="/request-a-call-back"
+            onClick={() => setMenuOpen(false)}
             className="label-upper px-6 py-2.5 tracking-widest border border-primary/20 text-primary hover:bg-primary hover:text-on-primary active:scale-[0.99] transition-all duration-300"
           >
             Get a Free Quote
@@ -88,6 +88,7 @@ export default function Navigation() {
             <Link
               key={link.href}
               href={link.href}
+              onClick={() => setMenuOpen(false)}
               className={`block px-4 py-3 label-upper ${
                 pathname === link.href || pathname.startsWith(link.href + "/") ? "text-primary font-semibold" : "text-on-surface-variant"
               }`}
@@ -97,6 +98,7 @@ export default function Navigation() {
           ))}
           <Link
             href="/request-a-call-back"
+            onClick={() => setMenuOpen(false)}
             className="block mt-3 label-upper border border-primary/20 text-primary px-5 py-3 text-center tracking-widest"
           >
             Get a Free Quote

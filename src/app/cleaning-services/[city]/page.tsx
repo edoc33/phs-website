@@ -101,17 +101,6 @@ export default async function CityPage({ params }: Props) {
         "Light fixture care",
       ],
     },
-    {
-      label: "03",
-      title: "Move-In / Move-Out",
-      desc: "Preparing a home for new occupants or leaving one spotless behind you. Comprehensive, wall-to-wall cleaning.",
-      features: [
-        "Wall-to-wall detail",
-        "Deep oven cleaning",
-        "Furniture polishing",
-        "Custom requests",
-      ],
-    },
   ];
 
   return (
@@ -211,7 +200,7 @@ export default async function CityPage({ params }: Props) {
               What we offer in {area.name}.
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
             {services.map((s, i) => (
               <div
                 key={s.title}

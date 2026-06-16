@@ -59,4 +59,4 @@ Hiring someone means you walk into a place that is actually ready. Cabinets wipe
 
 Moving is stressful enough. Starting in a clean home makes everything else easier. Whether you handle it yourself or bring in help, don't skip this step.
 
-We've been helping GTA families move into clean homes for over 30 years. If you want your new place done right before you unpack, give us a call.
+The best time to do this work is before you unpack. Once the boxes are open and the furniture is in place, the same clean takes twice as long.

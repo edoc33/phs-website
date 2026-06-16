@@ -48,7 +48,6 @@ export default function Footer() {
               {[
                 { href: "/spring-cleaning", label: "Spring Cleaning" },
                 { href: "/holiday-cleaning", label: "Holiday Cleaning" },
-                { href: "/move-out-cleaning-toronto", label: "Move-Out Cleaning" },
               ].map((link) => (
                 <li key={link.href}>
                   <Link href={link.href} className="text-sm text-white/40 hover:text-gold transition-colors duration-200">

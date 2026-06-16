@@ -46,7 +46,7 @@ export default function NotFound() {
                 href: "/services/standard-cleaning",
                 label: "03",
                 title: "Our Services",
-                desc: "Standard cleaning, deep cleaning, and move-in/move-out.",
+                desc: "Standard cleaning and deep cleaning for recurring home care.",
               },
               {
                 href: "/cleaning-calculator",

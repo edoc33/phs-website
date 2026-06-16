@@ -130,7 +130,7 @@ export default function HolidayCleaningPage() {
           </div>
           <div className="max-w-2xl space-y-6 text-on-surface-variant text-[1.05rem] leading-relaxed">
             <p>
-              Thanksgiving, Christmas, New Year's. Three hosting events in six
+              Thanksgiving, Christmas, New Year&apos;s. Three hosting events in six
               weeks. Everyone wants a clean before the first one and a reset
               after the last one.
             </p>
