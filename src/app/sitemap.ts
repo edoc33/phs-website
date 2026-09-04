@@ -7,29 +7,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://portuguesemaids.ca";
 
   const staticPages: MetadataRoute.Sitemap = [
-    { url: baseUrl, lastModified: new Date(), changeFrequency: "monthly", priority: 1.0 },
-    { url: `${baseUrl}/about-us`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
-    { url: `${baseUrl}/contact-us`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
-    { url: `${baseUrl}/request-a-call-back`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
-    { url: `${baseUrl}/journal`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
-    { url: `${baseUrl}/cleaning-services`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.9 },
-    { url: `${baseUrl}/pricing`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
-    { url: `${baseUrl}/cleaning-services-near-me`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.9 },
-    { url: `${baseUrl}/spring-cleaning`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
-    { url: `${baseUrl}/holiday-cleaning`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
-    { url: `${baseUrl}/cleaning-calculator`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
+    { url: baseUrl, changeFrequency: "monthly", priority: 1.0 },
+    { url: `${baseUrl}/about-us`, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${baseUrl}/contact-us`, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${baseUrl}/request-a-call-back`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${baseUrl}/journal`, changeFrequency: "weekly", priority: 0.7 },
+    { url: `${baseUrl}/cleaning-services`, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${baseUrl}/pricing`, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${baseUrl}/cleaning-services-near-me`, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${baseUrl}/spring-cleaning`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${baseUrl}/holiday-cleaning`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${baseUrl}/cleaning-calculator`, changeFrequency: "monthly", priority: 0.8 },
   ];
 
   const cityPages: MetadataRoute.Sitemap = serviceAreas.map((area) => ({
     url: `${baseUrl}/cleaning-services/${area.slug}`,
-    lastModified: new Date(),
     changeFrequency: "monthly" as const,
     priority: 0.9,
   }));
 
   const servicePages: MetadataRoute.Sitemap = services.map((s) => ({
     url: `${baseUrl}/services/${s.slug}`,
-    lastModified: new Date(),
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));
