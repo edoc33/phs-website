@@ -64,18 +64,63 @@ function readExistingSlugs() {
     .map(f => f.replace(/\.md$/, ""));
 }
 
+// One entry per source fetch, in call order. The fetchers still return a plain
+// array (empty on failure). This only records why, so a run that fetches
+// nothing can say which sources failed and how.
+const sourceResults = [];
+
+function trackSource(name) {
+  const result = { name, count: 0, error: "" };
+  sourceResults.push(result);
+  return result;
+}
+
+function sourceFailed(result, reason) {
+  result.error = reason;
+  console.warn(`[phs-content] source ${result.name} failed: ${reason}`);
+  return [];
+}
+
+// Short one-line description of a fetch or parse exception. Node reports
+// network failures as "fetch failed" with the real reason on e.cause.
+// A JSON parse error quotes a few bytes of the remote body, so the text is
+// reduced to printable ASCII and "##[" is broken up: the Actions runner also
+// reads the older "##[command]" form as a workflow command.
+function describeError(e) {
+  const cause = e?.cause?.code || e?.cause?.message;
+  const text = `${e?.name || "Error"}: ${e?.message ?? e}${cause ? ` (${cause})` : ""}`;
+  // Cut first: the replacements below need not see more than they can print.
+  return text
+    .slice(0, 1000)
+    .replace(/[^\x20-\x7e]+/g, " ")
+    .replace(/#+\[/g, "#[")
+    .replace(/ +/g, " ")
+    .slice(0, 160);
+}
+
+// GitHub Actions error annotation (a workflow command on stdout). The message
+// is kept to one line with "%" escaped, as the command format requires.
+// The title must be plain text with no "::", "," or newline.
+function ghaError(title, message) {
+  const data = String(message).replace(/\s+/g, " ").replace(/%/g, "%25");
+  console.log(`::error title=${title}::${data}`);
+}
+
 async function fetchReddit(subreddit, query, sort = "new", time = "week") {
   const url = query
     ? `https://www.reddit.com/r/${subreddit}/search.json?q=${encodeURIComponent(query)}&sort=${sort}&t=${time}&limit=15&restrict_sr=on`
     : `https://www.reddit.com/r/${subreddit}/top.json?t=${time}&limit=15`;
+  // Several queries hit the same subreddit, so the label carries the start of the query.
+  const label = query ? `search "${query.length > 24 ? `${query.slice(0, 24)}...` : query}"` : "top";
+  const result = trackSource(`r/${subreddit} ${label}`);
   try {
     const resp = await fetch(url, {
       headers: { "User-Agent": "PHS-Content-Listener/1.0 (github-actions)" },
       signal: AbortSignal.timeout(20000),
     });
-    if (!resp.ok) return [];
+    if (!resp.ok) return sourceFailed(result, `HTTP ${resp.status}`);
     const data = await resp.json();
-    return (data.data?.children || []).map(c => ({
+    const items = (data.data?.children || []).map(c => ({
       source: `r/${subreddit}`,
       title: c.data.title,
       score: c.data.score,
@@ -83,15 +128,18 @@ async function fetchReddit(subreddit, query, sort = "new", time = "week") {
       url: `https://reddit.com${c.data.permalink}`,
       selftext: (c.data.selftext || "").slice(0, 300),
     }));
-  } catch {
-    return [];
+    result.count = items.length;
+    return items;
+  } catch (e) {
+    return sourceFailed(result, describeError(e));
   }
 }
 
 async function fetchRSS(url, sourceName) {
+  const result = trackSource(sourceName);
   try {
     const resp = await fetch(url, { signal: AbortSignal.timeout(20000) });
-    if (!resp.ok) return [];
+    if (!resp.ok) return sourceFailed(result, `HTTP ${resp.status}`);
     const xml = await resp.text();
     const items = [];
     const cdata = /<item>[\s\S]*?<title><!\[CDATA\[(.*?)\]\]><\/title>[\s\S]*?<link>(.*?)<\/link>[\s\S]*?<\/item>/g;
@@ -103,9 +151,11 @@ async function fetchRSS(url, sourceName) {
         items.push({ source: sourceName, title: m[1].replace(/<!\[CDATA\[|\]\]>/g, ""), url: m[2] });
       }
     }
-    return items.slice(0, 10);
-  } catch {
-    return [];
+    const top = items.slice(0, 10);
+    result.count = top.length;
+    return top;
+  } catch (e) {
+    return sourceFailed(result, describeError(e));
   }
 }
 
@@ -127,7 +177,9 @@ async function callClaude(systemPrompt, userPrompt, maxTokens = 8192) {
   });
   if (!resp.ok) {
     const err = await resp.text();
-    throw new Error(`Claude API ${resp.status}: ${err.slice(0, 500)}`);
+    const failure = new Error(`Claude API ${resp.status}: ${err.slice(0, 500)}`);
+    failure.status = resp.status;
+    throw failure;
   }
   const data = await resp.json();
   return data.content[0].text;
@@ -179,8 +231,16 @@ async function main() {
     .flatMap(r => r.value);
 
   console.log(`[phs-content] fetched ${allSources.length} raw items`);
+  for (const s of sourceResults) {
+    console.log(`[phs-content]   ${s.name}: ${s.error ? `failed (${s.error})` : `${s.count} items`}`);
+  }
   if (allSources.length === 0) {
     console.error("No sources fetched. Reddit/RSS all failed.");
+    const detail = sourceResults.map(s => `${s.name}: ${s.error || "OK but 0 items"}`).join("; ");
+    ghaError(
+      "No content sources fetched",
+      `All ${sourceResults.length} sources returned no items, so no drafts were generated. ${detail}`
+    );
     process.exit(2);
   }
 
@@ -279,6 +339,19 @@ Write a Google Business Profile post (2-3 sentences max, under 300 characters) b
     response = await callClaude(systemPrompt, userPrompt);
   } catch (e) {
     console.error("Claude call failed:", e.message);
+    if (e.status === 401) {
+      ghaError(
+        "ANTHROPIC_API_KEY rejected",
+        `The Anthropic API rejected the ANTHROPIC_API_KEY repository secret (HTTP 401), so no drafts were generated. Replace the secret with a valid key under repository Settings > Secrets and variables > Actions, then run this workflow again. The API's own reason is in the "Claude call failed" log line.`
+      );
+    } else if (e.status === 403) {
+      // 403 is a permission error: the key was read, so a new key from the
+      // same organization or workspace would be refused the same way.
+      ghaError(
+        "Anthropic API permission denied",
+        `The Anthropic API refused the request with HTTP 403, so no drafts were generated. The key was accepted, but its organization or workspace is not allowed to make this call, or an access or region restriction applies. Check the key's workspace and access in the Anthropic Console. The API's own reason is in the "Claude call failed" log line.`
+      );
+    }
     process.exit(4);
   }
 
