@@ -83,10 +83,17 @@ function sourceFailed(result, reason) {
 
 // Short one-line description of a fetch or parse exception. Node reports
 // network failures as "fetch failed" with the real reason on e.cause.
+// A JSON parse error quotes a few bytes of the remote body, so the text is
+// reduced to printable ASCII and "##[" is broken up: the Actions runner also
+// reads the older "##[command]" form as a workflow command.
 function describeError(e) {
   const cause = e?.cause?.code || e?.cause?.message;
   const text = `${e?.name || "Error"}: ${e?.message ?? e}${cause ? ` (${cause})` : ""}`;
-  return text.replace(/\s+/g, " ").slice(0, 160);
+  return text
+    .replace(/[^\x20-\x7e]+/g, " ")
+    .replace(/#+\[/g, "#[")
+    .replace(/ +/g, " ")
+    .slice(0, 160);
 }
 
 // GitHub Actions error annotation (a workflow command on stdout). The message
@@ -330,10 +337,17 @@ Write a Google Business Profile post (2-3 sentences max, under 300 characters) b
     response = await callClaude(systemPrompt, userPrompt);
   } catch (e) {
     console.error("Claude call failed:", e.message);
-    if (e.status === 401 || e.status === 403) {
+    if (e.status === 401) {
       ghaError(
         "ANTHROPIC_API_KEY rejected",
-        `The Anthropic API rejected the ANTHROPIC_API_KEY repository secret (HTTP ${e.status}), so no drafts were generated. Replace the secret with a valid key under repository Settings > Secrets and variables > Actions, then run this workflow again. The API's own reason is in the "Claude call failed" log line.`
+        `The Anthropic API rejected the ANTHROPIC_API_KEY repository secret (HTTP 401), so no drafts were generated. Replace the secret with a valid key under repository Settings > Secrets and variables > Actions, then run this workflow again. The API's own reason is in the "Claude call failed" log line.`
+      );
+    } else if (e.status === 403) {
+      // 403 is a permission error: the key was read, so a new key from the
+      // same organization or workspace would be refused the same way.
+      ghaError(
+        "Anthropic API permission denied",
+        `The Anthropic API refused the request with HTTP 403, so no drafts were generated. The key was accepted, but its organization or workspace is not allowed to make this call, or an access or region restriction applies. Check the key's workspace and access in the Anthropic Console. The API's own reason is in the "Claude call failed" log line.`
       );
     }
     process.exit(4);
