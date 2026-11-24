@@ -89,7 +89,9 @@ function sourceFailed(result, reason) {
 function describeError(e) {
   const cause = e?.cause?.code || e?.cause?.message;
   const text = `${e?.name || "Error"}: ${e?.message ?? e}${cause ? ` (${cause})` : ""}`;
+  // Cut first: the replacements below need not see more than they can print.
   return text
+    .slice(0, 1000)
     .replace(/[^\x20-\x7e]+/g, " ")
     .replace(/#+\[/g, "#[")
     .replace(/ +/g, " ")
